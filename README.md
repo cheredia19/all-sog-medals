@@ -84,3 +84,11 @@ description: ''
     url: 'berlin_1936.csv'
   }}
 />
+
+## Helsinki 1952
+
+<FlatUiTable
+  data={{
+    url: 'helsinki_1952.csv'
+  }}
+/>
