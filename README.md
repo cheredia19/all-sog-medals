@@ -60,3 +60,11 @@ description: ''
     url: 'paris_1924.csv'
   }}
 />
+
+## Amsterdam 1928
+
+<FlatUiTable
+  data={{
+    url: 'amsterdam_1928.csv'
+  }}
+/>
