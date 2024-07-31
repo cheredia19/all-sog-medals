@@ -5,16 +5,7 @@ description: ''
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
-
-
-<PlotlyBarChart
-  data={{
-    url: ''
-  }}
-  title=""
-  xAxis=""
-  yAxis=""
-/>
+## Athens 1896
 
 <FlatUiTable
   data={{
