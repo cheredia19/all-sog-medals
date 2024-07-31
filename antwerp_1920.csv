@@ -1,0 +1,458 @@
+discipline_title,slug_game,city_host,country_host,continent_host,event_title,event_gender,medal_type,participant_type,participant_title,athlete_url,athlete_full_name,country_name,country_code,country_3_letter_code
+Rugby,antwerp-1920,Antwerp,Belgium,Europe,rugby men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Rugby,antwerp-1920,Antwerp,Belgium,Europe,rugby men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,7257  7938kg lightheavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/edward-eagan,Edward EAGAN,United States of America,US,USA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,7257  7938kg lightheavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/sverre-sorsdal,Sverre SÖRSDAL,Norway,NO,NOR
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,7257  7938kg lightheavyweight men,Men,BRONZE,Athlete,,,Harry Franks,Great Britain,GB,GBR
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,508  5352kg bantamweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/clarence-leonard-walker,Clarence Leonard WALKER,South Africa,ZA,RSA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,508  5352kg bantamweight men,Men,SILVER,Athlete,,,Cliff Graham,Canada,CA,CAN
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,508  5352kg bantamweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/james-mckenzie-1,James MCKENZIE,Great Britain,GB,GBR
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,6668  7257kg middleweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-william-mallin,Harry William MALLIN,Great Britain,GB,GBR
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,6668  7257kg middleweight men,Men,SILVER,Athlete,,,Art Prud'homme,Canada,CA,CAN
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,6668  7257kg middleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/montgomery-hart-herscovitch,Montgomery Hart HERSCOVITCH,Canada,CA,CAN
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,5715  6124kg lightweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/samuel-mosberg,Samuel MOSBERG,United States of America,US,USA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,5715  6124kg lightweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/gotfred-johansen,Gotfred JOHANSEN,Denmark,DK,DEN
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,5715  6124kg lightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/clarence-newton,Clarence NEWTON,Canada,CA,CAN
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,5352  5715kg featherweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-fritsch,Paul FRITSCH,France,FR,FRA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,5352  5715kg featherweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jean-gachet,Jean GACHET,France,FR,FRA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,5352  5715kg featherweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/edoardo-garzena,Edoardo GARZENA,Italy,IT,ITA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,508kg flyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frank-di-genaro,Frank DI GENARO,United States of America,US,USA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,508kg flyweight men,Men,SILVER,Athlete,,,Anders Pedersen,Denmark,DK,DEN
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,508kg flyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-cuthbertson,William CUTHBERTSON,Great Britain,GB,GBR
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,6124  6668kg welterweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/julius-gustav-albert-schneider,Julius Gustav Albert SCHNEIDER,Canada,CA,CAN
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,6124  6668kg welterweight men,Men,SILVER,Athlete,,,Alex Ireland,Great Britain,GB,GBR
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,6124  6668kg welterweight men,Men,BRONZE,Athlete,,,Fred Kolberg,United States of America,US,USA
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,7938kg heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ronald-rawson,Ronald RAWSON,Great Britain,GB,GBR
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,7938kg heavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/soren-petersen,Sören PETERSEN,Denmark,DK,DEN
+Boxing,antwerp-1920,Antwerp,Belgium,Europe,7938kg heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/albert-xavier-eluere,Albert Xavier ELUERE,France,FR,FRA
+Cycling Road,antwerp-1920,Antwerp,Belgium,Europe,team time trial men,Men,GOLD,GameTeam,France team,,,France,FR,FRA
+Cycling Road,antwerp-1920,Antwerp,Belgium,Europe,team time trial men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Cycling Road,antwerp-1920,Antwerp,Belgium,Europe,team time trial men,Men,BRONZE,GameTeam,Belgium team,,,Belgium,BE,BEL
+Cycling Road,antwerp-1920,Antwerp,Belgium,Europe,individual time trial men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-stenqvist,Harry STENQVIST,Sweden,SE,SWE
+Cycling Road,antwerp-1920,Antwerp,Belgium,Europe,individual time trial men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henry-justaves-kaltenbrun,Henry Justaves KALTENBRUN,South Africa,ZA,RSA
+Cycling Road,antwerp-1920,Antwerp,Belgium,Europe,individual time trial men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/fernand-canteloube,Fernand CANTELOUBE,France,FR,FRA
+Equestrian Jumping,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,GOLD,Athlete,,https://olympics.com/en/athletes/tommaso-lequio-di-assaba,Tommaso LEQUIO DI ASSABA,Italy,IT,ITA
+Equestrian Jumping,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alessandro-valerio,Alessandro VALERIO,Italy,IT,ITA
+Equestrian Jumping,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/carl-gustaf-lewenhaupt,Carl Gustaf LEWENHAUPT,Sweden,SE,SWE
+Equestrian Jumping,antwerp-1920,Antwerp,Belgium,Europe,team mixed,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Equestrian Jumping,antwerp-1920,Antwerp,Belgium,Europe,team mixed,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Equestrian Jumping,antwerp-1920,Antwerp,Belgium,Europe,team mixed,Men,BRONZE,GameTeam,Italy team,,,Italy,IT,ITA
+Hockey,antwerp-1920,Antwerp,Belgium,Europe,hockey men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Hockey,antwerp-1920,Antwerp,Belgium,Europe,hockey men,Men,SILVER,GameTeam,Denmark team,,,Denmark,DK,DEN
+Hockey,antwerp-1920,Antwerp,Belgium,Europe,hockey men,Men,BRONZE,GameTeam,Belgium team,,,Belgium,BE,BEL
+Polo,antwerp-1920,Antwerp,Belgium,Europe,polo men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Polo,antwerp-1920,Antwerp,Belgium,Europe,polo men,Men,SILVER,GameTeam,Spain team,,,Spain,ES,ESP
+Polo,antwerp-1920,Antwerp,Belgium,Europe,polo men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,4x100m freestyle relay women,Women,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,4x100m freestyle relay women,Women,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,4x100m freestyle relay women,Women,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,4x200m freestyle relay men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,4x200m freestyle relay men,Men,SILVER,GameTeam,Australia team,,,Australia,AU,AUS
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,4x200m freestyle relay men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,1500m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/norman-ross,Norman ROSS,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,1500m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/george-vernot,George VERNOT,Canada,CA,CAN
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,1500m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frank-de-beaurepaire,Frank DE BEAUREPAIRE,Australia,AU,AUS
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m backstroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/warren-paoa-kealoha,Warren Paoa KEALOHA,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m backstroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/raymond-kegeris,Raymond KEGERIS,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m backstroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gerard-blitz,Gerard BLITZ,Belgium,BE,BEL
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,400m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/norman-ross,Norman ROSS,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,400m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ludy-langer,Ludy LANGER,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,400m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/george-vernot,George VERNOT,Canada,CA,CAN
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,400m breaststroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hakan-malmrot,Hakan MALMROT,Sweden,SE,SWE
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,400m breaststroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/tor-henning,Tor HENNING,Sweden,SE,SWE
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,400m breaststroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arvo-ossian-aaltonen,Arvo Ossian AALTONEN,Finland,FI,FIN
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,200m breaststroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hakan-malmrot,Hakan MALMROT,Sweden,SE,SWE
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,200m breaststroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/tor-henning,Tor HENNING,Sweden,SE,SWE
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,200m breaststroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arvo-ossian-aaltonen,Arvo Ossian AALTONEN,Finland,FI,FIN
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/ethelda-bleibtrey,Ethelda BLEIBTREY,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m freestyle women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/irene-guest,Irene GUEST,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/frances-schroth,Frances SCHROTH,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,300m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/ethelda-bleibtrey,Ethelda BLEIBTREY,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,300m freestyle women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/margaret-woodbridge,Margaret WOODBRIDGE,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,300m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/frances-schroth,Frances SCHROTH,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/duke-paoa-kahanamoku,Duke Paoa KAHANAMOKU,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/pua-kela-kealoha,Pua Kela KEALOHA,United States of America,US,USA
+Swimming,antwerp-1920,Antwerp,Belgium,Europe,100m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-harris,William HARRIS,United States of America,US,USA
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,675  75kg onetwo hand 3 events middleweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/henri-gance,Henri GANCE,France,FR,FRA
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,675  75kg onetwo hand 3 events middleweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/pietro-ubaldo-bianchi,Pietro Ubaldo BIANCHI,Italy,IT,ITA
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,675  75kg onetwo hand 3 events middleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/albert-pettersson,Albert PETTERSSON,Sweden,SE,SWE
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,60kg onetwo hand 3 events featherweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frans-de-haes,Frans DE HAES,Belgium,BE,BEL
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,60kg onetwo hand 3 events featherweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alfred-schmidt,Alfred SCHMIDT,Estonia,EE,EST
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,60kg onetwo hand 3 events featherweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/eugene-ryther,Eugène RYTHER,Switzerland,CH,SUI
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,75  825kg onetwo hand 3 e lightheavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ernest-cadine,Ernest CADINE,France,FR,FRA
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,75  825kg onetwo hand 3 e lightheavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/fritz-hunenberger,Fritz HÜNENBERGER,Switzerland,CH,SUI
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,75  825kg onetwo hand 3 e lightheavyweight men,Men,BRONZE,Athlete,,,Erik Pettersson,Sweden,SE,SWE
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,825kg onetwo hand 3 events heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/filippo-bottino,Filippo BOTTINO,Italy,IT,ITA
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,825kg onetwo hand 3 events heavyweight men,Men,SILVER,Athlete,,,Jos Alzin,Luxembourg,LU,LUX
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,825kg onetwo hand 3 events heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/louis-bernot,Louis BERNOT,France,FR,FRA
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,60  675kg onetwo hand 3 events lightweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alfred-neuland,Alfred NEULAND,Estonia,EE,EST
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,60  675kg onetwo hand 3 events lightweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/louis-williquet,Louis WILLIQUET,Belgium,BE,BEL
+Weightlifting,antwerp-1920,Antwerp,Belgium,Europe,60  675kg onetwo hand 3 events lightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/georges-florimond-rooms,Georges Florimond ROOMS,Belgium,BE,BEL
+Ice Hockey,antwerp-1920,Antwerp,Belgium,Europe,ice hockey men,Men,GOLD,GameTeam,Canada team,,,Canada,CA,CAN
+Ice Hockey,antwerp-1920,Antwerp,Belgium,Europe,ice hockey men,Men,SILVER,GameTeam,United States team,,,United States of America,US,USA
+Ice Hockey,antwerp-1920,Antwerp,Belgium,Europe,ice hockey men,Men,BRONZE,GameTeam,Czechoslovakia team,,,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,individual all-round men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/giorgio-zampori,Giorgio ZAMPORI,Italy,IT,ITA
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,individual all-round men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/marcos-torres,Marcos TORRES,France,FR,FRA
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,individual all-round men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jean-gounot,Jean GOUNOT,France,FR,FRA
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,team free system men,Men,GOLD,GameTeam,Denmark team,,,Denmark,DK,DEN
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,team free system men,Men,SILVER,GameTeam,Norway team,,,Norway,NO,NOR
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,team competition men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,team competition men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,team competition men,Men,BRONZE,GameTeam,France team,,,France,FR,FRA
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,team Swedish system men,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,team Swedish system men,Men,SILVER,GameTeam,Denmark team,,,Denmark,DK,DEN
+Gymnastics Artistic,antwerp-1920,Antwerp,Belgium,Europe,team Swedish system men,Men,BRONZE,GameTeam,Belgium team,,,Belgium,BE,BEL
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,cross country individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paavo-nurmi,Paavo NURMI,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,cross country individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/erik-backman,Erik BACKMAN,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,cross country individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/heikki-liimatainen,Heikki LIIMATAINEN,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,56lb weight throw 254kg men,Men,GOLD,Athlete,,,Pat McDonald,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,56lb weight throw 254kg men,Men,SILVER,Athlete,,,Paddy Ryan,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,56lb weight throw 254kg men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/carl-johan-lind,Carl Johan LIND,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,pentathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/eero-reino-lehtonen,Eero Reino LEHTONEN,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,pentathlon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/everett-lewis-bradley,Everett Lewis BRADLEY,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,pentathlon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/hugo-jalmari-lahtinen,Hugo Jalmari LAHTINEN,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,shot put men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frans-wilhelmi-porhola,Frans Wilhelmi PÖRHÖLÄ,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,shot put men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/elmer-konstantin-niklander,Elmer Konstantin NIKLANDER,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,shot put men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harry-liversedge,Harry LIVERSEDGE,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,discus throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/elmer-konstantin-niklander,Elmer Konstantin NIKLANDER,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,discus throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/armas-rudolf-taipale,Armas Rudolf TAIPALE,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,discus throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/augustus-pope,Augustus POPE,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,400m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frank-loomis,Frank LOOMIS,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,400m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-kelley-norton,John Kelley NORTON,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,400m hurdles men,Men,BRONZE,Athlete,,,Gus Desch,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,hammer throw men,Men,GOLD,Athlete,,,Paddy Ryan,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,hammer throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/carl-johan-lind,Carl Johan LIND,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,hammer throw men,Men,BRONZE,Athlete,,,Basil Bennett,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,javelin throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jonni-myyra,Jonni MYYRÄ,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,javelin throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/urho-pellervo-peltonen,Urho Pellervo PELTONEN,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,javelin throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/paavo-johansson,Paavo JOHANSSON,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,4x100m relay men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,4x100m relay men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,4x100m relay men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,5000m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/joseph-guillemot,Joseph GUILLEMOT,France,FR,FRA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,5000m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/paavo-nurmi,Paavo NURMI,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,5000m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/erik-backman,Erik BACKMAN,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,triple jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/vilho-immanuel-tuulos,Vilho Immanuel TUULOS,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,triple jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/folke-jansson,Folke JANSSON,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,triple jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/erik-almlof,Erik ALMLÖF,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,cross country team men,Men,GOLD,GameTeam,Finland team,,,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,cross country team men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,cross country team men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,200m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/allen-woodring,Allen WOODRING,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,200m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-paddock,Charles PADDOCK,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,200m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harry-edward,Harry EDWARD,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,800m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/albert-hill,Albert HILL,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,800m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/earl-eby,Earl EBY,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,800m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bevil-gordon-d-urban-rudd,Bevil Gordon D'Urban RUDD,South Africa,ZA,RSA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,400m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/bevil-gordon-d-urban-rudd,Bevil Gordon D'Urban RUDD,South Africa,ZA,RSA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,400m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/guy-montagu-butler,Guy Montagu BUTLER,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,400m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/nils-engdahl,Nils ENGDAHL,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,marathon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hannes-kolehmainen,Hannes KOLEHMAINEN,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,marathon men,Men,SILVER,Athlete,,,Jüri Lossman,Estonia,EE,EST
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,marathon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/valerio-arri,Valerio ARRI,Italy,IT,ITA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,100m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-paddock,Charles PADDOCK,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,100m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/morris-kirksey,Morris KIRKSEY,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,100m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harry-edward,Harry EDWARD,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,1500m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/albert-hill,Albert HILL,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,1500m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/philip-john-noel-baker,Philip John NOEL-BAKER,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,1500m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/marion-lawrence-shields,Marion Lawrence SHIELDS,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m team men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m team men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,long jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/r-william-e-petersson,R. William E. PETERSSON,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,long jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/carl-johnson,Carl JOHNSON,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,long jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/erik-abrahamsson,Erik ABRAHAMSSON,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,10000m walk men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ugo-frigerio,Ugo FRIGERIO,Italy,IT,ITA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,10000m walk men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/joseph-pearman,Joseph PEARMAN,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,10000m walk men,Men,BRONZE,Athlete,,,Charlie Gunn,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,110m hurdles men,Men,GOLD,Athlete,,,Tommy Thomson,Canada,CA,CAN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,110m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/harold-barron,Harold BARRON,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,110m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frederick-murray,Frederick MURRAY,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m walk men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ugo-frigerio,Ugo FRIGERIO,Italy,IT,ITA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m walk men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/george-parker,George PARKER,Australia,AU,AUS
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m walk men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/richard-frederick-remer,Richard Frederick REMER,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m steeplechase men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/percy-hodge,Percy HODGE,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m steeplechase men,Men,SILVER,Athlete,,,Pat Flynn,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,3000m steeplechase men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ernesto-ambrosini,Ernesto AMBROSINI,Italy,IT,ITA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,pole vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frank-foss,Frank FOSS,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henry-petersen,Henry PETERSEN,Denmark,DK,DEN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,pole vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/edwin-myers,Edwin MYERS,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,4x400m relay men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,4x400m relay men,Men,SILVER,GameTeam,South Africa team,,,South Africa,ZA,RSA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,4x400m relay men,Men,BRONZE,GameTeam,France team,,,France,FR,FRA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,10000m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paavo-nurmi,Paavo NURMI,Finland,FI,FIN
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,10000m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/joseph-guillemot,Joseph GUILLEMOT,France,FR,FRA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,10000m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/james-wilson,James WILSON,Great Britain,GB,GBR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,high jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/richmond-landon,Richmond LANDON,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,high jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/harold-muller,Harold MULLER,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,high jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bo-ekelund,Bo EKELUND,Sweden,SE,SWE
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,decathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/helge-andreas-løvland,Helge Andreas LØVLAND,Norway,NO,NOR
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,decathlon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/brutus-kerr-hamilton,Brutus Kerr HAMILTON,United States of America,US,USA
+Athletics,antwerp-1920,Antwerp,Belgium,Europe,decathlon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bertil-ohlson,Bertil OHLSON,Sweden,SE,SWE
+Equestrian Dressage,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,GOLD,Athlete,,https://olympics.com/en/athletes/janne-lundblad,Janne LUNDBLAD,Sweden,SE,SWE
+Equestrian Dressage,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/bertil-sandstrom,Bertil SANDSTRÖM,Sweden,SE,SWE
+Equestrian Dressage,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/hans-von-rosen,Hans VON ROSEN,Sweden,SE,SWE
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,12m rating 1919 mixed,Open,GOLD,GameTeam,Heira II,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,7m mixed,Open,GOLD,GameTeam,Ancora,,,Great Britain,GB,GBR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,7m mixed,Open,SILVER,GameTeam,Fornebo,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,40m sq mixed,Open,GOLD,GameTeam,Sif,,,Sweden,SE,SWE
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,40m sq mixed,Open,SILVER,GameTeam,Elsie,,,Sweden,SE,SWE
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,12m rating 1907 mixed,Open,GOLD,GameTeam,Atlanta,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,6m rating 1919 men,Open,GOLD,GameTeam,Jo,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,6m rating 1919 men,Open,SILVER,GameTeam,Tan-Fe-Pah,,,Belgium,BE,BEL
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,8m rating 1907 mixed,Open,GOLD,GameTeam,Irene,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,65m rating 1919 mixed,Open,GOLD,GameTeam,Oranje,,,Netherlands,NL,NED
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,65m rating 1919 mixed,Open,SILVER,GameTeam,Rose Pompon,,,France,FR,FRA
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,30m sq mixed,Open,GOLD,GameTeam,Kullan,,,Sweden,SE,SWE
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,10m rating 1919 mixed,Open,GOLD,GameTeam,Mosk II,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,12 foot dinghy mixed,Open,GOLD,GameTeam,Beatrijs III #1,,,Netherlands,NL,NED
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,12 foot dinghy mixed,Open,SILVER,GameTeam,Boreas #2,https://olympics.com/en/athletes/arnoud-eugene-van-der-biesen,Arnoud Eugène VAN DER BIESEN,Netherlands,NL,NED
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,12 foot dinghy mixed,Open,SILVER,GameTeam,Boreas #2,https://olympics.com/en/athletes/petrus-bernardus-beukers,Petrus Bernardus BEUKERS,Netherlands,NL,NED
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,8m rating 1919 men,Open,GOLD,GameTeam,Sildra #1,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,8m rating 1919 men,Open,SILVER,GameTeam,Lyn #2,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,8m rating 1919 men,Open,BRONZE,GameTeam,Antwerpia V,,,Belgium,BE,BEL
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,6m rating 1907 mixed,Open,GOLD,GameTeam,Edelweiss II #1,,,Belgium,BE,BEL
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,6m rating 1907 mixed,Open,SILVER,GameTeam,Marmi II #1,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,6m rating 1907 mixed,Open,BRONZE,GameTeam,Stella #2,,,Norway,NO,NOR
+Sailing,antwerp-1920,Antwerp,Belgium,Europe,10m rating 1907 mixed,Open,GOLD,GameTeam,Eleda,,,Norway,NO,NOR
+Tug of War,antwerp-1920,Antwerp,Belgium,Europe,tug of war men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Tug of War,antwerp-1920,Antwerp,Belgium,Europe,tug of war men,Men,SILVER,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Tug of War,antwerp-1920,Antwerp,Belgium,Europe,tug of war men,Men,BRONZE,GameTeam,Belgium team,,,Belgium,BE,BEL
+Water Polo,antwerp-1920,Antwerp,Belgium,Europe,water polo men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Water Polo,antwerp-1920,Antwerp,Belgium,Europe,water polo men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Water Polo,antwerp-1920,Antwerp,Belgium,Europe,water polo men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,sabre individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/nedo-nadi,Nedo NADI,Italy,IT,ITA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,sabre individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aldo-nadi,Aldo NADI,Italy,IT,ITA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,sabre individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/adrianus-egbertus-willem-de-jong,Adrianus Egbertus Willem DE JONG,Netherlands,NL,NED
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,foil individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/nedo-nadi,Nedo NADI,Italy,IT,ITA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,foil individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/philippe-cattiau,Philippe CATTIAU,France,FR,FRA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,foil individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/roger-francois-ducret,Roger François DUCRET,France,FR,FRA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,épée individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/armand-massard,Armand MASSARD,France,FR,FRA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,épée individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alexandre-lippmann,Alexandre LIPPMANN,France,FR,FRA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,épée individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gustave-buchard,Gustave BUCHARD,France,FR,FRA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,foil team men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,foil team men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,foil team men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,épée team men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,épée team men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,épée team men,Men,BRONZE,GameTeam,France team,,,France,FR,FRA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,sabre team men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,sabre team men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Fencing,antwerp-1920,Antwerp,Belgium,Europe,sabre team men,Men,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Equestrian Eventing,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,GOLD,Athlete,,https://olympics.com/en/athletes/helmer-morner,Helmer MÖRNER,Sweden,SE,SWE
+Equestrian Eventing,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/age-lundstrom,Age LUNDSTRÖM,Sweden,SE,SWE
+Equestrian Eventing,antwerp-1920,Antwerp,Belgium,Europe,individual mixed,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ettore-caffaratti,Ettore CAFFARATTI,Italy,IT,ITA
+Equestrian Eventing,antwerp-1920,Antwerp,Belgium,Europe,team mixed,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Equestrian Eventing,antwerp-1920,Antwerp,Belgium,Europe,team mixed,Men,SILVER,GameTeam,Italy team,,,Italy,IT,ITA
+Equestrian Eventing,antwerp-1920,Antwerp,Belgium,Europe,team mixed,Men,BRONZE,GameTeam,Belgium team,,,Belgium,BE,BEL
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,double sculls 2x men,Men,GOLD,GameTeam,United States team,,"Jack Kelly, Sr.",United States of America,US,USA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,double sculls 2x men,Men,GOLD,GameTeam,United States team,https://olympics.com/en/athletes/paul-vincent-costello,Paul Vincent COSTELLO,United States of America,US,USA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,double sculls 2x men,Men,SILVER,GameTeam,Italy team,https://olympics.com/en/athletes/erminio-dones,Erminio DONES,Italy,IT,ITA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,double sculls 2x men,Men,SILVER,GameTeam,Italy team,https://olympics.com/en/athletes/pietro-annoni,Pietro ANNONI,Italy,IT,ITA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,double sculls 2x men,Men,BRONZE,GameTeam,France team,https://olympics.com/en/athletes/alfred-ple,Alfred PLE,France,FR,FRA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,double sculls 2x men,Men,BRONZE,GameTeam,France team,https://olympics.com/en/athletes/gaston-giran,Gaston GIRAN,France,FR,FRA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,four-oared shell with coxswain men,Men,GOLD,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,four-oared shell with coxswain men,Men,SILVER,GameTeam,United States team,,,United States of America,US,USA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,four-oared shell with coxswain men,Men,BRONZE,GameTeam,Norway team,,,Norway,NO,NOR
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,pair-oared shell with coxswain men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,pair-oared shell with coxswain men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,pair-oared shell with coxswain men,Men,BRONZE,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,single sculls 1x men,Men,GOLD,Athlete,,,"Jack Kelly, Sr.",United States of America,US,USA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,single sculls 1x men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jack-beresford,Jack BERESFORD,Great Britain,GB,GBR
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,single sculls 1x men,Men,BRONZE,Athlete,,,Darcy Hadfield,New Zealand,NZ,NZL
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,eight with coxswain 8 men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,eight with coxswain 8 men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Rowing,antwerp-1920,Antwerp,Belgium,Europe,eight with coxswain 8 men,Men,BRONZE,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,free rifle team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,free rifle team men,Men,SILVER,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,free rifle team men,Men,BRONZE,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,25m rapid fire pistol 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/guilherme-paraense,Guilherme PARAENSE,Brazil,BR,BRA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,25m rapid fire pistol 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/raymond-bracken,Raymond BRACKEN,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,25m rapid fire pistol 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/fritz-zulauf,Fritz ZULAUF,Switzerland,CH,SUI
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m small bore rifle team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m small bore rifle team men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m small bore rifle team men,Men,BRONZE,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle prone team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle prone team men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle prone team men,Men,BRONZE,GameTeam,Finland team,,,Finland,FI,FIN
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,army rifle 300m prone men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/otto-m-olsen,Otto M. OLSEN,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,army rifle 300m prone men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/leon-johnson,Léon JOHNSON,France,FR,FRA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,army rifle 300m prone men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/fritz-kuchen,Fritz KUCHEN,Switzerland,CH,SUI
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle 3 positions 3 men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/morris-fisher,Morris FISHER,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle 3 positions 3 men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/niels-hansen-ditlev-larsen,Niels Hansen Ditlev LARSEN,Denmark,DK,DEN
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle 3 positions 3 men,Men,BRONZE,Athlete,,,Østen Østensen,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,"clay pigeons, individual men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/mark-arie,Mark ARIE,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,"clay pigeons, individual men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/frank-troeh,Frank TROEH,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,"clay pigeons, individual men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frank-wright,Frank WRIGHT,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer double shots team men,Men,GOLD,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer double shots team men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer double shots team men,Men,BRONZE,GameTeam,Finland team,,,Finland,FI,FIN
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,30m army pistol team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,30m army pistol team men,Men,SILVER,GameTeam,Greece team,,,Greece,GR,GRE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,30m army pistol team men,Men,BRONZE,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300600m free rifle team prone men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300600m free rifle team prone men,Men,SILVER,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300600m free rifle team prone men,Men,BRONZE,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer single shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/otto-m-olsen,Otto M. OLSEN,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer single shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alfred-swahn,Alfred SWAHN,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer single shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harald-natvig,Harald NATVIG,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer double shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ole-andreas-lilloe-olsen,Ole Andreas LILLOE-OLSEN,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer double shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/p-fredric-landelius,P. Fredric LANDELIUS,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer double shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/einar-liberg,Einar LIBERG,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m army pistol team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m army pistol team men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m army pistol team men,Men,BRONZE,GameTeam,Brazil team,,,Brazil,BR,BRA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,600m free rifle prone men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/carl-hugo-johansson,Carl Hugo JOHANSSON,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,600m free rifle prone men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/mauritz-eriksson,Mauritz ERIKSSON,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,600m free rifle prone men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lloyd-spencer-spooner,Lloyd Spencer SPOONER,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,clay pigeons team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,clay pigeons team men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,clay pigeons team men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,army rifle 300m standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/carl-townsend-osburn,Carl Townsend OSBURN,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,army rifle 300m standing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/lars-jorgen-madsen,Lars Jörgen MADSEN,Denmark,DK,DEN
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,army rifle 300m standing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lawrence-adam-nuesslein,Lawrence Adam NUESSLEIN,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer single shots team men,Men,GOLD,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer single shots team men,Men,SILVER,GameTeam,Finland team,,,Finland,FI,FIN
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,100m running deer single shots team men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m small bore rifle standing individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lawrence-adam-nuesslein,Lawrence Adam NUESSLEIN,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m small bore rifle standing individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/arthur-rothrock,Arthur ROTHROCK,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m small bore rifle standing individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/dennis-fenton,Dennis FENTON,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle standing team men,Men,GOLD,GameTeam,Denmark team,,,Denmark,DK,DEN
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle standing team men,Men,SILVER,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,300m free rifle standing team men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m pistol 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/carl-telford-frederick,Carl Telford FREDERICK,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m pistol 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/afranio-antonio-da-costa,Afranio Antonio DA COSTA,Brazil,BR,BRA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,50m pistol 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/alfred-p-lane,Alfred P. LANE,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,600m free rifle team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,600m free rifle team men,Men,SILVER,GameTeam,South Africa team,,,South Africa,ZA,RSA
+Shooting,antwerp-1920,Antwerp,Belgium,Europe,600m free rifle team men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/adolf-valentin-lindfors,Adolf Valentin LINDFORS,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/poul-hansen,Poul HANSEN,Denmark,DK,DEN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/martti-nieminen,Martti NIEMINEN,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Lightweight, Freestyle (≤67.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/kalle-anttila,Kalle ANTTILA,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Lightweight, Freestyle (≤67.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/gottfrid-svensson,Gottfrid SVENSSON,Sweden,SE,SWE
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Lightweight, Freestyle (≤67.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/peter-w-wright,Peter W. WRIGHT,Great Britain,GB,GBR
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Featherweight, Freestyle (≤60 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-edwin-ackerly,Charles Edwin ACKERLY,United States of America,US,USA
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Featherweight, Freestyle (≤60 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/samuel-gerson,Samuel GERSON,United States of America,US,USA
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Featherweight, Freestyle (≤60 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/philip-william-samuel-bernard,Philip William Samuel BERNARD,Great Britain,GB,GBR
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Featherweight, Greco-Roman (≤60 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/oskar-david-friman,Oskar David FRIMAN,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Featherweight, Greco-Roman (≤60 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/heikki-kahkonen,Heikki KÄHKÖNEN,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Featherweight, Greco-Roman (≤60 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frithiof-svensson,Frithiof SVENSSON,Sweden,SE,SWE
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Middleweight, Freestyle (≤75 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/eino-aukusti-leino,Eino Aukusti LEINO,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Middleweight, Freestyle (≤75 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/vaino-penttala,Väinö PENTTALA,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Middleweight, Freestyle (≤75 kilograms) Men",Men,BRONZE,Athlete,,,Charley Johnson,United States of America,US,USA
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Middleweight, Greco-Roman (≤75 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/carl-westergren,Carl WESTERGREN,Sweden,SE,SWE
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Middleweight, Greco-Roman (≤75 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/arthur-lindfors,Arthur LINDFORS,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Middleweight, Greco-Roman (≤75 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/matti-perttila,Matti PERTTILÄ,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Light-Heavyweight, Freestyle (≤82½ kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/anders-larsson-1,Anders LARSSON,Sweden,SE,SWE
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Light-Heavyweight, Freestyle (≤82½ kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-courant,Charles COURANT,Switzerland,CH,SUI
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Light-Heavyweight, Freestyle (≤82½ kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/walter-s-maurer,Walter S. MAURER,United States of America,US,USA
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Light-Heavyweight, Greco-Roman (≤82.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/claes-johanson,Claes JOHANSON,Sweden,SE,SWE
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Light-Heavyweight, Greco-Roman (≤82.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/edil-rosenqvist,Edil ROSENQVIST,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Light-Heavyweight, Greco-Roman (≤82.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/johannes-thorvald-eriksen,Johannes Thorvald ERIKSEN,Denmark,DK,DEN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Heavyweight, Freestyle (>82.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/robert-roth,Robert ROTH,Switzerland,CH,SUI
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Heavyweight, Freestyle (>82.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/nat-pendleton,Nat PENDLETON,United States of America,US,USA
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Heavyweight, Freestyle (>82.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frederick-julius-meyer,Frederick Julius MEYER,United States of America,US,USA
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Heavyweight, Freestyle (>82.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ernst-nilsson,Ernst NILSSON,Sweden,SE,SWE
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/eemil-ernesti-vare,Eemil Ernesti VÄRE,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/taavi-tamminen,Taavi TAMMINEN,Finland,FI,FIN
+Wrestling,antwerp-1920,Antwerp,Belgium,Europe,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frithjof-andersen,Frithjof ANDERSEN,Norway,NO,NOR
+Equestrian  Vaulting,antwerp-1920,Antwerp,Belgium,Europe,figure riding team mixed,Men,GOLD,GameTeam,Belgium team,,,Belgium,BE,BEL
+Equestrian  Vaulting,antwerp-1920,Antwerp,Belgium,Europe,figure riding team mixed,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Equestrian  Vaulting,antwerp-1920,Antwerp,Belgium,Europe,figure riding team mixed,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Equestrian  Vaulting,antwerp-1920,Antwerp,Belgium,Europe,figure riding individual mixed,Men,GOLD,Athlete,,,Daniël Bouckaert,Belgium,BE,BEL
+Equestrian  Vaulting,antwerp-1920,Antwerp,Belgium,Europe,figure riding individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/field,FIELD,France,FR,FRA
+Equestrian  Vaulting,antwerp-1920,Antwerp,Belgium,Europe,figure riding individual mixed,Men,BRONZE,Athlete,,,Louis Finet,Belgium,BE,BEL
+Football,antwerp-1920,Antwerp,Belgium,Europe,football men,Men,GOLD,GameTeam,Belgium team,,,Belgium,BE,BEL
+Football,antwerp-1920,Antwerp,Belgium,Europe,football men,Men,SILVER,GameTeam,Spain team,,,Spain,ES,ESP
+Football,antwerp-1920,Antwerp,Belgium,Europe,football men,Men,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,Sprint individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/mauritius-peeters,Mauritius PEETERS,Netherlands,NL,NED
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,Sprint individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/horace-thomas-johnson,Horace Thomas JOHNSON,Great Britain,GB,GBR
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,Sprint individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harry-edgar-ryan,Harry Edgar RYAN,Great Britain,GB,GBR
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,2000m tandem men,Men,GOLD,GameTeam,Great Britain team,https://olympics.com/en/athletes/harry-edgar-ryan,Harry Edgar RYAN,Great Britain,GB,GBR
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,2000m tandem men,Men,GOLD,GameTeam,Great Britain team,https://olympics.com/en/athletes/thomas-glasson-lance,Thomas Glasson LANCE,Great Britain,GB,GBR
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,2000m tandem men,Men,SILVER,GameTeam,South Africa team,,Bill Smith,South Africa,ZA,RSA
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,2000m tandem men,Men,SILVER,GameTeam,South Africa team,https://olympics.com/en/athletes/james-r-walker,James R. WALKER,South Africa,ZA,RSA
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,2000m tandem men,Men,BRONZE,GameTeam,Netherlands team,https://olympics.com/en/athletes/petrus-gerardus-ikelaar,Petrus Gerardus IKELAAR,Netherlands,NL,NED
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,2000m tandem men,Men,BRONZE,GameTeam,Netherlands team,https://olympics.com/en/athletes/frans-de-vreng,Frans DE VRENG,Netherlands,NL,NED
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,Team Pursuit 4000m men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,Team Pursuit 4000m men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,Team Pursuit 4000m men,Men,BRONZE,GameTeam,South Africa team,,,South Africa,ZA,RSA
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,50km men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/henry-george,Henry GEORGE,Belgium,BE,BEL
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,50km men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/cyril-albert-alden,Cyril Albert ALDEN,Great Britain,GB,GBR
+Cycling Track,antwerp-1920,Antwerp,Belgium,Europe,50km men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/petrus-gerardus-ikelaar,Petrus Gerardus IKELAAR,Netherlands,NL,NED
+Diving,antwerp-1920,Antwerp,Belgium,Europe,3m springboard women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/aileen-riggin,Aileen RIGGIN,United States of America,US,USA
+Diving,antwerp-1920,Antwerp,Belgium,Europe,3m springboard women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/helen-wainwright,Helen WAINWRIGHT,United States of America,US,USA
+Diving,antwerp-1920,Antwerp,Belgium,Europe,3m springboard women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/thelma-payne,Thelma PAYNE,United States of America,US,USA
+Diving,antwerp-1920,Antwerp,Belgium,Europe,10m platform women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/stefani-fryland-clausen,Stefani FRYLAND CLAUSEN,Denmark,DK,DEN
+Diving,antwerp-1920,Antwerp,Belgium,Europe,10m platform women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/beatrix-eileen-armstrong,Beatrix Eileen ARMSTRONG,Great Britain,GB,GBR
+Diving,antwerp-1920,Antwerp,Belgium,Europe,10m platform women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/eva-olliwier,Eva OLLIWIER,Sweden,SE,SWE
+Diving,antwerp-1920,Antwerp,Belgium,Europe,plain high diving men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/arvid-wallman,Arvid WALLMAN,Sweden,SE,SWE
+Diving,antwerp-1920,Antwerp,Belgium,Europe,plain high diving men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/nils-skoglund,Nils SKOGLUND,Sweden,SE,SWE
+Diving,antwerp-1920,Antwerp,Belgium,Europe,plain high diving men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/john-jansson,John JANSSON,Sweden,SE,SWE
+Diving,antwerp-1920,Antwerp,Belgium,Europe,10m platform men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/clarence-pinkston,Clarence PINKSTON,United States of America,US,USA
+Diving,antwerp-1920,Antwerp,Belgium,Europe,10m platform men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/erik-adlerz,Erik ADLERZ,Sweden,SE,SWE
+Diving,antwerp-1920,Antwerp,Belgium,Europe,10m platform men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harry-prieste,Harry PRIESTE,United States of America,US,USA
+Diving,antwerp-1920,Antwerp,Belgium,Europe,3m springboard men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/louis-kuehn,Louis KUEHN,United States of America,US,USA
+Diving,antwerp-1920,Antwerp,Belgium,Europe,3m springboard men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/clarence-pinkston,Clarence PINKSTON,United States of America,US,USA
+Diving,antwerp-1920,Antwerp,Belgium,Europe,3m springboard men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/louis-james-balbach,Louis James BALBACH,United States of America,US,USA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,Singles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/louis-raymond,Louis RAYMOND,South Africa,ZA,RSA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,Singles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ichiya-kumagae,Ichiya KUMAGAE,Japan,JP,JPN
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-lyndhurst-winslow,Charles Lyndhurst WINSLOW,South Africa,ZA,RSA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,mixed doubles mixed,Mixed,GOLD,GameTeam,France team #3,https://olympics.com/en/athletes/suzanne-lenglen,Suzanne LENGLEN,France,FR,FRA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,mixed doubles mixed,Mixed,GOLD,GameTeam,France team #3,https://olympics.com/en/athletes/max-decugis,Max DECUGIS,France,FR,FRA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,mixed doubles mixed,Mixed,SILVER,GameTeam,Great Britain team #3,https://olympics.com/en/athletes/kathleen-mckane,Kathleen MCKANE,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,mixed doubles mixed,Mixed,SILVER,GameTeam,Great Britain team #3,https://olympics.com/en/athletes/maxwell-woosnam,Maxwell WOOSNAM,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,mixed doubles mixed,Mixed,BRONZE,GameTeam,Czechoslovakia team,https://olympics.com/en/athletes/milada-skrbkova,Milada SKRBKOVA,Czechoslovakia,CSHH,TCH
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,mixed doubles mixed,Mixed,BRONZE,GameTeam,Czechoslovakia team,https://olympics.com/en/athletes/ladislav-zemla,Ladislav ZEMLA,Czechoslovakia,CSHH,TCH
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles men,Men,GOLD,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/oswald-graham-noel-turnbull,Oswald Graham Noel TURNBULL,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles men,Men,GOLD,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/maxwell-woosnam,Maxwell WOOSNAM,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles men,Men,SILVER,GameTeam,Japan team,https://olympics.com/en/athletes/ichiya-kumagae,Ichiya KUMAGAE,Japan,JP,JPN
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles men,Men,SILVER,GameTeam,Japan team,https://olympics.com/en/athletes/seiichiro-kashio,Seiichiro KASHIO,Japan,JP,JPN
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles men,Men,BRONZE,GameTeam,France team #3,https://olympics.com/en/athletes/max-decugis,Max DECUGIS,France,FR,FRA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles men,Men,BRONZE,GameTeam,France team #3,https://olympics.com/en/athletes/pierre-albarran,Pierre ALBARRAN,France,FR,FRA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,Singles women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/suzanne-lenglen,Suzanne LENGLEN,France,FR,FRA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,Singles women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/edith-dorothy-holman,Edith Dorothy HOLMAN,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,Singles women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/kathleen-mckane,Kathleen MCKANE,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles women,Women,GOLD,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/winifred-margaret-mcnair,Winifred Margaret MCNAIR,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles women,Women,GOLD,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/kathleen-mckane,Kathleen MCKANE,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles women,Women,SILVER,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/winifred-geraldine-beamish,Winifred Geraldine BEAMISH,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles women,Women,SILVER,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/edith-dorothy-holman,Edith Dorothy HOLMAN,Great Britain,GB,GBR
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles women,Women,BRONZE,GameTeam,France team,https://olympics.com/en/athletes/suzanne-lenglen,Suzanne LENGLEN,France,FR,FRA
+Tennis,antwerp-1920,Antwerp,Belgium,Europe,doubles women,Women,BRONZE,GameTeam,France team,https://olympics.com/en/athletes/elisabeth-d-ayen,Elisabeth D'AYEN,France,FR,FRA
+Modern Pentathlon,antwerp-1920,Antwerp,Belgium,Europe,Individual competition men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/gustaf-dyrssen,Gustaf DYRSSEN,Sweden,SE,SWE
+Modern Pentathlon,antwerp-1920,Antwerp,Belgium,Europe,Individual competition men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/erik-de-laval,Erik DE LAVAL,Sweden,SE,SWE
+Modern Pentathlon,antwerp-1920,Antwerp,Belgium,Europe,Individual competition men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gosta-runo,Gosta RUNO,Sweden,SE,SWE
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 33m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hubert-van-innis,Hubert VAN INNIS,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 33m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/julien-louis-brule,Julien Louis BRULE,France,FR,FRA
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 28m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hubert-van-innis,Hubert VAN INNIS,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 28m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/leonce-gaston-quentin,Léonce Gaston QUENTIN,France,FR,FRA
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 50m teams men,Men,GOLD,GameTeam,Belgium team,,,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 50m teams men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 33m teams men,Men,GOLD,GameTeam,Belgium team,,,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 33m teams men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Archery,antwerp-1920,Antwerp,Belgium,Europe,fixed bird target small bird teams men,Men,GOLD,GameTeam,Belgium team,,,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,fixed bird target large birds men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/edmond-cloetens,Edmond CLOETENS,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,fixed bird target large birds men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/louis-van-de-perck,Louis VAN DE PERCK,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,fixed bird target large birds men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/firmin-flamand,Firmin FLAMAND,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 50m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/julien-louis-brule,Julien Louis BRULE,France,FR,FRA
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 50m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hubert-van-innis,Hubert VAN INNIS,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 28m teams men,Men,GOLD,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 28m teams men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,moving bird target 28m teams men,Men,BRONZE,GameTeam,France team,,,France,FR,FRA
+Archery,antwerp-1920,Antwerp,Belgium,Europe,fixed bird target small birds men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/edmond-van-moer,Edmond VAN MOER,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,fixed bird target small birds men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/louis-van-de-perck,Louis VAN DE PERCK,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,fixed bird target small birds men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/joseph-hermans,Joseph HERMANS,Belgium,BE,BEL
+Archery,antwerp-1920,Antwerp,Belgium,Europe,fixed bird target large birds teams men,Men,GOLD,GameTeam,Belgium team,,,Belgium,BE,BEL
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Individual women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/magda-julin-mauroy,Magda JULIN-MAUROY,Sweden,SE,SWE
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Individual women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/svea-noren,Svea NOREN,Sweden,SE,SWE
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Individual women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/theresa-blanchard,Theresa BLANCHARD,United States of America,US,USA
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/gillis-grafstrom,Gillis GRAFSTRÖM,Sweden,SE,SWE
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/andreas-krogh,Andreas KROGH,Norway,NO,NOR
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/martin-stixrud,Martin STIXRUD,Norway,NO,NOR
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Pairs mixed,Mixed,GOLD,GameTeam,Finland team,,Ludovika Jakobsson-Eilers,Finland,FI,FIN
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Pairs mixed,Mixed,GOLD,GameTeam,Finland team,https://olympics.com/en/athletes/walter-jakobsson,Walter JAKOBSSON,Finland,FI,FIN
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Pairs mixed,Mixed,SILVER,GameTeam,Norway team,https://olympics.com/en/athletes/alexia-bryn,Alexia BRYN,Norway,NO,NOR
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Pairs mixed,Mixed,SILVER,GameTeam,Norway team,https://olympics.com/en/athletes/yngvar-bryn-2,Yngvar BRYN,Norway,NO,NOR
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Pairs mixed,Mixed,BRONZE,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/phyllis-johnson,Phyllis JOHNSON,Great Britain,GB,GBR
+Figure skating,antwerp-1920,Antwerp,Belgium,Europe,Pairs mixed,Mixed,BRONZE,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/basil-williams,Basil WILLIAMS,Great Britain,GB,GBR
