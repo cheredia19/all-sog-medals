@@ -1,0 +1,127 @@
+discipline_title,slug_game,city_host,country_host,continent_host,event_title,event_gender,medal_type,participant_type,participant_title,athlete_url,athlete_full_name,country_name,country_code,country_3_letter_code
+Fencing,athens-1896,Athens,Greece,Europe,foil individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/eugene-henri-gravelotte,Eugène-Henri GRAVELOTTE,France,FR,FRA
+Fencing,athens-1896,Athens,Greece,Europe,foil individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henri-callot,Henri CALLOT,France,FR,FRA
+Fencing,athens-1896,Athens,Greece,Europe,foil individual men,Men,BRONZE,Athlete,,,Athanasios Vouros,Greece,GR,GRE
+Fencing,athens-1896,Athens,Greece,Europe,foil individual men,Men,BRONZE,Athlete,,,Periklis Pierrakos-Mavromikhalis,Greece,GR,GRE
+Fencing,athens-1896,Athens,Greece,Europe,sabre individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ioannis-georgiadis,Ioannis GEORGIADIS,Greece,GR,GRE
+Fencing,athens-1896,Athens,Greece,Europe,sabre individual men,Men,SILVER,Athlete,,,Tilemakhos Karakalos,Greece,GR,GRE
+Fencing,athens-1896,Athens,Greece,Europe,sabre individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/holger-nielsen-1,Holger NIELSEN,Denmark,DK,DEN
+Fencing,athens-1896,Athens,Greece,Europe,foil masters men,Men,GOLD,Athlete,,,Leon Pyrgos,Greece,GR,GRE
+Fencing,athens-1896,Athens,Greece,Europe,foil masters men,Men,SILVER,Athlete,,,Joanni Perronet,France,FR,FRA
+Athletics,athens-1896,Athens,Greece,Europe,marathon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/spyridon-louis,Spyridon LOUIS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,marathon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/kharilaos-vasilakos,Kharilaos VASILAKOS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,marathon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gyula-kellner,Gyula KELLNER,Hungary,HU,HUN
+Athletics,athens-1896,Athens,Greece,Europe,100m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/thomas-burke,Thomas BURKE,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,100m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/fritz-hofmann,Fritz HOFMANN,Germany,DE,GER
+Athletics,athens-1896,Athens,Greece,Europe,100m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/alajos-szokolyi,Alajos SZOKOLYI,Hungary,HU,HUN
+Athletics,athens-1896,Athens,Greece,Europe,100m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/francis-lane,Francis LANE,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,1500m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/edwin-flack,Edwin FLACK,Australia,AU,AUS
+Athletics,athens-1896,Athens,Greece,Europe,1500m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/arthur-blake,Arthur BLAKE,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,1500m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/albin-lermusiaux,Albin LERMUSIAUX,France,FR,FRA
+Athletics,athens-1896,Athens,Greece,Europe,discus throw men,Men,GOLD,Athlete,,,Bob Garrett,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,discus throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/panagiotis-paraskevopoulos,Panagiotis PARASKEVOPOULOS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,discus throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sotirios-versis,Sotirios VERSIS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,shot put men,Men,GOLD,Athlete,,,Bob Garrett,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,shot put men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/miltiadis-gouskos,Miltiadis GOUSKOS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,shot put men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/georgios-papasideris-1,Georgios PAPASIDERIS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,pole vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/william-welles-hoyt,William Welles HOYT,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/albert-tyler,Albert TYLER,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,pole vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/evangelos-damaskos,Evangelos DAMASKOS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,pole vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ioannis-theodoropoulos,Ioannis THEODOROPOULOS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,high jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ellery-clark,Ellery CLARK,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,high jump men,Men,SILVER,Athlete,,,Bob Garrett,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,high jump men,Men,SILVER,Athlete,,,James B. Connolly,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,triple jump men,Men,GOLD,Athlete,,,James B. Connolly,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,triple jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alexandre-tufferi,Alexandre TUFFERI,France,FR,FRA
+Athletics,athens-1896,Athens,Greece,Europe,triple jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ioannis-persakis,Ioannis PERSAKIS,Greece,GR,GRE
+Athletics,athens-1896,Athens,Greece,Europe,long jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ellery-clark,Ellery CLARK,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,long jump men,Men,SILVER,Athlete,,,Bob Garrett,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,long jump men,Men,BRONZE,Athlete,,,James B. Connolly,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,400m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/thomas-burke,Thomas BURKE,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,400m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/herbert-jamison,Herbert JAMISON,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,400m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-gmelin,Charles GMELIN,Great Britain,GB,GBR
+Athletics,athens-1896,Athens,Greece,Europe,110m hurdles men,Men,GOLD,Athlete,,,Tom Curtis,United States of America,US,USA
+Athletics,athens-1896,Athens,Greece,Europe,110m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/grantley-goulding,Grantley GOULDING,Great Britain,GB,GBR
+Athletics,athens-1896,Athens,Greece,Europe,800m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/edwin-flack,Edwin FLACK,Australia,AU,AUS
+Athletics,athens-1896,Athens,Greece,Europe,800m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/nandor-dani,Nandor DANI,Hungary,HU,HUN
+Athletics,athens-1896,Athens,Greece,Europe,800m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/dimitrios-golemis,Dimitrios GOLEMIS,Greece,GR,GRE
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,rope climbing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/nikolaos-andriakopoulos,Nikolaos ANDRIAKOPOULOS,Greece,GR,GRE
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,rope climbing men,Men,SILVER,Athlete,,,Thomas Xenakis,Greece,GR,GRE
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,rope climbing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/fritz-hofmann,Fritz HOFMANN,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,rings men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ioannis-mitropoulos,Ioannis MITROPOULOS,Greece,GR,GRE
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,rings men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hermann-weingartner,Hermann WEINGÄRTNER,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,rings men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/petros-persakis,Petros PERSAKIS,Greece,GR,GRE
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/carl-schumann,Carl SCHUHMANN,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/louis-zutter,Louis ZUTTER,Switzerland,CH,SUI
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/hermann-weingartner,Hermann WEINGÄRTNER,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,horizontal bar men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hermann-weingartner,Hermann WEINGÄRTNER,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,horizontal bar men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alfred-flatow,Alfred FLATOW,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,parallel bars men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alfred-flatow,Alfred FLATOW,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,parallel bars men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/louis-zutter,Louis ZUTTER,Switzerland,CH,SUI
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,team parallel bars men,Men,GOLD,GameTeam,Germany team,,,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,team parallel bars men,Men,SILVER,GameTeam,Panellinios Gymnastikos Syllogos #1,,,Greece,GR,GRE
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,team parallel bars men,Men,BRONZE,GameTeam,Ethnikos Gymnastikos Syllogos #2,,Filippos Karvelas,Greece,GR,GRE
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,team parallel bars men,Men,BRONZE,GameTeam,Ethnikos Gymnastikos Syllogos #2,https://olympics.com/en/athletes/dimitrios-loundras,Dimitrios LOUNDRAS,Greece,GR,GRE
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,team horizontal bar men,Men,GOLD,GameTeam,Germany team,,,Germany,DE,GER
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,pommel horse men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/louis-zutter,Louis ZUTTER,Switzerland,CH,SUI
+Gymnastics Artistic,athens-1896,Athens,Greece,Europe,pommel horse men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hermann-weingartner,Hermann WEINGÄRTNER,Germany,DE,GER
+Cycling Track,athens-1896,Athens,Greece,Europe,10km men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-masson,Paul MASSON,France,FR,FRA
+Cycling Track,athens-1896,Athens,Greece,Europe,10km men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/leon-flameng,Léon FLAMENG,France,FR,FRA
+Cycling Track,athens-1896,Athens,Greece,Europe,10km men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/adolf-schmal,Adolf SCHMAL,Austria,AT,AUT
+Cycling Track,athens-1896,Athens,Greece,Europe,12-hour race men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/adolf-schmal,Adolf SCHMAL,Austria,AT,AUT
+Cycling Track,athens-1896,Athens,Greece,Europe,12-hour race men,Men,SILVER,Athlete,,,Frederick Keeping,Great Britain,GB,GBR
+Cycling Track,athens-1896,Athens,Greece,Europe,100km men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/leon-flameng,Léon FLAMENG,France,FR,FRA
+Cycling Track,athens-1896,Athens,Greece,Europe,100km men,Men,SILVER,Athlete,,,Georgios Koletis,Greece,GR,GRE
+Cycling Track,athens-1896,Athens,Greece,Europe,Sprint individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-masson,Paul MASSON,France,FR,FRA
+Cycling Track,athens-1896,Athens,Greece,Europe,Sprint individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/stamatios-nikolopoulos,Stamatios NIKOLOPOULOS,Greece,GR,GRE
+Cycling Track,athens-1896,Athens,Greece,Europe,Sprint individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/leon-flameng,Léon FLAMENG,France,FR,FRA
+Cycling Track,athens-1896,Athens,Greece,Europe,1km time trial men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-masson,Paul MASSON,France,FR,FRA
+Cycling Track,athens-1896,Athens,Greece,Europe,1km time trial men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/stamatios-nikolopoulos,Stamatios NIKOLOPOULOS,Greece,GR,GRE
+Cycling Track,athens-1896,Athens,Greece,Europe,1km time trial men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/adolf-schmal,Adolf SCHMAL,Austria,AT,AUT
+Cycling Road,athens-1896,Athens,Greece,Europe,individual road race men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/aristidis-konstantinidis,Aristidis KONSTANTINIDIS,Greece,GR,GRE
+Cycling Road,athens-1896,Athens,Greece,Europe,individual road race men,Men,SILVER,Athlete,,,Anton Gödrich,Germany,DE,GER
+Cycling Road,athens-1896,Athens,Greece,Europe,individual road race men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/edward-battel,Edward BATTEL,Great Britain,GB,GBR
+Swimming,athens-1896,Athens,Greece,Europe,400m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-neumann,Paul NEUMANN,Austria,AT,AUT
+Swimming,athens-1896,Athens,Greece,Europe,400m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/antonios-pepanos,Antonios PEPANOS,Greece,GR,GRE
+Swimming,athens-1896,Athens,Greece,Europe,400m freestyle men,Men,BRONZE,Athlete,,,Efstathios Khorafas,Greece,GR,GRE
+Swimming,athens-1896,Athens,Greece,Europe,1200m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alfred-hajos,Alfred HAJOS,Hungary,HU,HUN
+Swimming,athens-1896,Athens,Greece,Europe,1200m freestyle men,Men,SILVER,Athlete,,,Ioannis Andreou,Greece,GR,GRE
+Swimming,athens-1896,Athens,Greece,Europe,100m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alfred-hajos,Alfred HAJOS,Hungary,HU,HUN
+Swimming,athens-1896,Athens,Greece,Europe,100m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/otto-herschmann,Otto HERSCHMANN,Austria,AT,AUT
+Swimming,athens-1896,Athens,Greece,Europe,100m freestyle for sailors men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ioannis-malokinis,Ioannis MALOKINIS,Greece,GR,GRE
+Swimming,athens-1896,Athens,Greece,Europe,100m freestyle for sailors men,Men,SILVER,Athlete,,,Spyros Khazapis,Greece,GR,GRE
+Swimming,athens-1896,Athens,Greece,Europe,100m freestyle for sailors men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/dimitrios-drivas,Dimitrios DRIVAS,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,25m army pistol men,Men,GOLD,Athlete,,,John Paine,United States of America,US,USA
+Shooting,athens-1896,Athens,Greece,Europe,25m army pistol men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/sumner-paine,Sumner PAINE,United States of America,US,USA
+Shooting,athens-1896,Athens,Greece,Europe,25m army pistol men,Men,BRONZE,Athlete,,,Nikolaos Dorakis,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,army rifle 200m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/pantelis-karasevdas,Pantelis KARASEVDAS,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,army rifle 200m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/pavlos-pavlidis,Pavlos PAVLIDIS,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,army rifle 200m men,Men,BRONZE,Athlete,,,Nikolaos Trikoupis,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,army rifle 300m men,Men,GOLD,Athlete,,,Georgios Orfanidis,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,army rifle 300m men,Men,SILVER,Athlete,,,Ioannis Frangoudis,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,army rifle 300m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/viggo-jensen,Viggo JENSEN,Denmark,DK,DEN
+Shooting,athens-1896,Athens,Greece,Europe,50m pistol 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sumner-paine,Sumner PAINE,United States of America,US,USA
+Shooting,athens-1896,Athens,Greece,Europe,50m pistol 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/holger-nielsen-1,Holger NIELSEN,Denmark,DK,DEN
+Shooting,athens-1896,Athens,Greece,Europe,50m pistol 60 shots men,Men,BRONZE,Athlete,,,Ioannis Frangoudis,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,25m rapid fire pistol 60 shots men,Men,GOLD,Athlete,,,Ioannis Frangoudis,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,25m rapid fire pistol 60 shots men,Men,SILVER,Athlete,,,Georgios Orfanidis,Greece,GR,GRE
+Shooting,athens-1896,Athens,Greece,Europe,25m rapid fire pistol 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/holger-nielsen-1,Holger NIELSEN,Denmark,DK,DEN
+Tennis,athens-1896,Athens,Greece,Europe,Singles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-boland,John BOLAND,Great Britain,GB,GBR
+Tennis,athens-1896,Athens,Greece,Europe,Singles men,Men,SILVER,Athlete,,,Demetrius Casdagli,Greece,GR,GRE
+Tennis,athens-1896,Athens,Greece,Europe,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/momcsillo-tapavicza,Momcsillo TAPAVICZA,Hungary,HU,HUN
+Tennis,athens-1896,Athens,Greece,Europe,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/konstantinos-paspatis,Konstantinos PASPATIS,Greece,GR,GRE
+Tennis,athens-1896,Athens,Greece,Europe,doubles men,Men,GOLD,GameTeam,Mixed team #2,https://olympics.com/en/athletes/john-boland,John BOLAND,MIX,,MIX
+Tennis,athens-1896,Athens,Greece,Europe,doubles men,Men,GOLD,GameTeam,Mixed team #2,,Fritz Traun,MIX,,MIX
+Tennis,athens-1896,Athens,Greece,Europe,doubles men,Men,SILVER,GameTeam,Greece team #1,,Demetrius Casdagli,Greece,GR,GRE
+Tennis,athens-1896,Athens,Greece,Europe,doubles men,Men,SILVER,GameTeam,Greece team #1,https://olympics.com/en/athletes/dimitrios-petrokokkinos,Dimitrios PETROKOKKINOS,Greece,GR,GRE
+Tennis,athens-1896,Athens,Greece,Europe,doubles men,Men,BRONZE,GameTeam,Mixed team #1,https://olympics.com/en/athletes/edwin-flack,Edwin FLACK,MIX,,MIX
+Tennis,athens-1896,Athens,Greece,Europe,doubles men,Men,BRONZE,GameTeam,Mixed team #1,https://olympics.com/en/athletes/george-stuart-robertson,George Stuart ROBERTSON,MIX,,MIX
+Wrestling,athens-1896,Athens,Greece,Europe,"Unlimited Class, Greco-Roman Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/carl-schumann,Carl SCHUHMANN,Germany,DE,GER
+Wrestling,athens-1896,Athens,Greece,Europe,"Unlimited Class, Greco-Roman Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/georgios-tsitas,Georgios TSITAS,Greece,GR,GRE
+Wrestling,athens-1896,Athens,Greece,Europe,"Unlimited Class, Greco-Roman Men",Men,BRONZE,Athlete,,,Stefanos Khristopoulos,Greece,GR,GRE
+Weightlifting,athens-1896,Athens,Greece,Europe,heavyweight - one hand lift men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/launceston-elliot-1,Launceston ELLIOT,Great Britain,GB,GBR
+Weightlifting,athens-1896,Athens,Greece,Europe,heavyweight - one hand lift men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/viggo-jensen,Viggo JENSEN,Denmark,DK,DEN
+Weightlifting,athens-1896,Athens,Greece,Europe,heavyweight - one hand lift men,Men,BRONZE,Athlete,,,Alexandros Nikolopoulos,Greece,GR,GRE
+Weightlifting,athens-1896,Athens,Greece,Europe,heavyweight - two hand lift men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/viggo-jensen,Viggo JENSEN,Denmark,DK,DEN
+Weightlifting,athens-1896,Athens,Greece,Europe,heavyweight - two hand lift men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/launceston-elliot-1,Launceston ELLIOT,Great Britain,GB,GBR
+Weightlifting,athens-1896,Athens,Greece,Europe,heavyweight - two hand lift men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sotirios-versis,Sotirios VERSIS,Greece,GR,GRE
