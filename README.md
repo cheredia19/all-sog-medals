@@ -53,7 +53,7 @@ description: ''
   }}
 />
 
-## Antwerp 1924
+## Paris 1924
 
 <FlatUiTable
   data={{
