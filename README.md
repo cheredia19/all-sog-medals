@@ -67,6 +67,7 @@ description: ''
   data={{
     url: 'amsterdam_1928.csv'
   }}
+/>
 
 ## Los Angeles 1932
 
