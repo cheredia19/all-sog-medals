@@ -1,0 +1,293 @@
+discipline_title,slug_game,city_host,country_host,continent_host,event_title,event_gender,medal_type,participant_type,participant_title,athlete_url,athlete_full_name,country_name,country_code,country_3_letter_code
+Fencing,paris-1900,Paris,France,Europe,foil masters men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lucien-merignac,Lucien MERIGNAC,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,foil masters men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alphonse-kirchhoffer,Alphonse KIRCHHOFFER,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,foil masters men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jean-baptiste-mimiague,Jean-Baptiste MIMIAGUE,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,sabre individual men,Men,GOLD,Athlete,,,"Gabriel, Count de la Falaise",France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,sabre individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/leon-thiebaut,Léon THIEBAUT,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,sabre individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/siegfried-flesch,Siegfried FLESCH,Austria,AT,AUT
+Fencing,paris-1900,Paris,France,Europe,foil individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/emile-coste,Emile COSTE,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,foil individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henri-masson,Henri MASSON,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,foil individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/marcel-jacques-boulenger,Marcel Jacques BOULENGER,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,pe masters men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/albert-ayat,Albert AYAT,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,pe masters men,Men,SILVER,Athlete,,,Gilbert Bougnol,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,pe masters men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/henri-laurent,Henri LAURENT,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,épée individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ramon-fonst,Ramon FONST,Cuba,CU,CUB
+Fencing,paris-1900,Paris,France,Europe,épée individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/louis-perree,Louis PERREE,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,épée individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/leon-see,Léon SEE,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,sabre masters men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/antonio-conte,Antonio CONTE,Italy,IT,ITA
+Fencing,paris-1900,Paris,France,Europe,sabre masters men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/italo-santelli,Italo SANTELLI,Italy,IT,ITA
+Fencing,paris-1900,Paris,France,Europe,sabre masters men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/milan-neralic,Milan NERALIC,Austria,AT,AUT
+Fencing,paris-1900,Paris,France,Europe,pe amateurs and masters men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/albert-ayat,Albert AYAT,France,FR,FRA
+Fencing,paris-1900,Paris,France,Europe,pe amateurs and masters men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ramon-fonst,Ramon FONST,Cuba,CU,CUB
+Fencing,paris-1900,Paris,France,Europe,pe amateurs and masters men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/leon-see,Léon SEE,France,FR,FRA
+Cycling Track,paris-1900,Paris,France,Europe,25 kilometres men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/louis-bastien-1,Louis BASTIEN,France,FR,FRA
+Cycling Track,paris-1900,Paris,France,Europe,25 kilometres men,Men,SILVER,Athlete,,,Lloyd Hildebrand,Great Britain,GB,GBR
+Cycling Track,paris-1900,Paris,France,Europe,25 kilometres men,Men,BRONZE,Athlete,,,Auguste Daumain,France,FR,FRA
+Cycling Track,paris-1900,Paris,France,Europe,Sprint individual men,Men,GOLD,Athlete,,,Albert Taillandier,France,FR,FRA
+Cycling Track,paris-1900,Paris,France,Europe,Sprint individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/fernand-sanz,Fernand SANZ,France,FR,FRA
+Cycling Track,paris-1900,Paris,France,Europe,Sprint individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/john-henry-lake,John Henry LAKE,United States of America,US,USA
+Cycling Track,paris-1900,Paris,France,Europe,Course De Primes Men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/enrico-brusoni,Enrico BRUSONI,Italy,IT,ITA
+Cycling Track,paris-1900,Paris,France,Europe,Course De Primes Men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/karl-duill,Karl DUILL,Germany,DE,GER
+Cycling Track,paris-1900,Paris,France,Europe,Course De Primes Men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/louis-trousselier,Louis TROUSSELIER,France,FR,FRA
+Tug of War,paris-1900,Paris,France,Europe,tug of war men,Men,GOLD,GameTeam,Mixed team,,,MIX,,MIX
+Tug of War,paris-1900,Paris,France,Europe,tug of war men,Men,SILVER,GameTeam,Racing Club de France,,,MIX,,MIX
+Football,paris-1900,Paris,France,Europe,football men,Men,GOLD,GameTeam,Upton Park FC,,,Great Britain,GB,GBR
+Football,paris-1900,Paris,France,Europe,football men,Men,SILVER,GameTeam,USFSA,,,France,FR,FRA
+Football,paris-1900,Paris,France,Europe,football men,Men,BRONZE,GameTeam,Univ. of Brussels,,,MIX,,MIX
+Water Polo,paris-1900,Paris,France,Europe,water polo men,Men,GOLD,GameTeam,"Osborne Swimming Club, Manchester",,,MIX,,MIX
+Water Polo,paris-1900,Paris,France,Europe,water polo men,Men,SILVER,GameTeam,Brussels Swimming and Water Polo Club,,,Belgium,BE,BEL
+Water Polo,paris-1900,Paris,France,Europe,water polo men,Men,BRONZE,GameTeam,Libellule de Paris #1,,,MIX,,MIX
+Water Polo,paris-1900,Paris,France,Europe,water polo men,Men,BRONZE,GameTeam,Pupilles de Neptune de Lille #2 #1,,,France,FR,FRA
+Shooting,paris-1900,Paris,France,Europe,free rifle team men,Men,GOLD,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Shooting,paris-1900,Paris,France,Europe,free rifle team men,Men,SILVER,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,paris-1900,Paris,France,Europe,free rifle team men,Men,BRONZE,GameTeam,France team,,,France,FR,FRA
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m prone men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/achille-paroche,Achille PAROCHE,France,FR,FRA
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m prone men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/anders-peter-nielsen,Anders Peter NIELSEN,Denmark,DK,DEN
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m prone men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ole-ostmo,Ole ÖSTMO,Norway,NO,NOR
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lars-jorgen-madsen,Lars Jörgen MADSEN,Denmark,DK,DEN
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m standing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ole-ostmo,Ole ÖSTMO,Norway,NO,NOR
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m standing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-paumier-du-vergier,Charles PAUMIER DU VERGIER,Belgium,BE,BEL
+Shooting,paris-1900,Paris,France,Europe,50m pistol 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/karl-konrad-roderer,Karl Konrad RÖDERER,Switzerland,CH,SUI
+Shooting,paris-1900,Paris,France,Europe,50m pistol 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/achille-paroche,Achille PAROCHE,France,FR,FRA
+Shooting,paris-1900,Paris,France,Europe,50m pistol 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/konrad-staheli,Konrad STÄHELI,Switzerland,CH,SUI
+Shooting,paris-1900,Paris,France,Europe,50m army pistol team men,Men,GOLD,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Shooting,paris-1900,Paris,France,Europe,50m army pistol team men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Shooting,paris-1900,Paris,France,Europe,50m army pistol team men,Men,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Shooting,paris-1900,Paris,France,Europe,trap 125 targets men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/roger-de-barbarin,Roger DE BARBARIN,France,FR,FRA
+Shooting,paris-1900,Paris,France,Europe,trap 125 targets men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/rene-guyot,René GUYOT,Belgium,BE,BEL
+Shooting,paris-1900,Paris,France,Europe,trap 125 targets men,Men,BRONZE,Athlete,,,"Justinien, Count Clary",France,FR,FRA
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m 3 positions men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/emil-kellenberger,Emil KELLENBERGER,Switzerland,CH,SUI
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m 3 positions men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/anders-peter-nielsen,Anders Peter NIELSEN,Denmark,DK,DEN
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m 3 positions men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ole-ostmo,Ole ÖSTMO,Norway,NO,NOR
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m 3 positions men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/paul-van-asbroeck,Paul VAN ASBROECK,Belgium,BE,BEL
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m kneeling men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/konrad-staheli,Konrad STÄHELI,Switzerland,CH,SUI
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m kneeling men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/anders-peter-nielsen,Anders Peter NIELSEN,Denmark,DK,DEN
+Shooting,paris-1900,Paris,France,Europe,army rifle 300m kneeling men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/emil-kellenberger,Emil KELLENBERGER,Switzerland,CH,SUI
+Golf,paris-1900,Paris,France,Europe,Individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-edward-sands,Charles Edward SANDS,United States of America,US,USA
+Golf,paris-1900,Paris,France,Europe,Individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/walter-rutherford,Walter RUTHERFORD,Great Britain,GB,GBR
+Golf,paris-1900,Paris,France,Europe,Individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/david-donaldson-robertson,David Donaldson ROBERTSON,Great Britain,GB,GBR
+Golf,paris-1900,Paris,France,Europe,Individual women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/margaret-ives-abbott,Margaret Ives ABBOTT,United States of America,US,USA
+Golf,paris-1900,Paris,France,Europe,Individual women,Women,SILVER,Athlete,,,Polly Whittier,United States of America,US,USA
+Golf,paris-1900,Paris,France,Europe,Individual women,Women,BRONZE,Athlete,,,Abbie Pratt,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,high jump standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ray-ewry,Ray EWRY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,high jump standing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/irving-baxter,Irving BAXTER,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,high jump standing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lewis-pendleton-sheldon,Lewis Pendleton SHELDON,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,marathon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/michel-theato,Michel THEATO,Luxembourg,LU,LUX
+Athletics,paris-1900,Paris,France,Europe,marathon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/emile-champion,Emile CHAMPION,France,FR,FRA
+Athletics,paris-1900,Paris,France,Europe,marathon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ernst-fast,Ernst FAST,Sweden,SE,SWE
+Athletics,paris-1900,Paris,France,Europe,pole vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/irving-baxter,Irving BAXTER,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/meredith-bright-colkett,Meredith Bright COLKETT,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,pole vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/carl-albert-andersen,Carl Albert ANDERSEN,Norway,NO,NOR
+Athletics,paris-1900,Paris,France,Europe,800m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alfred-tysoe,Alfred TYSOE,Great Britain,GB,GBR
+Athletics,paris-1900,Paris,France,Europe,800m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-cregan,John CREGAN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,800m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/david-hall,David HALL,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,triple jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/meyer-prinstein,Meyer PRINSTEIN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,triple jump men,Men,SILVER,Athlete,,,James B. Connolly,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,triple jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lewis-pendleton-sheldon,Lewis Pendleton SHELDON,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,400m men,Men,GOLD,Athlete,,,Maxey Long,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,400m men,Men,SILVER,Athlete,,,Bill Holland,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,400m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ernst-schultz,Ernst SCHULTZ,Denmark,DK,DEN
+Athletics,paris-1900,Paris,France,Europe,200m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alvin-kraenzlein,Alvin KRAENZLEIN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,200m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/norman-pritchard,Norman PRITCHARD,India,IN,IND
+Athletics,paris-1900,Paris,France,Europe,200m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/walter-b-john-tewksbury,Walter B. John TEWKSBURY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,400m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/walter-b-john-tewksbury,Walter B. John TEWKSBURY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,400m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henri-tauzin,Henri TAUZIN,France,FR,FRA
+Athletics,paris-1900,Paris,France,Europe,400m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/george-orton,George ORTON,Canada,CA,CAN
+Athletics,paris-1900,Paris,France,Europe,long jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alvin-kraenzlein,Alvin KRAENZLEIN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,long jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/meyer-prinstein,Meyer PRINSTEIN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,long jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/patrick-joseph-leahy,Patrick Joseph LEAHY,Great Britain,GB,GBR
+Athletics,paris-1900,Paris,France,Europe,110m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alvin-kraenzlein,Alvin KRAENZLEIN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,110m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-mclean,John MCLEAN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,110m hurdles men,Men,BRONZE,Athlete,,,Fred Moloney,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,1500m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-bennett,Charles BENNETT,Great Britain,GB,GBR
+Athletics,paris-1900,Paris,France,Europe,1500m men,Men,SILVER,Athlete,,,Henry Deloge,France,FR,FRA
+Athletics,paris-1900,Paris,France,Europe,1500m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/john-bray,John BRAY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,3000m steeplechase men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-orton,George ORTON,Canada,CA,CAN
+Athletics,paris-1900,Paris,France,Europe,3000m steeplechase men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/sidney-robinson-1,Sidney ROBINSON,Great Britain,GB,GBR
+Athletics,paris-1900,Paris,France,Europe,3000m steeplechase men,Men,BRONZE,Athlete,,,Jean Chastanié,France,FR,FRA
+Athletics,paris-1900,Paris,France,Europe,shot put men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/richard-sheldon,Richard SHELDON,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,shot put men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/josiah-mccracken,Josiah MCCRACKEN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,shot put men,Men,BRONZE,Athlete,,,Bob Garrett,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,long jump standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ray-ewry,Ray EWRY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,long jump standing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/irving-baxter,Irving BAXTER,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,long jump standing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/emile-torcheboeuf,Emile TORCHEBOEUF,France,FR,FRA
+Athletics,paris-1900,Paris,France,Europe,high jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/irving-baxter,Irving BAXTER,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,high jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/patrick-joseph-leahy,Patrick Joseph LEAHY,Great Britain,GB,GBR
+Athletics,paris-1900,Paris,France,Europe,high jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lajos-gonczy,Lajos GÖNCZY,Hungary,HU,HUN
+Athletics,paris-1900,Paris,France,Europe,5000m team men,Men,GOLD,GameTeam,Amateur Athletic Association,,,MIX,,MIX
+Athletics,paris-1900,Paris,France,Europe,5000m team men,Men,SILVER,GameTeam,Racing Club de France,,,France,FR,FRA
+Athletics,paris-1900,Paris,France,Europe,4000m steeplechase men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-rimmer,John RIMMER,Great Britain,GB,GBR
+Athletics,paris-1900,Paris,France,Europe,4000m steeplechase men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-bennett,Charles BENNETT,Great Britain,GB,GBR
+Athletics,paris-1900,Paris,France,Europe,4000m steeplechase men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sidney-robinson-1,Sidney ROBINSON,Great Britain,GB,GBR
+Athletics,paris-1900,Paris,France,Europe,triple jump standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ray-ewry,Ray EWRY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,triple jump standing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/irving-baxter,Irving BAXTER,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,triple jump standing men,Men,BRONZE,Athlete,,,Bob Garrett,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,100m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/francis-jarvis,Francis JARVIS,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,100m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/walter-b-john-tewksbury,Walter B. John TEWKSBURY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,100m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/stanley-rowley,Stanley ROWLEY,Australia,AU,AUS
+Athletics,paris-1900,Paris,France,Europe,200m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/walter-b-john-tewksbury,Walter B. John TEWKSBURY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,200m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/norman-pritchard,Norman PRITCHARD,India,IN,IND
+Athletics,paris-1900,Paris,France,Europe,200m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/stanley-rowley,Stanley ROWLEY,Australia,AU,AUS
+Athletics,paris-1900,Paris,France,Europe,hammer throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-joseph-flanagan,John Joseph FLANAGAN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,hammer throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/thomas-truxton-hare,Thomas Truxton HARE,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,hammer throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/josiah-mccracken,Josiah MCCRACKEN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,discus throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/rudolf-bauer,Rudolf BAUER,Hungary,HU,HUN
+Athletics,paris-1900,Paris,France,Europe,discus throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frantisek-janda-suk,Frantisek JANDA-SUK,Bohemia,,BOH
+Athletics,paris-1900,Paris,France,Europe,discus throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/richard-sheldon,Richard SHELDON,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,60m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alvin-kraenzlein,Alvin KRAENZLEIN,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,60m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/walter-b-john-tewksbury,Walter B. John TEWKSBURY,United States of America,US,USA
+Athletics,paris-1900,Paris,France,Europe,60m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/stanley-rowley,Stanley ROWLEY,Australia,AU,AUS
+Cricket,paris-1900,Paris,France,Europe,cricket men,Men,GOLD,GameTeam,Devon and Somerset Wanderers,,,Great Britain,GB,GBR
+Cricket,paris-1900,Paris,France,Europe,cricket men,Men,SILVER,GameTeam,Union des Sociétés Français de Sports Athletiques,,,MIX,,MIX
+Gymnastics Artistic,paris-1900,Paris,France,Europe,individual all-round men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/gustave-sandras,Gustave SANDRAS,France,FR,FRA
+Gymnastics Artistic,paris-1900,Paris,France,Europe,individual all-round men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/noel-bas,Noël BAS,France,FR,FRA
+Gymnastics Artistic,paris-1900,Paris,France,Europe,individual all-round men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lucien-demanet,Lucien DEMANET,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,0.5-1t mixed,Open,GOLD,GameTeam,Scotia,,,Great Britain,GB,GBR
+Sailing,paris-1900,Paris,France,Europe,0.5-1t mixed,Open,SILVER,GameTeam,Crabe II #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,0.5-1t mixed,Open,BRONZE,GameTeam,Scamasaxe #2,https://olympics.com/en/athletes/marcel-meran,Marcel MERAN,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,0.5-1t mixed,Open,BRONZE,GameTeam,Scamasaxe #2,,Émile Michelet,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,10-20t mixed,Open,GOLD,GameTeam,Esterel #1,https://olympics.com/en/athletes/emile-billard,Emile BILLARD,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,10-20t mixed,Open,GOLD,GameTeam,Esterel #1,,Paul Perquer,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,10-20t mixed,Open,SILVER,GameTeam,Quand-Même #2,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,10-20t mixed,Open,BRONZE,GameTeam,Laurea #1,,,Great Britain,GB,GBR
+Sailing,paris-1900,Paris,France,Europe,1-2 Ton Race One Open,Open,GOLD,GameTeam,Lerina,,,Switzerland,CH,SUI
+Sailing,paris-1900,Paris,France,Europe,1-2 Ton Race One Open,Open,SILVER,GameTeam,Martha #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,1-2 Ton Race One Open,Open,BRONZE,GameTeam,Nina Claire #2,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,open class mixed,Open,GOLD,GameTeam,Scotia,,,Great Britain,GB,GBR
+Sailing,paris-1900,Paris,France,Europe,open class mixed,Open,SILVER,GameTeam,Aschenbrodel,,,Germany,DE,GER
+Sailing,paris-1900,Paris,France,Europe,open class mixed,Open,BRONZE,GameTeam,Turquoise #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,1-2t mixed,Open,GOLD,GameTeam,Aschenbrodel,,,Germany,DE,GER
+Sailing,paris-1900,Paris,France,Europe,1-2t mixed,Open,SILVER,GameTeam,Lerina,,,Switzerland,CH,SUI
+Sailing,paris-1900,Paris,France,Europe,1-2t mixed,Open,BRONZE,GameTeam,Martha #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,"0.5t mixed, race one",Open,GOLD,GameTeam,Baby #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,"0.5t mixed, race one",Open,SILVER,GameTeam,Quand-Même #2,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,"0.5t mixed, race one",Open,BRONZE,GameTeam,Sarcelle #3,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,2-3 Ton Race Two Open,Open,GOLD,GameTeam,Olle,,,MIX,,MIX
+Sailing,paris-1900,Paris,France,Europe,2-3 Ton Race Two Open,Open,SILVER,GameTeam,Favorite #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,2-3 Ton Race Two Open,Open,BRONZE,GameTeam,Mignon #3,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,3-10 Ton Race One Open,Open,GOLD,GameTeam,Femur #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,3-10 Ton Race One Open,Open,SILVER,GameTeam,Mascotte,,,Netherlands,NL,NED
+Sailing,paris-1900,Paris,France,Europe,3-10 Ton Race One Open,Open,BRONZE,GameTeam,Gitana #2,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,"0.5t mixed, race two",Open,GOLD,GameTeam,Fantlet #7,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,"0.5t mixed, race two",Open,SILVER,GameTeam,Quand-Même #2,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,"0.5t mixed, race two",Open,BRONZE,GameTeam,Baby #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,3-10t mixed,Open,GOLD,GameTeam,Bona Fide,,,Great Britain,GB,GBR
+Sailing,paris-1900,Paris,France,Europe,3-10t mixed,Open,SILVER,GameTeam,Gitana #2,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,3-10t mixed,Open,BRONZE,GameTeam,Frimousse,,,United States of America,US,USA
+Sailing,paris-1900,Paris,France,Europe,½-1 Ton Race Two Open,Open,GOLD,GameTeam,Carabinier #15,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,½-1 Ton Race Two Open,Open,SILVER,GameTeam,Scamasaxe #3,https://olympics.com/en/athletes/marcel-meran,Marcel MERAN,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,½-1 Ton Race Two Open,Open,SILVER,GameTeam,Scamasaxe #3,,Émile Michelet,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,½-1 Ton Race Two Open,Open,BRONZE,GameTeam,Crabe II #4,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,2-3t mixed,Open,GOLD,GameTeam,Olle,,,MIX,,MIX
+Sailing,paris-1900,Paris,France,Europe,2-3t mixed,Open,SILVER,GameTeam,Favorite #1,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,2-3t mixed,Open,BRONZE,GameTeam,Gwendoline #2,,,France,FR,FRA
+Sailing,paris-1900,Paris,France,Europe,20t + mixed,Open,GOLD,GameTeam,Cicely #1,,,Great Britain,GB,GBR
+Sailing,paris-1900,Paris,France,Europe,20t + mixed,Open,SILVER,GameTeam,Brynhild #2,,,Great Britain,GB,GBR
+Sailing,paris-1900,Paris,France,Europe,20t + mixed,Open,BRONZE,GameTeam,Formosa,,,United States of America,US,USA
+Rugby,paris-1900,Paris,France,Europe,rugby men,Men,GOLD,GameTeam,Union des Sociétés Français de Sports Athletiques,,,MIX,,MIX
+Rugby,paris-1900,Paris,France,Europe,rugby men,Men,SILVER,GameTeam,Frankfurt Club,,,Germany,DE,GER
+Rugby,paris-1900,Paris,France,Europe,rugby men,Men,SILVER,GameTeam,Moseley Wanderers,,,Great Britain,GB,GBR
+Archery,paris-1900,Paris,France,Europe,Championnat Du Monde Men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/henri-herouin,Henri HEROUIN,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,Championnat Du Monde Men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hubert-van-innis,Hubert VAN INNIS,Belgium,BE,BEL
+Archery,paris-1900,Paris,France,Europe,au cordon dor 33m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hubert-van-innis,Hubert VAN INNIS,Belgium,BE,BEL
+Archery,paris-1900,Paris,France,Europe,au cordon dor 33m men,Men,SILVER,Athlete,,,Victor Thibault,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,au cordon dor 33m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-frederic-petit,Charles Frédéric PETIT,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,au chapelet 50m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/eugene-mougin,Eugène MOUGIN,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,au chapelet 50m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henri-helle,Henri HELLE,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,au chapelet 50m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/emile-mercier,Emile MERCIER,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,au cordon dor 50m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/henri-herouin,Henri HEROUIN,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,au cordon dor 50m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hubert-van-innis,Hubert VAN INNIS,Belgium,BE,BEL
+Archery,paris-1900,Paris,France,Europe,au cordon dor 50m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/emile-fisseux,Emile FISSEUX,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,au chapelet 33m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hubert-van-innis,Hubert VAN INNIS,Belgium,BE,BEL
+Archery,paris-1900,Paris,France,Europe,au chapelet 33m men,Men,SILVER,Athlete,,,Victor Thibault,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,au chapelet 33m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-frederic-petit,Charles Frédéric PETIT,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,sur la perche à la herse men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/emmanuel-foulon,Emmanuel FOULON,Belgium,BE,BEL
+Archery,paris-1900,Paris,France,Europe,sur la perche à la herse men,Men,SILVER,Athlete,,,"- Druart, Jr.",Belgium,BE,BEL
+Archery,paris-1900,Paris,France,Europe,sur la perche à la herse men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/auguste-serrurier,Auguste SERRURIER,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,sur la perche à la pyramide men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/emile-grumiaux,Emile GRUMIAUX,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,sur la perche à la pyramide men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/auguste-serrurier,Auguste SERRURIER,France,FR,FRA
+Archery,paris-1900,Paris,France,Europe,sur la perche à la pyramide men,Men,BRONZE,Athlete,,,Louis Glineur,Belgium,BE,BEL
+Equestrian Jumping,paris-1900,Paris,France,Europe,individual mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/constant-van-langhendonck,Constant VAN LANGHENDONCK,Belgium,BE,BEL
+Equestrian Jumping,paris-1900,Paris,France,Europe,individual mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/gian-giorgio-trissino,Gian Giorgio TRISSINO,Italy,IT,ITA
+Equestrian Jumping,paris-1900,Paris,France,Europe,individual mixed,Open,BRONZE,Athlete,,,Jacques de Prunelé,France,FR,FRA
+Equestrian Jumping,paris-1900,Paris,France,Europe,high jump mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/gian-giorgio-trissino,Gian Giorgio TRISSINO,Italy,IT,ITA
+Equestrian Jumping,paris-1900,Paris,France,Europe,high jump mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/dominique-maximien-garderes,Dominique Maximien GARDERES,France,FR,FRA
+Equestrian Jumping,paris-1900,Paris,France,Europe,high jump mixed,Open,BRONZE,Athlete,,,Georges Van Der Poele,Belgium,BE,BEL
+Equestrian Jumping,paris-1900,Paris,France,Europe,long jump individual mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/aime-haegeman,Aimé HAEGEMAN,Belgium,BE,BEL
+Equestrian Jumping,paris-1900,Paris,France,Europe,long jump individual mixed,Open,SILVER,Athlete,,,Georges Van Der Poele,Belgium,BE,BEL
+Equestrian Jumping,paris-1900,Paris,France,Europe,long jump individual mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/louis-de-champsavin,Louis DE CHAMPSAVIN,France,FR,FRA
+Croquet,paris-1900,Paris,France,Europe,double men,Open,GOLD,GameTeam,France team,,Georges Johin,France,FR,FRA
+Croquet,paris-1900,Paris,France,Europe,double men,Open,GOLD,GameTeam,France team,,Gaston Aumoitte,France,FR,FRA
+Croquet,paris-1900,Paris,France,Europe,individual 2 balls men,Open,GOLD,Athlete,,,Chrétien Waydelich,France,FR,FRA
+Croquet,paris-1900,Paris,France,Europe,individual 2 balls men,Open,SILVER,Athlete,,,Maurice Vignerot,France,FR,FRA
+Croquet,paris-1900,Paris,France,Europe,individual 2 balls men,Open,BRONZE,Athlete,,,Jacques Sautereau,France,FR,FRA
+Croquet,paris-1900,Paris,France,Europe,individual 1 ball men,Open,GOLD,Athlete,,,Gaston Aumoitte,France,FR,FRA
+Croquet,paris-1900,Paris,France,Europe,individual 1 ball men,Open,SILVER,Athlete,,,Georges Johin,France,FR,FRA
+Croquet,paris-1900,Paris,France,Europe,individual 1 ball men,Open,BRONZE,Athlete,,,Chrétien Waydelich,France,FR,FRA
+Rowing,paris-1900,Paris,France,Europe,pair-oared shell with coxswain men,Men,GOLD,GameTeam,Minerva Amsterdam,,,MIX,,MIX
+Rowing,paris-1900,Paris,France,Europe,pair-oared shell with coxswain men,Men,SILVER,GameTeam,Societé Nautique de la Marne #1,,Lucien Martinet,France,FR,FRA
+Rowing,paris-1900,Paris,France,Europe,pair-oared shell with coxswain men,Men,SILVER,GameTeam,Societé Nautique de la Marne #1,,René Waleff,France,FR,FRA
+Rowing,paris-1900,Paris,France,Europe,pair-oared shell with coxswain men,Men,BRONZE,GameTeam,Rowing Club Castillon #3,,,France,FR,FRA
+Rowing,paris-1900,Paris,France,Europe,four-oared shell with coxswain men - Final 2,Men,GOLD,GameTeam,"Germania Ruder Club, Hamburg #2",,,Germany,DE,GER
+Rowing,paris-1900,Paris,France,Europe,four-oared shell with coxswain men - Final 2,Men,SILVER,GameTeam,Minerva Amsterdam,,,Netherlands,NL,NED
+Rowing,paris-1900,Paris,France,Europe,four-oared shell with coxswain men - Final 2,Men,BRONZE,GameTeam,Ludwigshafener Ruder Verein #1,,,Germany,DE,GER
+Rowing,paris-1900,Paris,France,Europe,eight with coxswain 8 men,Men,GOLD,GameTeam,Vesper Boat Club,,,United States of America,US,USA
+Rowing,paris-1900,Paris,France,Europe,eight with coxswain 8 men,Men,SILVER,GameTeam,Royal Club Nautique de Gand,,,Belgium,BE,BEL
+Rowing,paris-1900,Paris,France,Europe,eight with coxswain 8 men,Men,BRONZE,GameTeam,Minerva Amsterdam,,,Netherlands,NL,NED
+Rowing,paris-1900,Paris,France,Europe,single sculls 1x men,Men,GOLD,Athlete,,,Hermann Barrelet,France,FR,FRA
+Rowing,paris-1900,Paris,France,Europe,single sculls 1x men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/andre-gaudin,André GAUDIN,France,FR,FRA
+Rowing,paris-1900,Paris,France,Europe,single sculls 1x men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/saint-george-ashe,Saint-George ASHE,Great Britain,GB,GBR
+Rowing,paris-1900,Paris,France,Europe,four-oared shell with coxswain men - Final 1,Men,GOLD,GameTeam,Cercle de l'Aviron Roubaix #4,,,France,FR,FRA
+Rowing,paris-1900,Paris,France,Europe,four-oared shell with coxswain men - Final 1,Men,SILVER,GameTeam,Club Nautique de Lyon #2,,,France,FR,FRA
+Rowing,paris-1900,Paris,France,Europe,four-oared shell with coxswain men - Final 1,Men,BRONZE,GameTeam,Favorite Hammonia #3,,,Germany,DE,GER
+Basque Pelota,paris-1900,Paris,France,Europe,cesta punta men,Men,GOLD,GameTeam,Spain team,,Francisco Villota,Spain,ES,ESP
+Basque Pelota,paris-1900,Paris,France,Europe,cesta punta men,Men,GOLD,GameTeam,Spain team,,José de Amézola,Spain,ES,ESP
+Tennis,paris-1900,Paris,France,Europe,Singles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hugh-lawrence-doherty,Hugh Lawrence DOHERTY,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,Singles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/harold-sergerson-mahony,Harold Sergerson MAHONY,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/reginald-frank-doherty,Reginald Frank DOHERTY,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arthur-b-j-norris,Arthur B.J. NORRIS,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,doubles men,Men,GOLD,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/hugh-lawrence-doherty,Hugh Lawrence DOHERTY,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,doubles men,Men,GOLD,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/reginald-frank-doherty,Reginald Frank DOHERTY,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,doubles men,Men,SILVER,GameTeam,Mixed team #1,https://olympics.com/en/athletes/basil-spalding-de-garmendia,Basil Spalding DE GARMENDIA,MIX,,MIX
+Tennis,paris-1900,Paris,France,Europe,doubles men,Men,SILVER,GameTeam,Mixed team #1,https://olympics.com/en/athletes/max-decugis,Max DECUGIS,MIX,,MIX
+Tennis,paris-1900,Paris,France,Europe,doubles men,Men,BRONZE,GameTeam,France team #1,https://olympics.com/en/athletes/andre-prevost,André PREVOST,France,FR,FRA
+Tennis,paris-1900,Paris,France,Europe,doubles men,Men,BRONZE,GameTeam,France team #1,,Guy de la Chapelle,France,FR,FRA
+Tennis,paris-1900,Paris,France,Europe,doubles men,Men,BRONZE,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/arthur-b-j-norris,Arthur B.J. NORRIS,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,doubles men,Men,BRONZE,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/harold-sergerson-mahony,Harold Sergerson MAHONY,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,Singles women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/charlotte-cooper,Charlotte COOPER,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,Singles women,Women,SILVER,Athlete,,,Yvonne Prévost,France,FR,FRA
+Tennis,paris-1900,Paris,France,Europe,Singles women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/marion-jones-1,Marion JONES,United States of America,US,USA
+Tennis,paris-1900,Paris,France,Europe,Singles women,Women,BRONZE,Athlete,,,Hedwig Rosenbaum,Bohemia,,BOH
+Tennis,paris-1900,Paris,France,Europe,mixed doubles mixed,Mixed,GOLD,GameTeam,Great Britain team,https://olympics.com/en/athletes/charlotte-cooper,Charlotte COOPER,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,mixed doubles mixed,Mixed,GOLD,GameTeam,Great Britain team,https://olympics.com/en/athletes/reginald-frank-doherty,Reginald Frank DOHERTY,Great Britain,GB,GBR
+Tennis,paris-1900,Paris,France,Europe,mixed doubles mixed,Mixed,SILVER,GameTeam,Mixed team #1,,Yvonne Prévost,MIX,,MIX
+Tennis,paris-1900,Paris,France,Europe,mixed doubles mixed,Mixed,SILVER,GameTeam,Mixed team #1,https://olympics.com/en/athletes/harold-sergerson-mahony,Harold Sergerson MAHONY,MIX,,MIX
+Tennis,paris-1900,Paris,France,Europe,mixed doubles mixed,Mixed,BRONZE,GameTeam,Mixed team #2,,Hedwig Rosenbaum,MIX,,MIX
+Tennis,paris-1900,Paris,France,Europe,mixed doubles mixed,Mixed,BRONZE,GameTeam,Mixed team #2,https://olympics.com/en/athletes/archibald-warden,Archibald WARDEN,MIX,,MIX
+Tennis,paris-1900,Paris,France,Europe,mixed doubles mixed,Mixed,BRONZE,GameTeam,Mixed team #3,https://olympics.com/en/athletes/marion-jones-1,Marion JONES,MIX,,MIX
+Tennis,paris-1900,Paris,France,Europe,mixed doubles mixed,Mixed,BRONZE,GameTeam,Mixed team #3,https://olympics.com/en/athletes/hugh-lawrence-doherty,Hugh Lawrence DOHERTY,MIX,,MIX
+Swimming,paris-1900,Paris,France,Europe,1000m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-arthur-jarvis,John Arthur JARVIS,Great Britain,GB,GBR
+Swimming,paris-1900,Paris,France,Europe,1000m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/otto-wahle,Otto WAHLE,Austria,AT,AUT
+Swimming,paris-1900,Paris,France,Europe,1000m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/zoltan-halmay,Zoltan HALMAY,Hungary,HU,HUN
+Swimming,paris-1900,Paris,France,Europe,200m team swimming men,Men,GOLD,GameTeam,Deutscher Schwimm Verband Berlin,,,Germany,DE,GER
+Swimming,paris-1900,Paris,France,Europe,200m team swimming men,Men,SILVER,GameTeam,Tritons Lillois #2,,,France,FR,FRA
+Swimming,paris-1900,Paris,France,Europe,200m team swimming men,Men,BRONZE,GameTeam,Pupilles de Neptune de Lille #1,,,France,FR,FRA
+Swimming,paris-1900,Paris,France,Europe,4000m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-arthur-jarvis,John Arthur JARVIS,Great Britain,GB,GBR
+Swimming,paris-1900,Paris,France,Europe,4000m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/zoltan-halmay,Zoltan HALMAY,Hungary,HU,HUN
+Swimming,paris-1900,Paris,France,Europe,4000m freestyle men,Men,BRONZE,Athlete,,,Louis Martin,France,FR,FRA
+Swimming,paris-1900,Paris,France,Europe,200m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frederick-c-v-lane,Frederick C.V. LANE,Australia,AU,AUS
+Swimming,paris-1900,Paris,France,Europe,200m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/zoltan-halmay,Zoltan HALMAY,Hungary,HU,HUN
+Swimming,paris-1900,Paris,France,Europe,200m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/karl-ruberl,Karl RUBERL,Austria,AT,AUT
+Swimming,paris-1900,Paris,France,Europe,200m backstroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ernst-hoppenberg,Ernst HOPPENBERG,Germany,DE,GER
+Swimming,paris-1900,Paris,France,Europe,200m backstroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/karl-ruberl,Karl RUBERL,Austria,AT,AUT
+Swimming,paris-1900,Paris,France,Europe,200m backstroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/johannes-drost,Johannes DROST,Netherlands,NL,NED
+Swimming,paris-1900,Paris,France,Europe,200m obstacle event men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frederick-c-v-lane,Frederick C.V. LANE,Australia,AU,AUS
+Swimming,paris-1900,Paris,France,Europe,200m obstacle event men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/otto-wahle,Otto WAHLE,Austria,AT,AUT
+Swimming,paris-1900,Paris,France,Europe,200m obstacle event men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/peter-kemp,Peter KEMP,Great Britain,GB,GBR
+Swimming,paris-1900,Paris,France,Europe,underwater swimming men,Men,GOLD,Athlete,,,Charles Devendeville,France,FR,FRA
+Swimming,paris-1900,Paris,France,Europe,underwater swimming men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/andre-six,André SIX,France,FR,FRA
+Swimming,paris-1900,Paris,France,Europe,underwater swimming men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/peder-lykkeberg,Peder LYKKEBERG,Denmark,DK,DEN
+Polo,paris-1900,Paris,France,Europe,polo men,Men,GOLD,GameTeam,Foxhunters Hurlingham #1,,,MIX,,MIX
+Polo,paris-1900,Paris,France,Europe,polo men,Men,SILVER,GameTeam,"BLO Polo Club, Rugby #2",,,MIX,,MIX
+Polo,paris-1900,Paris,France,Europe,polo men,Men,BRONZE,GameTeam,"Bagatelle Polo Club, Paris #3",,,MIX,,MIX
+Polo,paris-1900,Paris,France,Europe,polo men,Men,BRONZE,GameTeam,A North American Team #4,,,MIX,,MIX
