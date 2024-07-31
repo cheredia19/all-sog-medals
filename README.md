@@ -44,3 +44,11 @@ description: ''
     url: 'stockholm_1912.csv'
   }}
 />
+
+## Antwerp 1920
+
+<FlatUiTable
+  data={{
+    url: 'antwerp_1920.csv'
+  }}
+/>
