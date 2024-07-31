@@ -1,0 +1,396 @@
+discipline_title,slug_game,city_host,country_host,continent_host,event_title,event_gender,medal_type,participant_type,participant_title,athlete_url,athlete_full_name,country_name,country_code,country_3_letter_code
+Fencing,paris-1924,Paris,France,Europe,foil team men,Men,GOLD,GameTeam,France team,,,France,FR,FRA
+Fencing,paris-1924,Paris,France,Europe,foil team men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Fencing,paris-1924,Paris,France,Europe,foil team men,Men,BRONZE,GameTeam,Hungary team,,,Hungary,HU,HUN
+Fencing,paris-1924,Paris,France,Europe,épée individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-delporte-1,Charles DELPORTE,Belgium,BE,BEL
+Fencing,paris-1924,Paris,France,Europe,épée individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/roger-francois-ducret,Roger François DUCRET,France,FR,FRA
+Fencing,paris-1924,Paris,France,Europe,épée individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/nils-erik-hellsten,Nils Erik HELLSTEN,Sweden,SE,SWE
+Fencing,paris-1924,Paris,France,Europe,sabre team men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Fencing,paris-1924,Paris,France,Europe,sabre team men,Men,SILVER,GameTeam,Hungary team,,,Hungary,HU,HUN
+Fencing,paris-1924,Paris,France,Europe,sabre team men,Men,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Fencing,paris-1924,Paris,France,Europe,foil individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/roger-francois-ducret,Roger François DUCRET,France,FR,FRA
+Fencing,paris-1924,Paris,France,Europe,foil individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/philippe-cattiau,Philippe CATTIAU,France,FR,FRA
+Fencing,paris-1924,Paris,France,Europe,foil individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/maurice-e-van-damme,Maurice E. VAN DAMME,Belgium,BE,BEL
+Fencing,paris-1924,Paris,France,Europe,épée team men,Men,GOLD,GameTeam,France team,,,France,FR,FRA
+Fencing,paris-1924,Paris,France,Europe,épée team men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Fencing,paris-1924,Paris,France,Europe,épée team men,Men,BRONZE,GameTeam,Italy team,,,Italy,IT,ITA
+Fencing,paris-1924,Paris,France,Europe,foil individual women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/ellen-ottilia-osiier,Ellen Ottilia OSIIER,Denmark,DK,DEN
+Fencing,paris-1924,Paris,France,Europe,foil individual women,Women,SILVER,Athlete,,,Gladys Davis,Great Britain,GB,GBR
+Fencing,paris-1924,Paris,France,Europe,foil individual women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/grete-heckscher,Grete HECKSCHER,Denmark,DK,DEN
+Fencing,paris-1924,Paris,France,Europe,sabre individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sandor-posta,Sandor POSTA,Hungary,HU,HUN
+Fencing,paris-1924,Paris,France,Europe,sabre individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/roger-francois-ducret,Roger François DUCRET,France,FR,FRA
+Fencing,paris-1924,Paris,France,Europe,sabre individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/janos-garay,Janos GARAY,Hungary,HU,HUN
+Shooting,paris-1924,Paris,France,Europe,clay pigeons team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,clay pigeons team men,Men,SILVER,GameTeam,Canada team,,,Canada,CA,CAN
+Shooting,paris-1924,Paris,France,Europe,clay pigeons team men,Men,BRONZE,GameTeam,Finland team,,,Finland,FI,FIN
+Shooting,paris-1924,Paris,France,Europe,400 600 800m free rifle team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,400 600 800m free rifle team men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Shooting,paris-1924,Paris,France,Europe,400 600 800m free rifle team men,Men,BRONZE,GameTeam,Haiti team,,,Haiti,HT,HAI
+Shooting,paris-1924,Paris,France,Europe,600m free rifle individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/morris-fisher,Morris FISHER,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,600m free rifle individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/carl-townsend-osburn,Carl Townsend OSBURN,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,600m free rifle individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/niels-hansen-ditlev-larsen,Niels Hansen Ditlev LARSEN,Denmark,DK,DEN
+Shooting,paris-1924,Paris,France,Europe,50m rifle prone 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/pierre-coquelin-de-lisle,Pierre COQUELIN DE LISLE,France,FR,FRA
+Shooting,paris-1924,Paris,France,Europe,50m rifle prone 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/marcus-william-dinwiddie,Marcus William DINWIDDIE,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,50m rifle prone 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/josias-hartmann,Josias HARTMANN,Switzerland,CH,SUI
+Shooting,paris-1924,Paris,France,Europe,100m running deer single shots team men,Men,GOLD,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,paris-1924,Paris,France,Europe,100m running deer single shots team men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,paris-1924,Paris,France,Europe,100m running deer single shots team men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,25m rapid fire pistol 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/henry-marvin-bailey,Henry Marvin BAILEY,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,25m rapid fire pistol 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/g-vilhelm-carlberg,G. Vilhelm CARLBERG,Sweden,SE,SWE
+Shooting,paris-1924,Paris,France,Europe,25m rapid fire pistol 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lennart-wilhelm-hannelius,Lennart Wilhelm HANNELIUS,Finland,FI,FIN
+Shooting,paris-1924,Paris,France,Europe,100m running deer double shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ole-andreas-lilloe-olsen,Ole Andreas LILLOE-OLSEN,Norway,NO,NOR
+Shooting,paris-1924,Paris,France,Europe,100m running deer double shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/cyril-winthrop-mackworth-praed,Cyril Winthrop MACKWORTH-PRAED,Great Britain,GB,GBR
+Shooting,paris-1924,Paris,France,Europe,100m running deer double shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/alfred-swahn,Alfred SWAHN,Sweden,SE,SWE
+Shooting,paris-1924,Paris,France,Europe,trap 125 targets men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/gyula-halasy,Gyula HALASY,Hungary,HU,HUN
+Shooting,paris-1924,Paris,France,Europe,trap 125 targets men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/konrad-walentin-huber,Konrad Walentin HUBER,Finland,FI,FIN
+Shooting,paris-1924,Paris,France,Europe,trap 125 targets men,Men,BRONZE,Athlete,,,Frank Hughes,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,100m running deer double shots team men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Shooting,paris-1924,Paris,France,Europe,100m running deer double shots team men,Men,SILVER,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,paris-1924,Paris,France,Europe,100m running deer double shots team men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,paris-1924,Paris,France,Europe,100m running deer single shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-keith-boles,John Keith BOLES,United States of America,US,USA
+Shooting,paris-1924,Paris,France,Europe,100m running deer single shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/cyril-winthrop-mackworth-praed,Cyril Winthrop MACKWORTH-PRAED,Great Britain,GB,GBR
+Shooting,paris-1924,Paris,France,Europe,100m running deer single shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/otto-m-olsen,Otto M. OLSEN,Norway,NO,NOR
+Tennis,paris-1924,Paris,France,Europe,mixed doubles mixed,Mixed,GOLD,GameTeam,United States team #1,https://olympics.com/en/athletes/hazel-virginia-wightman,Hazel Virginia WIGHTMAN,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,mixed doubles mixed,Mixed,GOLD,GameTeam,United States team #1,,Dick Williams,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,mixed doubles mixed,Mixed,SILVER,GameTeam,United States team #2,https://olympics.com/en/athletes/marion-jessup,Marion JESSUP,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,mixed doubles mixed,Mixed,SILVER,GameTeam,United States team #2,https://olympics.com/en/athletes/vincent-richards,Vincent RICHARDS,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,mixed doubles mixed,Mixed,BRONZE,GameTeam,Netherlands team,https://olympics.com/en/athletes/cornelia-bouman,Cornelia BOUMAN,Netherlands,NL,NED
+Tennis,paris-1924,Paris,France,Europe,mixed doubles mixed,Mixed,BRONZE,GameTeam,Netherlands team,https://olympics.com/en/athletes/hendrik-timmer,Hendrik TIMMER,Netherlands,NL,NED
+Tennis,paris-1924,Paris,France,Europe,doubles women,Women,GOLD,GameTeam,United States team #1,https://olympics.com/en/athletes/hazel-virginia-wightman,Hazel Virginia WIGHTMAN,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,doubles women,Women,GOLD,GameTeam,United States team #1,https://olympics.com/en/athletes/helen-wills,Helen WILLS,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,doubles women,Women,SILVER,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/phyllis-lindrea-covell,Phyllis Lindrea COVELL,Great Britain,GB,GBR
+Tennis,paris-1924,Paris,France,Europe,doubles women,Women,SILVER,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/kathleen-mckane,Kathleen MCKANE,Great Britain,GB,GBR
+Tennis,paris-1924,Paris,France,Europe,doubles women,Women,BRONZE,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/dorothy-cunliffe-shepherd-barron,Dorothy Cunliffe SHEPHERD BARRON,Great Britain,GB,GBR
+Tennis,paris-1924,Paris,France,Europe,doubles women,Women,BRONZE,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/evelyn-lucy-colyer,Evelyn Lucy COLYER,Great Britain,GB,GBR
+Tennis,paris-1924,Paris,France,Europe,Singles women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/helen-wills,Helen WILLS,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,Singles women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/julie-p-vlasto,Julie P. VLASTO,France,FR,FRA
+Tennis,paris-1924,Paris,France,Europe,Singles women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/kathleen-mckane,Kathleen MCKANE,Great Britain,GB,GBR
+Tennis,paris-1924,Paris,France,Europe,doubles men,Men,GOLD,GameTeam,United States team #2,https://olympics.com/en/athletes/vincent-richards,Vincent RICHARDS,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,doubles men,Men,GOLD,GameTeam,United States team #2,https://olympics.com/en/athletes/francis-townsend-hunter,Francis Townsend HUNTER,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,doubles men,Men,SILVER,GameTeam,France team #1,https://olympics.com/en/athletes/jacques-brugnon,Jacques BRUGNON,France,FR,FRA
+Tennis,paris-1924,Paris,France,Europe,doubles men,Men,SILVER,GameTeam,France team #1,https://olympics.com/en/athletes/henri-cochet,Henri COCHET,France,FR,FRA
+Tennis,paris-1924,Paris,France,Europe,doubles men,Men,BRONZE,GameTeam,France team #2,https://olympics.com/en/athletes/jean-r-borotra,Jean R. BOROTRA,France,FR,FRA
+Tennis,paris-1924,Paris,France,Europe,doubles men,Men,BRONZE,GameTeam,France team #2,https://olympics.com/en/athletes/jean-rene-lacoste,Jean René LACOSTE,France,FR,FRA
+Tennis,paris-1924,Paris,France,Europe,Singles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/vincent-richards,Vincent RICHARDS,United States of America,US,USA
+Tennis,paris-1924,Paris,France,Europe,Singles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henri-cochet,Henri COCHET,France,FR,FRA
+Tennis,paris-1924,Paris,France,Europe,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/umberto-de-morpurgo,Umberto DE MORPURGO,Italy,IT,ITA
+Athletics,paris-1924,Paris,France,Europe,decathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harold-marion-osborn,Harold Marion OSBORN,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,decathlon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/emerson-norton,Emerson NORTON,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,decathlon men,Men,BRONZE,Athlete,,,Aleksander Klumberg,Estonia,EE,EST
+Athletics,paris-1924,Paris,France,Europe,marathon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/albin-oskar-stenroos,Albin Oskar STENROOS,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,marathon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/romeo-bertini,Romeo BERTINI,Italy,IT,ITA
+Athletics,paris-1924,Paris,France,Europe,marathon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/clarence-harrison-de-mar,Clarence Harrison DE MAR,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,long jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/william-de-hart-hubbard,William De Hart HUBBARD,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,long jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/edward-orval-gourdin,Edward Orval GOURDIN,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,long jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sverre-hansen-1,Sverre HANSEN,Norway,NO,NOR
+Athletics,paris-1924,Paris,France,Europe,cross country team men,Men,GOLD,GameTeam,Finland team,,,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,cross country team men,Men,SILVER,GameTeam,United States team,,,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,cross country team men,Men,BRONZE,GameTeam,France team,,,France,FR,FRA
+Athletics,paris-1924,Paris,France,Europe,3000m steeplechase men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ville-ritola,Ville RITOLA,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,3000m steeplechase men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/elias-katz,Elias KATZ,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,3000m steeplechase men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/paul-bontemps,Paul BONTEMPS,France,FR,FRA
+Athletics,paris-1924,Paris,France,Europe,4x100m relay men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,4x100m relay men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,4x100m relay men,Men,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Athletics,paris-1924,Paris,France,Europe,javelin throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jonni-myyra,Jonni MYYRÄ,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,javelin throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/gunnar-lindstrom,Gunnar LINDSTRÖM,Sweden,SE,SWE
+Athletics,paris-1924,Paris,France,Europe,javelin throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/eugene-oberst,Eugene OBERST,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,hammer throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frederick-delmont-tootell,Frederick Delmont TOOTELL,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,hammer throw men,Men,SILVER,Athlete,,,Matt McGrath,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,hammer throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/malcolm-cuthbert-nokes,Malcolm Cuthbert NOKES,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,pentathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/eero-reino-lehtonen,Eero Reino LEHTONEN,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,pentathlon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/elemer-somfay,Elemer SOMFAY,Hungary,HU,HUN
+Athletics,paris-1924,Paris,France,Europe,pentathlon men,Men,BRONZE,Athlete,,,Bob LeGendre,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,4x400m relay men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,4x400m relay men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Athletics,paris-1924,Paris,France,Europe,4x400m relay men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,high jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harold-marion-osborn,Harold Marion OSBORN,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,high jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/leroy-taylor-brown,Leroy Taylor BROWN,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,high jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/pierre-lewden,Pierre LEWDEN,France,FR,FRA
+Athletics,paris-1924,Paris,France,Europe,10000m walk men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ugo-frigerio,Ugo FRIGERIO,Italy,IT,ITA
+Athletics,paris-1924,Paris,France,Europe,10000m walk men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/gordon-goodwin,Gordon GOODWIN,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,10000m walk men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/cecil-charles-mcmaster,Cecil Charles MCMASTER,South Africa,ZA,RSA
+Athletics,paris-1924,Paris,France,Europe,400m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frederick-morgan-taylor,Frederick Morgan TAYLOR,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,400m hurdles men,Men,SILVER,Athlete,,,Erkka Wilén,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,400m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ivan-riley,Ivan RILEY,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,triple jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/anthony-william-winter,Anthony William WINTER,Australia,AU,AUS
+Athletics,paris-1924,Paris,France,Europe,triple jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/luis-bruneto,Luis BRUNETO,Argentina,AR,ARG
+Athletics,paris-1924,Paris,France,Europe,triple jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/vilho-immanuel-tuulos,Vilho Immanuel TUULOS,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,cross country individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paavo-nurmi,Paavo NURMI,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,cross country individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ville-ritola,Ville RITOLA,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,cross country individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/richard-earl-johnson,Richard Earl JOHNSON,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,1500m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paavo-nurmi,Paavo NURMI,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,1500m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/wilhelm-scharer,Wilhelm SCHÄRER,Switzerland,CH,SUI
+Athletics,paris-1924,Paris,France,Europe,1500m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/g-henry-stallard,G. Henry STALLARD,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,discus throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lemuel-clarence-houser,Lemuel Clarence HOUSER,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,discus throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/vilho-aleksander-niittymaa,Vilho Aleksander NIITTYMAA,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,discus throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/thomas-john-lieb,Thomas John LIEB,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,400m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/eric-henry-liddell,Eric Henry LIDDELL,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,400m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/horatio-fitch,Horatio FITCH,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,400m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/guy-montagu-butler,Guy Montagu BUTLER,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,5000m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paavo-nurmi,Paavo NURMI,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,5000m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ville-ritola,Ville RITOLA,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,5000m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/edvin-wide,Edvin WIDE,Sweden,SE,SWE
+Athletics,paris-1924,Paris,France,Europe,800m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/douglas-gordon-lowe,Douglas Gordon LOWE,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,800m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/paul-rene-martin,Paul-René MARTIN,Switzerland,CH,SUI
+Athletics,paris-1924,Paris,France,Europe,800m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/schuyler-enck,Schuyler ENCK,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,110m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/daniel-kinsey,Daniel KINSEY,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,110m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/sidney-atkinson,Sidney ATKINSON,South Africa,ZA,RSA
+Athletics,paris-1924,Paris,France,Europe,110m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sten-pettersson,Sten PETTERSSON,Sweden,SE,SWE
+Athletics,paris-1924,Paris,France,Europe,shot put men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lemuel-clarence-houser,Lemuel Clarence HOUSER,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,shot put men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/glenn-hartranft,Glenn HARTRANFT,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,shot put men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ralph-gorman-hills,Ralph Gorman HILLS,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,pole vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lee-barnes,Lee BARNES,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/glenn-graham,Glenn GRAHAM,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,pole vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/james-k-brooker,James K. BROOKER,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,3000m team men,Men,GOLD,GameTeam,Finland team,,,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,3000m team men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,3000m team men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,10000m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ville-ritola,Ville RITOLA,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,10000m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/edvin-wide,Edvin WIDE,Sweden,SE,SWE
+Athletics,paris-1924,Paris,France,Europe,10000m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/eero-berg,Eero BERG,Finland,FI,FIN
+Athletics,paris-1924,Paris,France,Europe,100m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harold-abrahams,Harold ABRAHAMS,Great Britain,GB,GBR
+Athletics,paris-1924,Paris,France,Europe,100m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jackson-scholz,Jackson SCHOLZ,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,100m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arthur-porritt,Arthur PORRITT,New Zealand,NZ,NZL
+Athletics,paris-1924,Paris,France,Europe,200m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jackson-scholz,Jackson SCHOLZ,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,200m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-paddock,Charles PADDOCK,United States of America,US,USA
+Athletics,paris-1924,Paris,France,Europe,200m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/eric-henry-liddell,Eric Henry LIDDELL,Great Britain,GB,GBR
+Swimming,paris-1924,Paris,France,Europe,400m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/martha-norelius,Martha NORELIUS,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,400m freestyle women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/helen-wainwright,Helen WAINWRIGHT,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,400m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/gertrude-ederle,Gertrude EDERLE,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m backstroke women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/sybil-bauer,Sybil BAUER,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m backstroke women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/phyllis-harding,Phyllis HARDING,Great Britain,GB,GBR
+Swimming,paris-1924,Paris,France,Europe,100m backstroke women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/aileen-riggin,Aileen RIGGIN,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/ethel-lackie,Ethel LACKIE,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m freestyle women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/mariechen-wehselau,Mariechen WEHSELAU,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/gertrude-ederle,Gertrude EDERLE,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,200m breaststroke women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/lucille-morton,Lucille MORTON,Great Britain,GB,GBR
+Swimming,paris-1924,Paris,France,Europe,200m breaststroke women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/agnes-geraghty,Agnes GERAGHTY,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,200m breaststroke women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/gladys-carson,Gladys CARSON,Great Britain,GB,GBR
+Swimming,paris-1924,Paris,France,Europe,200m breaststroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/robert-skelton,Robert SKELTON,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,200m breaststroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/joseph-de-combe,Joseph DE COMBE,Belgium,BE,BEL
+Swimming,paris-1924,Paris,France,Europe,200m breaststroke men,Men,BRONZE,Athlete,,,Bill Kirschbaum,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,1500m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/andrew-murray-charlton,Andrew Murray CHARLTON,Australia,AU,AUS
+Swimming,paris-1924,Paris,France,Europe,1500m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/arne-borg,Arne BORG,Sweden,SE,SWE
+Swimming,paris-1924,Paris,France,Europe,1500m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frank-de-beaurepaire,Frank DE BEAUREPAIRE,Australia,AU,AUS
+Swimming,paris-1924,Paris,France,Europe,400m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/johnny-weissmuller,Johnny WEISSMULLER,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,400m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/arne-borg,Arne BORG,Sweden,SE,SWE
+Swimming,paris-1924,Paris,France,Europe,400m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/andrew-murray-charlton,Andrew Murray CHARLTON,Australia,AU,AUS
+Swimming,paris-1924,Paris,France,Europe,100m backstroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/warren-paoa-kealoha,Warren Paoa KEALOHA,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m backstroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/paul-wyatt,Paul WYATT,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m backstroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/karoly-bartha,Károly BARTHA,Hungary,HU,HUN
+Swimming,paris-1924,Paris,France,Europe,4x100m freestyle relay women,Women,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,4x100m freestyle relay women,Women,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Swimming,paris-1924,Paris,France,Europe,4x100m freestyle relay women,Women,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Swimming,paris-1924,Paris,France,Europe,4x200m freestyle relay men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,4x200m freestyle relay men,Men,SILVER,GameTeam,Australia team,,,Australia,AU,AUS
+Swimming,paris-1924,Paris,France,Europe,4x200m freestyle relay men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Swimming,paris-1924,Paris,France,Europe,100m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/johnny-weissmuller,Johnny WEISSMULLER,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/duke-paoa-kahanamoku,Duke Paoa KAHANAMOKU,United States of America,US,USA
+Swimming,paris-1924,Paris,France,Europe,100m freestyle men,Men,BRONZE,Athlete,,,Sam Kahanamoku,United States of America,US,USA
+Cycling Track,paris-1924,Paris,France,Europe,50km men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jacobus-willems,Jacobus WILLEMS,Netherlands,NL,NED
+Cycling Track,paris-1924,Paris,France,Europe,50km men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/cyril-albert-alden,Cyril Albert ALDEN,Great Britain,GB,GBR
+Cycling Track,paris-1924,Paris,France,Europe,50km men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frederick-henry-wyld,Frederick Henry WYLD,Great Britain,GB,GBR
+Cycling Track,paris-1924,Paris,France,Europe,Sprint individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lucien-michard,Lucien MICHARD,France,FR,FRA
+Cycling Track,paris-1924,Paris,France,Europe,Sprint individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jacob-meijer,Jacob MEIJER,Netherlands,NL,NED
+Cycling Track,paris-1924,Paris,France,Europe,Sprint individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jean-cugnot,Jean CUGNOT,France,FR,FRA
+Cycling Track,paris-1924,Paris,France,Europe,Team Pursuit 4000m men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Cycling Track,paris-1924,Paris,France,Europe,Team Pursuit 4000m men,Men,SILVER,GameTeam,Poland team,,,Poland,PL,POL
+Cycling Track,paris-1924,Paris,France,Europe,Team Pursuit 4000m men,Men,BRONZE,GameTeam,Belgium team,,,Belgium,BE,BEL
+Cycling Track,paris-1924,Paris,France,Europe,2000m tandem men,Men,GOLD,GameTeam,France team,https://olympics.com/en/athletes/lucien-choury,Lucien CHOURY,France,FR,FRA
+Cycling Track,paris-1924,Paris,France,Europe,2000m tandem men,Men,GOLD,GameTeam,France team,https://olympics.com/en/athletes/jean-cugnot,Jean CUGNOT,France,FR,FRA
+Cycling Track,paris-1924,Paris,France,Europe,2000m tandem men,Men,SILVER,GameTeam,Denmark team,https://olympics.com/en/athletes/willy-falck-hansen,Willy FALCK HANSEN,Denmark,DK,DEN
+Cycling Track,paris-1924,Paris,France,Europe,2000m tandem men,Men,SILVER,GameTeam,Denmark team,https://olympics.com/en/athletes/edmund-hansen,Edmund HANSEN,Denmark,DK,DEN
+Cycling Track,paris-1924,Paris,France,Europe,2000m tandem men,Men,BRONZE,GameTeam,Netherlands team,https://olympics.com/en/athletes/gerald-henri-bosch-van-drakestein,Gerald Henri BOSCH VAN DRAKESTEIN,Netherlands,NL,NED
+Cycling Track,paris-1924,Paris,France,Europe,2000m tandem men,Men,BRONZE,GameTeam,Netherlands team,https://olympics.com/en/athletes/mauritius-peeters,Mauritius PEETERS,Netherlands,NL,NED
+Gymnastics Artistic,paris-1924,Paris,France,Europe,Sidehorse vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/albert-seguin,Albert SEGUIN,France,FR,FRA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,Sidehorse vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jean-gounot,Jean GOUNOT,France,FR,FRA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,Sidehorse vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/francois-gangloff,François GANGLOFF,France,FR,FRA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,individual all-round men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/leon-stukelj,Leon STUKELJ,Yugoslavia,YUCS,YUG
+Gymnastics Artistic,paris-1924,Paris,France,Europe,individual all-round men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/robert-prazak,Robert PRAZAK,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,individual all-round men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bedrich-supcik,Bedrich SUPCIK,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,rope climbing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/bedrich-supcik,Bedrich SUPCIK,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,rope climbing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/albert-seguin,Albert SEGUIN,France,FR,FRA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,rope climbing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/august-guttinger,August GÜTTINGER,Switzerland,CH,SUI
+Gymnastics Artistic,paris-1924,Paris,France,Europe,rope climbing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ladislav-vacha,Ladislav VACHA,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frank-kriz,Frank KRIZ,United States of America,US,USA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jan-koutny,Jan KOUTNY,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bohumil-morkovsky,Bohumil MORKOVSKY,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,pommel horse men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/josef-wilhelm,Josef WILHELM,Switzerland,CH,SUI
+Gymnastics Artistic,paris-1924,Paris,France,Europe,pommel horse men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jean-gutweninger,Jean GUTWENINGER,Switzerland,CH,SUI
+Gymnastics Artistic,paris-1924,Paris,France,Europe,pommel horse men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/antoine-rebetez,Antoine REBETEZ,Switzerland,CH,SUI
+Gymnastics Artistic,paris-1924,Paris,France,Europe,rings men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/francesco-martino,Francesco MARTINO,Italy,IT,ITA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,rings men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/robert-prazak,Robert PRAZAK,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,rings men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ladislav-vacha,Ladislav VACHA,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,team competition men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,team competition men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,team competition men,Men,BRONZE,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Gymnastics Artistic,paris-1924,Paris,France,Europe,horizontal bar men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/leon-stukelj,Leon STUKELJ,Yugoslavia,YUCS,YUG
+Gymnastics Artistic,paris-1924,Paris,France,Europe,horizontal bar men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jean-gutweninger,Jean GUTWENINGER,Switzerland,CH,SUI
+Gymnastics Artistic,paris-1924,Paris,France,Europe,horizontal bar men,Men,BRONZE,Athlete,,,Alphonse Higelin,France,FR,FRA
+Gymnastics Artistic,paris-1924,Paris,France,Europe,parallel bars men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/august-guttinger,August GÜTTINGER,Switzerland,CH,SUI
+Gymnastics Artistic,paris-1924,Paris,France,Europe,parallel bars men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/robert-prazak,Robert PRAZAK,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,paris-1924,Paris,France,Europe,parallel bars men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/giorgio-zampori,Giorgio ZAMPORI,Italy,IT,ITA
+Equestrian Dressage,paris-1924,Paris,France,Europe,individual mixed,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ernst-de-linder,Ernst DE LINDER,Sweden,SE,SWE
+Equestrian Dressage,paris-1924,Paris,France,Europe,individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/bertil-sandstrom,Bertil SANDSTRÖM,Sweden,SE,SWE
+Equestrian Dressage,paris-1924,Paris,France,Europe,individual mixed,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/xavier-francois-lesage,Xavier François LESAGE,France,FR,FRA
+Boxing,paris-1924,Paris,France,Europe,5352  5715kg featherweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-fields,John FIELDS,United States of America,US,USA
+Boxing,paris-1924,Paris,France,Europe,5352  5715kg featherweight men,Men,SILVER,Athlete,,,Joe Salas,United States of America,US,USA
+Boxing,paris-1924,Paris,France,Europe,5352  5715kg featherweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/pedro-quartucci,Pedro QUARTUCCI,Argentina,AR,ARG
+Boxing,paris-1924,Paris,France,Europe,7938kg heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-william-mallin,Harry William MALLIN,Great Britain,GB,GBR
+Boxing,paris-1924,Paris,France,Europe,7938kg heavyweight men,Men,SILVER,Athlete,,,Jack Elliott,Great Britain,GB,GBR
+Boxing,paris-1924,Paris,France,Europe,7938kg heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/joseph-jules-beecken,Joseph Jules BEECKEN,Belgium,BE,BEL
+Boxing,paris-1924,Paris,France,Europe,6668  7257kg middleweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/otto-von-porat,Otto VON PORAT,Norway,NO,NOR
+Boxing,paris-1924,Paris,France,Europe,6668  7257kg middleweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/soren-petersen,Sören PETERSEN,Denmark,DK,DEN
+Boxing,paris-1924,Paris,France,Europe,6668  7257kg middleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/alfredo-porzio,Alfredo PORZIO,Argentina,AR,ARG
+Boxing,paris-1924,Paris,France,Europe,7257  7938kg lightheavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-mitchell,Harry MITCHELL,Great Britain,GB,GBR
+Boxing,paris-1924,Paris,France,Europe,7257  7938kg lightheavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/thyge-petersen,Thyge PETERSEN,Denmark,DK,DEN
+Boxing,paris-1924,Paris,France,Europe,7257  7938kg lightheavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sverre-sorsdal,Sverre SÖRSDAL,Norway,NO,NOR
+Boxing,paris-1924,Paris,France,Europe,508kg flyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/fidel-la-barba,Fidel LA BARBA,United States of America,US,USA
+Boxing,paris-1924,Paris,France,Europe,508kg flyweight men,Men,SILVER,Athlete,,,James McKenzie,Great Britain,GB,GBR
+Boxing,paris-1924,Paris,France,Europe,508kg flyweight men,Men,BRONZE,Athlete,,,Ray Fee,United States of America,US,USA
+Boxing,paris-1924,Paris,France,Europe,6124  6668kg welterweight men,Men,GOLD,Athlete,,,Jean Delarge,Belgium,BE,BEL
+Boxing,paris-1924,Paris,France,Europe,6124  6668kg welterweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hector-mendez,Hector MENDEZ,Argentina,AR,ARG
+Boxing,paris-1924,Paris,France,Europe,6124  6668kg welterweight men,Men,BRONZE,Athlete,,,Doug Lewis,Canada,CA,CAN
+Boxing,paris-1924,Paris,France,Europe,508  5352kg bantamweight men,Men,GOLD,Athlete,,,Willie Smith,South Africa,ZA,RSA
+Boxing,paris-1924,Paris,France,Europe,508  5352kg bantamweight men,Men,SILVER,Athlete,,,Al Tripoli,United States of America,US,USA
+Boxing,paris-1924,Paris,France,Europe,508  5352kg bantamweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jean-ces,Jean CES,France,FR,FRA
+Boxing,paris-1924,Paris,France,Europe,5715  6124kg lightweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hans-jacob-nielsen,Hans Jacob NIELSEN,Denmark,DK,DEN
+Boxing,paris-1924,Paris,France,Europe,5715  6124kg lightweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alfredo-copello,Alfredo COPELLO,Argentina,AR,ARG
+Boxing,paris-1924,Paris,France,Europe,5715  6124kg lightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frederick-boylstein,Frederick BOYLSTEIN,United States of America,US,USA
+Weightlifting,paris-1924,Paris,France,Europe,60  675kg onetwo hand 5 events lightweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/edmond-decottignies,Edmond DECOTTIGNIES,France,FR,FRA
+Weightlifting,paris-1924,Paris,France,Europe,60  675kg onetwo hand 5 events lightweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/anton-zwerina,Anton ZWERINA,Austria,AT,AUT
+Weightlifting,paris-1924,Paris,France,Europe,60  675kg onetwo hand 5 events lightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bohumil-durdys,Bohumil DURDYS,Czechoslovakia,CSHH,TCH
+Weightlifting,paris-1924,Paris,France,Europe,60kg onetwo hand 5 events featherweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/pierino-gabetti,Pierino GABETTI,Italy,IT,ITA
+Weightlifting,paris-1924,Paris,France,Europe,60kg onetwo hand 5 events featherweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/andreas-stadler,Andreas STADLER,Austria,AT,AUT
+Weightlifting,paris-1924,Paris,France,Europe,60kg onetwo hand 5 events featherweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arthur-reinmann,Arthur REINMANN,Switzerland,CH,SUI
+Weightlifting,paris-1924,Paris,France,Europe,75  825kg onetwo hand 5 e lightheavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-rigoulot,Charles RIGOULOT,France,FR,FRA
+Weightlifting,paris-1924,Paris,France,Europe,75  825kg onetwo hand 5 e lightheavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/fritz-hunenberger,Fritz HÜNENBERGER,Switzerland,CH,SUI
+Weightlifting,paris-1924,Paris,France,Europe,75  825kg onetwo hand 5 e lightheavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/leopold-friedrich,Leopold FRIEDRICH,Austria,AT,AUT
+Weightlifting,paris-1924,Paris,France,Europe,825kg onetwo hand 5 events heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/giuseppe-tonani,Giuseppe TONANI,Italy,IT,ITA
+Weightlifting,paris-1924,Paris,France,Europe,825kg onetwo hand 5 events heavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/franz-aigner,Franz AIGNER,Austria,AT,AUT
+Weightlifting,paris-1924,Paris,France,Europe,825kg onetwo hand 5 events heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harald-tammer,Harald TAMMER,Estonia,EE,EST
+Weightlifting,paris-1924,Paris,France,Europe,675  75kg onetwo hand 5 events middleweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/carlo-galimberti,Carlo GALIMBERTI,Italy,IT,ITA
+Weightlifting,paris-1924,Paris,France,Europe,675  75kg onetwo hand 5 events middleweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alfred-neuland,Alfred NEULAND,Estonia,EE,EST
+Weightlifting,paris-1924,Paris,France,Europe,675  75kg onetwo hand 5 events middleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jaan-kikkas,Jaan KIKKAS,Estonia,EE,EST
+Water Polo,paris-1924,Paris,France,Europe,water polo men,Men,GOLD,GameTeam,France team,,,France,FR,FRA
+Water Polo,paris-1924,Paris,France,Europe,water polo men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Water Polo,paris-1924,Paris,France,Europe,water polo men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Wrestling,paris-1924,Paris,France,Europe,"Bantamweight, Freestyle (≤56 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/kustaa-pihlajamaki,Kustaa PIHLAJAMÄKI,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Bantamweight, Freestyle (≤56 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/kaarlo-e-makinen,Kaarlo E. MÄKINEN,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Bantamweight, Freestyle (≤56 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bryan-hines,Bryan HINES,United States of America,US,USA
+Wrestling,paris-1924,Paris,France,Europe,"Featherweight, Freestyle (≤61 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/robin-reed,Robin REED,United States of America,US,USA
+Wrestling,paris-1924,Paris,France,Europe,"Featherweight, Freestyle (≤61 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/chester-newton,Chester NEWTON,United States of America,US,USA
+Wrestling,paris-1924,Paris,France,Europe,"Featherweight, Freestyle (≤61 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/katsutoshi-naito,Katsutoshi NAITO,Japan,JP,JPN
+Wrestling,paris-1924,Paris,France,Europe,"Welterweight, Freestyle (≤72 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/hermann-gehri,Hermann GEHRI,Switzerland,CH,SUI
+Wrestling,paris-1924,Paris,France,Europe,"Welterweight, Freestyle (≤72 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/eino-aukusti-leino,Eino Aukusti LEINO,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Welterweight, Freestyle (≤72 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/otto-muller-1,Otto MÜLLER,Switzerland,CH,SUI
+Wrestling,paris-1924,Paris,France,Europe,"Heavyweight, Freestyle (>87 kilograms) Men",Men,GOLD,Athlete,,,Harry Steel,United States of America,US,USA
+Wrestling,paris-1924,Paris,France,Europe,"Heavyweight, Freestyle (>87 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/henri-wernli,Henri WERNLI,Switzerland,CH,SUI
+Wrestling,paris-1924,Paris,France,Europe,"Heavyweight, Freestyle (>87 kilograms) Men",Men,BRONZE,Athlete,,,Archie MacDonald,Great Britain,GB,GBR
+Wrestling,paris-1924,Paris,France,Europe,"Featherweight, Greco-Roman (≤62 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/kalle-anttila,Kalle ANTTILA,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Featherweight, Greco-Roman (≤62 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksander-toivola,Aleksander TOIVOLA,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Featherweight, Greco-Roman (≤62 kilograms) Men",Men,BRONZE,Athlete,,,Erik Malmberg,Sweden,SE,SWE
+Wrestling,paris-1924,Paris,France,Europe,"Light-Heavyweight, Greco-Roman (≤82.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/carl-westergren,Carl WESTERGREN,Sweden,SE,SWE
+Wrestling,paris-1924,Paris,France,Europe,"Light-Heavyweight, Greco-Roman (≤82.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/rudolf-svensson,Rudolf SVENSSON,Sweden,SE,SWE
+Wrestling,paris-1924,Paris,France,Europe,"Light-Heavyweight, Greco-Roman (≤82.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/onni-pellinen,Onni PELLINEN,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Lightweight, Freestyle (≤66 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/russell-vis,Russell VIS,United States of America,US,USA
+Wrestling,paris-1924,Paris,France,Europe,"Lightweight, Freestyle (≤66 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/volmari-w-wikstrom,Volmari W. WIKSTRÖM,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Lightweight, Freestyle (≤66 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arvo-haavisto,Arvo HAAVISTO,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Light-Heavyweight, Freestyle (≤87 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-franklin-spellman,John Franklin SPELLMAN,United States of America,US,USA
+Wrestling,paris-1924,Paris,France,Europe,"Light-Heavyweight, Freestyle (≤87 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/rudolf-svensson,Rudolf SVENSSON,Sweden,SE,SWE
+Wrestling,paris-1924,Paris,France,Europe,"Light-Heavyweight, Freestyle (≤87 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-courant,Charles COURANT,Switzerland,CH,SUI
+Wrestling,paris-1924,Paris,France,Europe,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/henri-deglane,Henri DEGLANE,France,FR,FRA
+Wrestling,paris-1924,Paris,France,Europe,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/edil-rosenqvist,Edil ROSENQVIST,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/rajmund-bado,Rajmund BADO,Hungary,HU,HUN
+Wrestling,paris-1924,Paris,France,Europe,"Middleweight, Freestyle (≤79 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/fritz-haggmann,Fritz HAGGMANN,Switzerland,CH,SUI
+Wrestling,paris-1924,Paris,France,Europe,"Middleweight, Freestyle (≤79 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/pierre-ollivier,Pierre OLLIVIER,Belgium,BE,BEL
+Wrestling,paris-1924,Paris,France,Europe,"Middleweight, Freestyle (≤79 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/vilho-f-pekkala,Vilho F. PEKKALA,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Middleweight, Greco-Roman (≤75 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/edward-wilhelm-westerlund,Edward Wilhelm WESTERLUND,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Middleweight, Greco-Roman (≤75 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/arthur-lindfors,Arthur LINDFORS,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Middleweight, Greco-Roman (≤75 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/roman-steinberg,Roman STEINBERG,Estonia,EE,EST
+Wrestling,paris-1924,Paris,France,Europe,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/oskar-david-friman,Oskar David FRIMAN,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/lajos-keresztes,Lajos KERESZTES,Hungary,HU,HUN
+Wrestling,paris-1924,Paris,France,Europe,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/karl-westerlund,Karl WESTERLUND,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Bantamweight, Greco-Roman (≤58 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/eduard-putsep,Eduard PÜTSEP,Estonia,EE,EST
+Wrestling,paris-1924,Paris,France,Europe,"Bantamweight, Greco-Roman (≤58 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/anselm-ahlfors,Anselm AHLFORS,Finland,FI,FIN
+Wrestling,paris-1924,Paris,France,Europe,"Bantamweight, Greco-Roman (≤58 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/vaino-v-ikonen,Väinö V. IKONEN,Finland,FI,FIN
+Rugby,paris-1924,Paris,France,Europe,rugby men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Rugby,paris-1924,Paris,France,Europe,rugby men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Rugby,paris-1924,Paris,France,Europe,rugby men,Men,BRONZE,GameTeam,Romania team,,,Romania,RO,ROU
+Equestrian Jumping,paris-1924,Paris,France,Europe,team mixed,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Equestrian Jumping,paris-1924,Paris,France,Europe,team mixed,Men,SILVER,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Equestrian Jumping,paris-1924,Paris,France,Europe,team mixed,Men,BRONZE,GameTeam,Portugal team,,,Portugal,PT,POR
+Equestrian Jumping,paris-1924,Paris,France,Europe,individual mixed,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alphonse-gemuseus,Alphonse GEMUSEUS,Switzerland,CH,SUI
+Equestrian Jumping,paris-1924,Paris,France,Europe,individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/tommaso-lequio-di-assaba,Tommaso LEQUIO DI ASSABA,Italy,IT,ITA
+Equestrian Jumping,paris-1924,Paris,France,Europe,individual mixed,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/adam-krolikiewicz,Adam KROLIKIEWICZ,Poland,PL,POL
+Polo,paris-1924,Paris,France,Europe,polo men,Men,GOLD,GameTeam,Argentina team,,,Argentina,AR,ARG
+Polo,paris-1924,Paris,France,Europe,polo men,Men,SILVER,GameTeam,United States team,,,United States of America,US,USA
+Polo,paris-1924,Paris,France,Europe,polo men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Equestrian Eventing,paris-1924,Paris,France,Europe,team mixed,Men,GOLD,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Equestrian Eventing,paris-1924,Paris,France,Europe,team mixed,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Equestrian Eventing,paris-1924,Paris,France,Europe,team mixed,Men,BRONZE,GameTeam,Italy team,,,Italy,IT,ITA
+Equestrian Eventing,paris-1924,Paris,France,Europe,individual mixed,Men,GOLD,Athlete,,https://olympics.com/en/athletes/adolf-dirk-c-van-der-voort-van-zijp,Adolf Dirk C. VAN DER VOORT VAN ZIJP,Netherlands,NL,NED
+Equestrian Eventing,paris-1924,Paris,France,Europe,individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frode-rasmussen-kirkebjerg,Frode Rasmussen KIRKEBJERG,Denmark,DK,DEN
+Equestrian Eventing,paris-1924,Paris,France,Europe,individual mixed,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sloan-doak,Sloan DOAK,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,plain high diving men,Men,GOLD,Athlete,,,Dick Eve,Australia,AU,AUS
+Diving,paris-1924,Paris,France,Europe,plain high diving men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-jansson,John JANSSON,Sweden,SE,SWE
+Diving,paris-1924,Paris,France,Europe,plain high diving men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harold-clarke,Harold CLARKE,Great Britain,GB,GBR
+Diving,paris-1924,Paris,France,Europe,10m platform men,Men,GOLD,Athlete,,,Al White,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,10m platform men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/david-fall,David FALL,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,10m platform men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/clarence-pinkston,Clarence PINKSTON,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,3m springboard men,Men,GOLD,Athlete,,,Al White,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,3m springboard men,Men,SILVER,Athlete,,,Pete Desjardins,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,3m springboard men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/clarence-pinkston,Clarence PINKSTON,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,10m platform women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/caroline-smith,Caroline SMITH,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,10m platform women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/elizabeth-becker-pinkston,Elizabeth BECKER-PINKSTON,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,10m platform women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/hjordis-topel,Hjördis TÖPEL,Sweden,SE,SWE
+Diving,paris-1924,Paris,France,Europe,3m springboard women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/elizabeth-becker-pinkston,Elizabeth BECKER-PINKSTON,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,3m springboard women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/aileen-riggin,Aileen RIGGIN,United States of America,US,USA
+Diving,paris-1924,Paris,France,Europe,3m springboard women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/caroline-fletcher,Caroline FLETCHER,United States of America,US,USA
+Cycling Road,paris-1924,Paris,France,Europe,individual road race men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/armand-blanchonnet,Armand BLANCHONNET,France,FR,FRA
+Cycling Road,paris-1924,Paris,France,Europe,individual road race men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henri-hoevenaers,Henri HOEVENAERS,Belgium,BE,BEL
+Cycling Road,paris-1924,Paris,France,Europe,individual road race men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/rene-hamel,René HAMEL,France,FR,FRA
+Cycling Road,paris-1924,Paris,France,Europe,team time trial men,Men,GOLD,GameTeam,France team,,,France,FR,FRA
+Cycling Road,paris-1924,Paris,France,Europe,team time trial men,Men,SILVER,GameTeam,Belgium team,,,Belgium,BE,BEL
+Cycling Road,paris-1924,Paris,France,Europe,team time trial men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Modern Pentathlon,paris-1924,Paris,France,Europe,Individual competition men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/bo-lindman,Bo LINDMAN,Sweden,SE,SWE
+Modern Pentathlon,paris-1924,Paris,France,Europe,Individual competition men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/gustaf-dyrssen,Gustaf DYRSSEN,Sweden,SE,SWE
+Modern Pentathlon,paris-1924,Paris,France,Europe,Individual competition men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bertil-uggla,Bertil UGGLA,Sweden,SE,SWE
+Sailing,paris-1924,Paris,France,Europe,8m mixed,Open,GOLD,GameTeam,Bera,,,Norway,NO,NOR
+Sailing,paris-1924,Paris,France,Europe,8m mixed,Open,SILVER,GameTeam,Emily,,,Great Britain,GB,GBR
+Sailing,paris-1924,Paris,France,Europe,8m mixed,Open,BRONZE,GameTeam,Namoussa,,,France,FR,FRA
+Sailing,paris-1924,Paris,France,Europe,6m mixed,Open,GOLD,GameTeam,Elisabeth V,,,Norway,NO,NOR
+Sailing,paris-1924,Paris,France,Europe,6m mixed,Open,SILVER,GameTeam,Bonzo,,,Denmark,DK,DEN
+Sailing,paris-1924,Paris,France,Europe,6m mixed,Open,BRONZE,GameTeam,Willem-Six,,,Netherlands,NL,NED
+Sailing,paris-1924,Paris,France,Europe,olympic class monotype mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/leon-huybrechts,Léon HUYBRECHTS,Belgium,BE,BEL
+Sailing,paris-1924,Paris,France,Europe,olympic class monotype mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/henrik-robert,Henrik ROBERT,Norway,NO,NOR
+Sailing,paris-1924,Paris,France,Europe,olympic class monotype mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/hans-erik-dittmar,Hans Erik DITTMAR,Finland,FI,FIN
+Rowing,paris-1924,Paris,France,Europe,four-oared shell with coxswain men,Men,GOLD,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Rowing,paris-1924,Paris,France,Europe,four-oared shell with coxswain men,Men,SILVER,GameTeam,Italy team,,,Italy,IT,ITA
+Rowing,paris-1924,Paris,France,Europe,four-oared shell with coxswain men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Rowing,paris-1924,Paris,France,Europe,double sculls 2x men,Men,GOLD,GameTeam,United States team,,"Jack Kelly, Sr.",United States of America,US,USA
+Rowing,paris-1924,Paris,France,Europe,double sculls 2x men,Men,GOLD,GameTeam,United States team,https://olympics.com/en/athletes/paul-vincent-costello,Paul Vincent COSTELLO,United States of America,US,USA
+Rowing,paris-1924,Paris,France,Europe,double sculls 2x men,Men,SILVER,GameTeam,France team,https://olympics.com/en/athletes/marc-p-detton,Marc P. DETTON,France,FR,FRA
+Rowing,paris-1924,Paris,France,Europe,double sculls 2x men,Men,SILVER,GameTeam,France team,https://olympics.com/en/athletes/jean-pierre-stock,Jean-Pierre STOCK,France,FR,FRA
+Rowing,paris-1924,Paris,France,Europe,double sculls 2x men,Men,BRONZE,GameTeam,Switzerland team,https://olympics.com/en/athletes/rudolf-bosshard,Rudolf BOSSHARD,Switzerland,CH,SUI
+Rowing,paris-1924,Paris,France,Europe,double sculls 2x men,Men,BRONZE,GameTeam,Switzerland team,https://olympics.com/en/athletes/heinrich-thoma,Heinrich THOMA,Switzerland,CH,SUI
+Rowing,paris-1924,Paris,France,Europe,single sculls 1x men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jack-beresford,Jack BERESFORD,Great Britain,GB,GBR
+Rowing,paris-1924,Paris,France,Europe,single sculls 1x men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/williams-e-garrett-gilmore,Williams  E.Garrett GILMORE,United States of America,US,USA
+Rowing,paris-1924,Paris,France,Europe,single sculls 1x men,Men,BRONZE,Athlete,,,Josef Schneider,Switzerland,CH,SUI
+Rowing,paris-1924,Paris,France,Europe,pair-oared shell with coxswain men,Men,GOLD,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Rowing,paris-1924,Paris,France,Europe,pair-oared shell with coxswain men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Rowing,paris-1924,Paris,France,Europe,pair-oared shell with coxswain men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Rowing,paris-1924,Paris,France,Europe,four without coxswain 4 men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Rowing,paris-1924,Paris,France,Europe,four without coxswain 4 men,Men,SILVER,GameTeam,Canada team,,,Canada,CA,CAN
+Rowing,paris-1924,Paris,France,Europe,four without coxswain 4 men,Men,BRONZE,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Rowing,paris-1924,Paris,France,Europe,eight with coxswain 8 men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Rowing,paris-1924,Paris,France,Europe,eight with coxswain 8 men,Men,SILVER,GameTeam,Canada team,,,Canada,CA,CAN
+Rowing,paris-1924,Paris,France,Europe,eight with coxswain 8 men,Men,BRONZE,GameTeam,Italy team,,,Italy,IT,ITA
+Rowing,paris-1924,Paris,France,Europe,pair without coxswain 2 men,Men,GOLD,GameTeam,Netherlands team,https://olympics.com/en/athletes/antonie-christiaan-beijnen,Antonie Christiaan BEIJNEN,Netherlands,NL,NED
+Rowing,paris-1924,Paris,France,Europe,pair without coxswain 2 men,Men,GOLD,GameTeam,Netherlands team,https://olympics.com/en/athletes/wilhelm-rosingh,Wilhelm RÖSINGH,Netherlands,NL,NED
+Rowing,paris-1924,Paris,France,Europe,pair without coxswain 2 men,Men,SILVER,GameTeam,France team,https://olympics.com/en/athletes/maurice-bouton,Maurice BOUTON,France,FR,FRA
+Rowing,paris-1924,Paris,France,Europe,pair without coxswain 2 men,Men,SILVER,GameTeam,France team,https://olympics.com/en/athletes/georges-piot,Georges PIOT,France,FR,FRA
+Football,paris-1924,Paris,France,Europe,football men,Men,GOLD,GameTeam,Uruguay team,,,Uruguay,UY,URU
+Football,paris-1924,Paris,France,Europe,football men,Men,SILVER,GameTeam,Switzerland team,,,Switzerland,CH,SUI
+Football,paris-1924,Paris,France,Europe,football men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
