@@ -18,6 +18,6 @@ description: ''
 
 <FlatUiTable
   data={{
-    url: ''
+    url: 'data.csv'
   }}
 />
