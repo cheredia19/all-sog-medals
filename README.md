@@ -67,4 +67,11 @@ description: ''
   data={{
     url: 'amsterdam_1928.csv'
   }}
+
+## Los Angeles 1932
+
+<FlatUiTable
+  data={{
+    url: 'los-angeles_1932.csv'
+  }}
 />
