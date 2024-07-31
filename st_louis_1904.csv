@@ -1,0 +1,291 @@
+discipline_title,slug_game,city_host,country_host,continent_host,year,type,event_title,event_gender,medal_type,participant_type,participant_title,athlete_url,athlete_full_name,country_name,country_code,country_3_letter_code
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,4miles team men,Men,GOLD,GameTeam,New York Athletic Club,,,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,4miles team men,Men,SILVER,GameTeam,Chicago Athletic Association,,,MIX,,MIX
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,100m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/archie-hahn,Archie HAHN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,100m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-nathaniel-cartmell,John Nathaniel CARTMELL,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,100m men,Men,BRONZE,Athlete,,,Bill Hogenson,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,800m men,Men,GOLD,Athlete,,,Jim Lightbody,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,800m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/howard-valentine,Howard VALENTINE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,800m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/emil-breitkreutz,Emil BREITKREUTZ,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,pole vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-dvorak,Charles DVORAK,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/leroy-samse,Leroy SAMSE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,pole vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/louis-wilkins,Louis WILKINS,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,200m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/archie-hahn,Archie HAHN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,200m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-nathaniel-cartmell,John Nathaniel CARTMELL,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,200m men,Men,BRONZE,Athlete,,,Bill Hogenson,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,200m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-hillman,Harry HILLMAN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,200m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frank-castleman,Frank CASTLEMAN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,200m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/george-poage,George POAGE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,400m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-hillman,Harry HILLMAN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,400m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frank-waller,Frank WALLER,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,400m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/george-poage,George POAGE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,110m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frederick-schule,Frederick SCHULE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,110m hurdles men,Men,SILVER,Athlete,,,Thad Shideler,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,110m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lesley-ashburner,Lesley ASHBURNER,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,high jump men,Men,GOLD,Athlete,,,Sam Jones,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,high jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/garrett-serviss,Garrett SERVISS,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,high jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/paul-weinstein,Paul WEINSTEIN,Germany,DE,GER
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,long jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/meyer-prinstein,Meyer PRINSTEIN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,long jump men,Men,SILVER,Athlete,,,Dan Frank,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,long jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/robert-stangland,Robert STANGLAND,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,400m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-hillman,Harry HILLMAN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,400m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frank-waller,Frank WALLER,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,400m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/herman-groman,Herman GROMAN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,60m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/archie-hahn,Archie HAHN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,60m men,Men,SILVER,Athlete,,,Bill Hogenson,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,60m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/fay-moulton,Fay MOULTON,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,56lb weight throw 254kg men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/etienne-desmarteau,Etienne DESMARTEAU,Canada,CA,CAN
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,56lb weight throw 254kg men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-joseph-flanagan,John Joseph FLANAGAN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,56lb weight throw 254kg men,Men,BRONZE,Athlete,,,Jim Mitchel,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,triple jump standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ray-ewry,Ray EWRY,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,triple jump standing men,Men,SILVER,Athlete,,,Con King,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,triple jump standing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/joseph-f-stadler,Joseph F. STADLER,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,long jump standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ray-ewry,Ray EWRY,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,long jump standing men,Men,SILVER,Athlete,,,Con King,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,long jump standing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/john-biller,John BILLER,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,shot put men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ralph-rose,Ralph ROSE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,shot put men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/william-wesley-coe,William Wesley COE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,shot put men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lawrence-e-joseph-feuerbach,Lawrence E. Joseph FEUERBACH,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,discus throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/martin-sheridan,Martin SHERIDAN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,discus throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ralph-rose,Ralph ROSE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,discus throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/nikolaos-georgantas,Nikolaos GEORGANTAS,Greece,GR,GRE
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,hammer throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/john-joseph-flanagan,John Joseph FLANAGAN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,hammer throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-dewitt,John DEWITT,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,hammer throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ralph-rose,Ralph ROSE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,high jump standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ray-ewry,Ray EWRY,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,high jump standing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/joseph-f-stadler,Joseph F. STADLER,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,high jump standing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lawson-n-robertson,Lawson N. ROBERTSON,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,marathon men,Men,GOLD,Athlete,,,Tom Hicks,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,marathon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/albert-corey,Albert COREY,France,FR,FRA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,marathon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arthur-newton,Arthur NEWTON,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,1500m men,Men,GOLD,Athlete,,,Jim Lightbody,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,1500m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/william-frank-verner,William Frank VERNER,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,1500m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lacey-hearn,Lacey HEARN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,All-Around Championship Men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/thomas-francis-kiely,Thomas Francis KIELY,Great Britain,GB,GBR
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,All-Around Championship Men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/adam-gunn,Adam GUNN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,All-Around Championship Men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/thomas-truxton-hare,Thomas Truxton HARE,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,3000m steeplechase men,Men,GOLD,Athlete,,,Jim Lightbody,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,3000m steeplechase men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-daly-2,John DALY,Great Britain,GB,GBR
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,3000m steeplechase men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arthur-newton,Arthur NEWTON,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,triple jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/meyer-prinstein,Meyer PRINSTEIN,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,triple jump men,Men,SILVER,Athlete,,,Fred Engelhardt,United States of America,US,USA
+Athletics,st-louis-1904,St. Louis,United States,America,1904,Summer,triple jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/robert-stangland,Robert STANGLAND,United States of America,US,USA
+Roque,st-louis-1904,St. Louis,United States,America,1904,Summer,Individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-jacobus,Charles JACOBUS,United States of America,US,USA
+Roque,st-louis-1904,St. Louis,United States,America,1904,Summer,Individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/smith-o-streeter,Smith O. STREETER,United States of America,US,USA
+Roque,st-louis-1904,St. Louis,United States,America,1904,Summer,Individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-brown-1,Charles BROWN,United States of America,US,USA
+Golf,st-louis-1904,St. Louis,United States,America,1904,Summer,Individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-seymour-lyon,George Seymour LYON,Canada,CA,CAN
+Golf,st-louis-1904,St. Louis,United States,America,1904,Summer,Individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/henri-chandler-egan,Henri Chandler EGAN,United States of America,US,USA
+Golf,st-louis-1904,St. Louis,United States,America,1904,Summer,Individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/burt-p-mckinnie,Burt P. MCKINNIE,United States of America,US,USA
+Golf,st-louis-1904,St. Louis,United States,America,1904,Summer,Individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/francis-clement-newton,Francis Clement NEWTON,United States of America,US,USA
+Golf,st-louis-1904,St. Louis,United States,America,1904,Summer,Team men,Men,GOLD,GameTeam,Western Golf Association #1,,,United States of America,US,USA
+Golf,st-louis-1904,St. Louis,United States,America,1904,Summer,Team men,Men,SILVER,GameTeam,Trans-Mississippi Golf Association #2,,,United States of America,US,USA
+Golf,st-louis-1904,St. Louis,United States,America,1904,Summer,Team men,Men,BRONZE,GameTeam,United States Golf Association #3,,,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Double Sculls Men,Men,GOLD,GameTeam,Atalanta Boat Club #1,https://olympics.com/en/athletes/john-j-f-mulcahy,John J.F. MULCAHY,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Double Sculls Men,Men,GOLD,GameTeam,Atalanta Boat Club #1,,Bill Varley,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Double Sculls Men,Men,SILVER,GameTeam,Ravenswood Boat Club #2,,Joseph McLoughlin,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Double Sculls Men,Men,SILVER,GameTeam,Ravenswood Boat Club #2,https://olympics.com/en/athletes/john-grey-hoben,John Grey HOBEN,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Double Sculls Men,Men,BRONZE,GameTeam,Independent Rowing Club #3,,Joe Ravannack,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Double Sculls Men,Men,BRONZE,GameTeam,Independent Rowing Club #3,https://olympics.com/en/athletes/john-wells,John WELLS,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxed Eights Men,Men,GOLD,GameTeam,Vesper Boat Club,,,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxed Eights Men,Men,SILVER,GameTeam,Toronto Argonauts,,,Canada,CA,CAN
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,single sculls 1x men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frank-greer,Frank GREER,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,single sculls 1x men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/james-juvenal,James JUVENAL,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,single sculls 1x men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/constance-titus,Constance TITUS,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Fours Men,Men,GOLD,GameTeam,Century Boat Club #1,,,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Fours Men,Men,SILVER,GameTeam,Mound City Rowing Club #2,,,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Fours Men,Men,BRONZE,GameTeam,Western Rowing Club #3,,,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Pairs Men,Men,GOLD,GameTeam,Seawanhaka Boat Club #1,,Robert Farnan,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Pairs Men,Men,GOLD,GameTeam,Seawanhaka Boat Club #1,,Joe Ryan,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Pairs Men,Men,SILVER,GameTeam,Atalanta Boat Club #2,https://olympics.com/en/athletes/john-j-f-mulcahy,John J.F. MULCAHY,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Pairs Men,Men,SILVER,GameTeam,Atalanta Boat Club #2,,Bill Varley,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Pairs Men,Men,BRONZE,GameTeam,Western Rowing Club #3,https://olympics.com/en/athletes/john-joachim,John JOACHIM,United States of America,US,USA
+Rowing,st-louis-1904,St. Louis,United States,America,1904,Summer,Coxless Pairs Men,Men,BRONZE,GameTeam,Western Rowing Club #3,,Joe Buerger,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Heavyweight, Freestyle (>158 pounds) Men",Men,GOLD,Athlete,,,Bernhoff Hansen,Norway,NO,NOR
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Heavyweight, Freestyle (>158 pounds) Men",Men,SILVER,Athlete,,,Franz Kugler,Germany,DE,GER
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Heavyweight, Freestyle (>158 pounds) Men",Men,BRONZE,Athlete,,,Fred Warmbold,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Featherweight, Freestyle (≤135 pounds) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/benjamin-joseph-bradshaw,Benjamin Joseph BRADSHAW,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Featherweight, Freestyle (≤135 pounds) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/theodore-mclear,Theodore MCLEAR,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Featherweight, Freestyle (≤135 pounds) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-e-clapper,Charles E. CLAPPER,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Flyweight, Freestyle (≤115 pounds) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-nicholas-mehnert,George Nicholas MEHNERT,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Flyweight, Freestyle (≤115 pounds) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/gustav-bauer,Gustav BAUER,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Flyweight, Freestyle (≤115 pounds) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-nelson,William NELSON,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Welterweight, Freestyle (≤158 pounds) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-ericksen,Charles ERICKSEN,Norway,NO,NOR
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Welterweight, Freestyle (≤158 pounds) Men",Men,SILVER,Athlete,,,Bill Beckman,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Welterweight, Freestyle (≤158 pounds) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jerry-winholtz,Jerry WINHOLTZ,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Light-Flyweight, Freestyle (≤105 pounds) Men",Men,GOLD,Athlete,,,Bob Curry,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Light-Flyweight, Freestyle (≤105 pounds) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-hein,John HEIN,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Light-Flyweight, Freestyle (≤105 pounds) Men",Men,BRONZE,Athlete,,,Gustav Tiefenthaler,Switzerland,CH,SUI
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Bantamweight, Freestyle (≤125 pounds) Men",Men,GOLD,Athlete,,,Jack Niflot,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Bantamweight, Freestyle (≤125 pounds) Men",Men,SILVER,Athlete,,,Gus Wester,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Bantamweight, Freestyle (≤125 pounds) Men",Men,BRONZE,Athlete,,,Louis Strebler,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Lightweight, Freestyle (≤145 pounds) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/otto-f-roehm,Otto F. ROEHM,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Lightweight, Freestyle (≤145 pounds) Men",Men,SILVER,Athlete,,,Rudolph Tesiny,United States of America,US,USA
+Wrestling,st-louis-1904,St. Louis,United States,America,1904,Summer,"Lightweight, Freestyle (≤145 pounds) Men",Men,BRONZE,Athlete,,,Al Zirkel,United States of America,US,USA
+Weightlifting,st-louis-1904,St. Louis,United States,America,1904,Summer,heavyweight - two hand lift men,Men,GOLD,Athlete,,,Periklis Kakousis,Greece,GR,GRE
+Weightlifting,st-louis-1904,St. Louis,United States,America,1904,Summer,heavyweight - two hand lift men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/oscar-paul-osthoff,Oscar Paul OSTHOFF,United States of America,US,USA
+Weightlifting,st-louis-1904,St. Louis,United States,America,1904,Summer,heavyweight - two hand lift men,Men,BRONZE,Athlete,,,Franz Kugler,Germany,DE,GER
+Weightlifting,st-louis-1904,St. Louis,United States,America,1904,Summer,All-around Dumbbell contest men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/oscar-paul-osthoff,Oscar Paul OSTHOFF,United States of America,US,USA
+Weightlifting,st-louis-1904,St. Louis,United States,America,1904,Summer,All-around Dumbbell contest men,Men,SILVER,Athlete,,,Fred Winter,United States of America,US,USA
+Weightlifting,st-louis-1904,St. Louis,United States,America,1904,Summer,All-around Dumbbell contest men,Men,BRONZE,Athlete,,,Franz Kugler,Germany,DE,GER
+Tug of War,st-louis-1904,St. Louis,United States,America,1904,Summer,tug of war men,Men,GOLD,GameTeam,Milwaukee Athletic Club #1,,,United States of America,US,USA
+Tug of War,st-louis-1904,St. Louis,United States,America,1904,Summer,tug of war men,Men,SILVER,GameTeam,St. Louis Southwest Turnverein #1 #2,,,United States of America,US,USA
+Tug of War,st-louis-1904,St. Louis,United States,America,1904,Summer,tug of war men,Men,BRONZE,GameTeam,St. Louis Southwest Turnverein #2 #3,,,MIX,,MIX
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,5216  567kg featherweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/oliver-l-kirk,Oliver L. KIRK,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,5216  567kg featherweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frank-haller,Frank HALLER,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,5216  567kg featherweight men,Men,BRONZE,Athlete,,,Fred Gilmore,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,7167kg heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/samuel-berger,Samuel BERGER,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,7167kg heavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-mayer,Charles MAYER,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,7167kg heavyweight men,Men,BRONZE,Athlete,,,Bill Michaels,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,6577  7167kg middleweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-mayer,Charles MAYER,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,6577  7167kg middleweight men,Men,SILVER,Athlete,,,Ben Spradling,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,6124  6577kg welterweight men,Men,GOLD,Athlete,,,Al Young,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,6124  6577kg welterweight men,Men,SILVER,Athlete,,,Harry Spanjer,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,6124  6577kg welterweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/joseph-lydon,Joseph LYDON,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,4763  5216kg bantamweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/oliver-l-kirk,Oliver L. KIRK,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,4763  5216kg bantamweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/george-finnegan,George FINNEGAN,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,4763kg flyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-finnegan,George FINNEGAN,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,4763kg flyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/miles-burke,Miles BURKE,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,567  6124kg lightweight men,Men,GOLD,Athlete,,,Harry Spanjer,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,567  6124kg lightweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/russell-van-horn,Russell VAN HORN,United States of America,US,USA
+Boxing,st-louis-1904,St. Louis,United States,America,1904,Summer,567  6124kg lightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/peter-sturholdt,Peter STURHOLDT,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,Singles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/beals-coleman-wright,Beals Coleman WRIGHT,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,Singles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/robert-leroy,Robert LEROY,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/edgar-welch-leonard,Edgar Welch LEONARD,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/alphonzo-edward-bell,Alphonzo Edward BELL,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,doubles men,Men,GOLD,GameTeam,United States team #1,https://olympics.com/en/athletes/beals-coleman-wright,Beals Coleman WRIGHT,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,doubles men,Men,GOLD,GameTeam,United States team #1,https://olympics.com/en/athletes/edgar-welch-leonard,Edgar Welch LEONARD,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,doubles men,Men,SILVER,GameTeam,United States team #2,https://olympics.com/en/athletes/robert-leroy,Robert LEROY,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,doubles men,Men,SILVER,GameTeam,United States team #2,https://olympics.com/en/athletes/alphonzo-edward-bell,Alphonzo Edward BELL,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,doubles men,Men,BRONZE,GameTeam,United States team #3,https://olympics.com/en/athletes/joseph-walker-wear,Joseph Walker WEAR,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,doubles men,Men,BRONZE,GameTeam,United States team #3,https://olympics.com/en/athletes/allen-tarwater-west,Allen Tarwater WEST,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,doubles men,Men,BRONZE,GameTeam,United States team #4,https://olympics.com/en/athletes/clarence-olivier-gamble,Clarence Olivier GAMBLE,United States of America,US,USA
+Tennis,st-louis-1904,St. Louis,United States,America,1904,Summer,doubles men,Men,BRONZE,GameTeam,United States team #4,https://olympics.com/en/athletes/arthur-yancey-wear,Arthur Yancey WEAR,United States of America,US,USA
+Football,st-louis-1904,St. Louis,United States,America,1904,Summer,football men,Men,GOLD,GameTeam,Galt Football Club,,,Canada,CA,CAN
+Football,st-louis-1904,St. Louis,United States,America,1904,Summer,football men,Men,SILVER,GameTeam,Christian Brothers' College #1,,,United States of America,US,USA
+Football,st-louis-1904,St. Louis,United States,America,1904,Summer,football men,Men,BRONZE,GameTeam,St. Rose #2,,,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,combined 3 events men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/adolf-spinnler,Adolf SPINNLER,Switzerland,CH,SUI
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,combined 3 events men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/julius-lenhart,Julius LENHART,Austria,AT,AUT
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,combined 3 events men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/wilhelm-weber,Wilhelm WEBER,Germany,DE,GER
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,pommel horse men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/anton-heida,Anton HEIDA,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,pommel horse men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/george-eyser,George EYSER,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,pommel horse men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-merz,William MERZ,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,individual all-round men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/julius-lenhart,Julius LENHART,Austria,AT,AUT
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,individual all-round men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/wilhelm-weber,Wilhelm WEBER,Germany,DE,GER
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,individual all-round men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/adolf-spinnler,Adolf SPINNLER,Switzerland,CH,SUI
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,horizontal bar men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/anton-heida,Anton HEIDA,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,horizontal bar men,Men,GOLD,Athlete,,,Ed Hennig,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,horizontal bar men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/george-eyser,George EYSER,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,parallel bars men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-eyser,George EYSER,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,parallel bars men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/anton-heida,Anton HEIDA,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,parallel bars men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/john-duha,John DUHA,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Individual All-Around, Field Sports Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/max-emmerich,Max EMMERICH,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Individual All-Around, Field Sports Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-grieb,John GRIEB,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Individual All-Around, Field Sports Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-merz,William MERZ,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,club swinging men,Men,GOLD,Athlete,,,Ed Hennig,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,club swinging men,Men,SILVER,Athlete,,,Emil Voigt,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,club swinging men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ralph-wilson,Ralph WILSON,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/anton-heida,Anton HEIDA,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-eyser,George EYSER,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-merz,William MERZ,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Team All-Around, Apparatus Work and Field Sports Men",Men,GOLD,GameTeam,"Philadelphia Turngemeinde, Philadelphia",,,MIX,,MIX
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Team All-Around, Apparatus Work and Field Sports Men",Men,SILVER,GameTeam,"New York Turnverein, New York",,,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Team All-Around, Apparatus Work and Field Sports Men",Men,BRONZE,GameTeam,"Central Turnverein, Chicago",,,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,rings men,Men,GOLD,Athlete,,,Herman Glass,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,rings men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/william-merz,William MERZ,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,rings men,Men,BRONZE,Athlete,,,Emil Voigt,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Individual All-Around, 4 Events Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/anton-heida,Anton HEIDA,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Individual All-Around, 4 Events Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/george-eyser,George EYSER,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,"Individual All-Around, 4 Events Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-merz,William MERZ,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,rope climbing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-eyser,George EYSER,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,rope climbing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-krause,Charles KRAUSE,United States of America,US,USA
+Gymnastics Artistic,st-louis-1904,St. Louis,United States,America,1904,Summer,rope climbing men,Men,BRONZE,Athlete,,,Emil Voigt,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,foil individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ramon-fonst,Ramon FONST,Cuba,CU,CUB
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,foil individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/albertson-van-zo-post,Albertson VAN ZO POST,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,foil individual men,Men,BRONZE,Athlete,,,Charles Tatham,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,stick single men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/albertson-van-zo-post,Albertson VAN ZO POST,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,stick single men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/william-scott-o-connor,William Scott O'CONNOR,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,stick single men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-grebe,William GREBE,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,foil team men,Men,GOLD,GameTeam,Mixed team,,,MIX,,MIX
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,foil team men,Men,SILVER,GameTeam,United States team,,,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,épée individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ramon-fonst,Ramon FONST,Cuba,CU,CUB
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,épée individual men,Men,SILVER,Athlete,,,Charles Tatham,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,épée individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/albertson-van-zo-post,Albertson VAN ZO POST,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,sabre individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/manuel-diaz,Manuel DIAZ,Cuba,CU,CUB
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,sabre individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/william-grebe,William GREBE,United States of America,US,USA
+Fencing,st-louis-1904,St. Louis,United States,America,1904,Summer,sabre individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/albertson-van-zo-post,Albertson VAN ZO POST,United States of America,US,USA
+Diving,st-louis-1904,St. Louis,United States,America,1904,Summer,10m platform men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-sheldon,George SHELDON,United States of America,US,USA
+Diving,st-louis-1904,St. Louis,United States,America,1904,Summer,10m platform men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/georg-hoffmann,Georg HOFFMANN,Germany,DE,GER
+Diving,st-louis-1904,St. Louis,United States,America,1904,Summer,10m platform men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frank-kehoe,Frank KEHOE,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,5 miles 8046m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-schlee,Charles SCHLEE,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,5 miles 8046m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/george-wiley,George WILEY,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,5 miles 8046m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arthur-f-andrews,Arthur F. ANDREWS,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/3 mile 536m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/marcus-hurley,Marcus HURLEY,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/3 mile 536m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/burton-downing,Burton DOWNING,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/3 mile 536m men,Men,BRONZE,Athlete,,,Teddy Billington,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,25 miles 40232m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/burton-downing,Burton DOWNING,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,25 miles 40232m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/arthur-f-andrews,Arthur F. ANDREWS,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,25 miles 40232m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/george-wiley,George WILEY,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1 mile 1609m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/marcus-hurley,Marcus HURLEY,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1 mile 1609m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/burton-downing,Burton DOWNING,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1 mile 1609m men,Men,BRONZE,Athlete,,,Teddy Billington,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/4 mile 402m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/marcus-hurley,Marcus HURLEY,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/4 mile 402m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/burton-downing,Burton DOWNING,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/4 mile 402m men,Men,BRONZE,Athlete,,,Teddy Billington,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/2 mile 805m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/marcus-hurley,Marcus HURLEY,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/2 mile 805m men,Men,SILVER,Athlete,,,Teddy Billington,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,1/2 mile 805m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/burton-downing,Burton DOWNING,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,2 miles 3218m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/burton-downing,Burton DOWNING,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,2 miles 3218m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/oscar-goerke,Oscar GOERKE,United States of America,US,USA
+Cycling Track,st-louis-1904,St. Louis,United States,America,1904,Summer,2 miles 3218m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/marcus-hurley,Marcus HURLEY,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,50y freestyle 4572m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/zoltan-halmay,Zoltan HALMAY,Hungary,HU,HUN
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,50y freestyle 4572m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/j-scott-leary,J. Scott LEARY,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,50y freestyle 4572m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-daniels,Charles DANIELS,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,4x50y freestyle relay men,Men,GOLD,Athlete,,,Billy Dickey,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,4x50y freestyle relay men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/edgar-h-adams,Edgar H. ADAMS,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,4x50y freestyle relay men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/leo-budd-goodwin,Leo Budd GOODWIN,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,400m breaststroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/georg-zacharias,Georg ZACHARIAS,Germany,DE,GER
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,400m breaststroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/walter-brack,Walter BRACK,Germany,DE,GER
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,400m breaststroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jam-handy,Jam HANDY,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,100m backstroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/walter-brack,Walter BRACK,Germany,DE,GER
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,100m backstroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/georg-hoffmann,Georg HOFFMANN,Germany,DE,GER
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,100m backstroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/georg-zacharias,Georg ZACHARIAS,Germany,DE,GER
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,880y freestyle 80466m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/emil-rausch,Emil RAUSCH,Germany,DE,GER
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,880y freestyle 80466m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/francis-gailey,Francis GAILEY,Australia,AU,AUS
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,880y freestyle 80466m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/geza-kiss,Geza KISS,Hungary,HU,HUN
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,4 x 50 yard Freestyle Relay Men,Men,GOLD,GameTeam,New York Athletic Club #1 #1,,,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,4 x 50 yard Freestyle Relay Men,Men,SILVER,GameTeam,Chicago Athletic Association #2,,,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,4 x 50 yard Freestyle Relay Men,Men,BRONZE,GameTeam,Missouri Athletic Club #3,,,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,220 yard Freestyle Men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-daniels,Charles DANIELS,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,220 yard Freestyle Men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/francis-gailey,Francis GAILEY,Australia,AU,AUS
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,220 yard Freestyle Men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/emil-rausch,Emil RAUSCH,Germany,DE,GER
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,400m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-daniels,Charles DANIELS,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,400m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/francis-gailey,Francis GAILEY,Australia,AU,AUS
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,400m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/otto-wahle,Otto WAHLE,Austria,AT,AUT
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,1500m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/emil-rausch,Emil RAUSCH,Germany,DE,GER
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,1500m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/geza-kiss,Geza KISS,Hungary,HU,HUN
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,1500m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/francis-gailey,Francis GAILEY,Australia,AU,AUS
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,100m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/zoltan-halmay,Zoltan HALMAY,Hungary,HU,HUN
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,100m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-daniels,Charles DANIELS,United States of America,US,USA
+Swimming,st-louis-1904,St. Louis,United States,America,1904,Summer,100m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/j-scott-leary,J. Scott LEARY,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,Team Round Men,Men,GOLD,GameTeam,Potomac Archers,,,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,Team Round Men,Men,SILVER,GameTeam,Cincinnati Archers,,,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,Team Round Men,Men,BRONZE,GameTeam,Boston Archers,,,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,teams FITA round women,Women,GOLD,GameTeam,Cincinnati Archers,,,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double national round 60y  50y women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/matilda-scott-howell,Matilda Scott HOWELL,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double national round 60y  50y women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/emma-c-cooke,Emma C. COOKE,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double national round 60y  50y women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/eliza-pollock,Eliza POLLOCK,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double york round 100y  80y  60y men,Men,GOLD,Athlete,,,Phil Bryant,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double york round 100y  80y  60y men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/robert-williams-1,Robert WILLIAMS,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double york round 100y  80y  60y men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-henry-thompson,William Henry THOMPSON,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double columbia round 50y  40y  30y women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/matilda-scott-howell,Matilda Scott HOWELL,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double columbia round 50y  40y  30y women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/emma-c-cooke,Emma C. COOKE,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double columbia round 50y  40y  30y women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/eliza-pollock,Eliza POLLOCK,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double american round (60y - 50y - 40y) men,Men,GOLD,Athlete,,,Phil Bryant,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double american round (60y - 50y - 40y) men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/robert-williams-1,Robert WILLIAMS,United States of America,US,USA
+Archery,st-louis-1904,St. Louis,United States,America,1904,Summer,double american round (60y - 50y - 40y) men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-henry-thompson,William Henry THOMPSON,United States of America,US,USA
+Lacrosse,st-louis-1904,St. Louis,United States,America,1904,Summer,lacrosse men,Men,GOLD,GameTeam,Winnipeg Shamrocks #1,,,Canada,CA,CAN
+Lacrosse,st-louis-1904,St. Louis,United States,America,1904,Summer,lacrosse men,Men,SILVER,GameTeam,St. Louis Amateur Athletic Association,,,United States of America,US,USA
+Lacrosse,st-louis-1904,St. Louis,United States,America,1904,Summer,lacrosse men,Men,BRONZE,GameTeam,Mohawk Indians #2,,,Canada,CA,CAN
+Water Polo,st-louis-1904,St. Louis,United States,America,1904,Summer,water polo men,Men,GOLD,GameTeam,New York Athletic Club #1,,,United States of America,US,USA
+Water Polo,st-louis-1904,St. Louis,United States,America,1904,Summer,water polo men,Men,SILVER,GameTeam,Chicago Athletic Association #2,,,United States of America,US,USA
+Water Polo,st-louis-1904,St. Louis,United States,America,1904,Summer,water polo men,Men,BRONZE,GameTeam,Missouri Athletic Club #3,,,United States of America,US,USA
