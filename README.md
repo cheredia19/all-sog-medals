@@ -204,3 +204,11 @@ description: ''
     url: 'beijing_2008.csv'
   }}
 />
+
+## London 2012
+
+<FlatUiTable
+  data={{
+    url: 'london_2012.csv'
+  }}
+/>
