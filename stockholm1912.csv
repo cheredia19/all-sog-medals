@@ -1,0 +1,324 @@
+discipline_title,event_title,event_gender,medal_type,participant_type,participant_title,athlete_url,athlete_full_name,country_name,country_code,country_3_letter_code
+Tennis,mixed doubles indoor mixed,Mixed,GOLD,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/edith-margaret-hannam,Edith Margaret HANNAM,Great Britain,GB,GBR
+Tennis,mixed doubles indoor mixed,Mixed,GOLD,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/charles-percy-dixon,Charles Percy DIXON,Great Britain,GB,GBR
+Tennis,mixed doubles indoor mixed,Mixed,SILVER,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/francis-helen-aitchison,Francis Helen AITCHISON,Great Britain,GB,GBR
+Tennis,mixed doubles indoor mixed,Mixed,SILVER,GameTeam,Great Britain team #1,https://olympics.com/en/athletes/herbert-roper-barrett,Herbert Roper BARRETT,Great Britain,GB,GBR
+Tennis,mixed doubles indoor mixed,Mixed,BRONZE,GameTeam,Sweden team #3,https://olympics.com/en/athletes/sigrid-fick,Sigrid FICK,Sweden,SE,SWE
+Tennis,mixed doubles indoor mixed,Mixed,BRONZE,GameTeam,Sweden team #3,https://olympics.com/en/athletes/gunnar-setterwall,Gunnar SETTERWALL,Sweden,SE,SWE
+Tennis,doubles indoor men,Men,GOLD,GameTeam,France team,https://olympics.com/en/athletes/andre-henri-gobert,André Henri GOBERT,France,FR,FRA
+Tennis,doubles indoor men,Men,GOLD,GameTeam,France team,https://olympics.com/en/athletes/maurice-germot,Maurice GERMOT,France,FR,FRA
+Tennis,doubles indoor men,Men,SILVER,GameTeam,Sweden team #2,https://olympics.com/en/athletes/gunnar-setterwall,Gunnar SETTERWALL,Sweden,SE,SWE
+Tennis,doubles indoor men,Men,SILVER,GameTeam,Sweden team #2,https://olympics.com/en/athletes/carl-kempe,Carl KEMPE,Sweden,SE,SWE
+Tennis,doubles indoor men,Men,BRONZE,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/charles-percy-dixon,Charles Percy DIXON,Great Britain,GB,GBR
+Tennis,doubles indoor men,Men,BRONZE,GameTeam,Great Britain team #2,https://olympics.com/en/athletes/alfred-ernest-beamish,Alfred Ernest BEAMISH,Great Britain,GB,GBR
+Tennis,mixed doubles mixed,Mixed,GOLD,GameTeam,Germany team,https://olympics.com/en/athletes/dora-koring,Dora KÖRING,Germany,DE,GER
+Tennis,mixed doubles mixed,Mixed,GOLD,GameTeam,Germany team,https://olympics.com/en/athletes/heinrich-schomburgk,Heinrich SCHOMBURGK,Germany,DE,GER
+Tennis,mixed doubles mixed,Mixed,SILVER,GameTeam,Sweden team #1,https://olympics.com/en/athletes/sigrid-fick,Sigrid FICK,Sweden,SE,SWE
+Tennis,mixed doubles mixed,Mixed,SILVER,GameTeam,Sweden team #1,https://olympics.com/en/athletes/gunnar-setterwall,Gunnar SETTERWALL,Sweden,SE,SWE
+Tennis,mixed doubles mixed,Mixed,BRONZE,GameTeam,France team,https://olympics.com/en/athletes/marguerite-broquedis,Marguerite BROQUEDIS,France,FR,FRA
+Tennis,mixed doubles mixed,Mixed,BRONZE,GameTeam,France team,https://olympics.com/en/athletes/albert-henri-canet,Albert Henri CANET,France,FR,FRA
+Tennis,singles indoor men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/andre-henri-gobert,André Henri GOBERT,France,FR,FRA
+Tennis,singles indoor men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-percy-dixon,Charles Percy DIXON,Great Britain,GB,GBR
+Tennis,singles indoor men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/anthony-frederick-wilding,Anthony Frederick WILDING,Australasia,,ANZ
+Tennis,Singles women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/marguerite-broquedis,Marguerite BROQUEDIS,France,FR,FRA
+Tennis,Singles women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/dora-koring,Dora KÖRING,Germany,DE,GER
+Tennis,Singles women,Women,BRONZE,Athlete,,,Molla Bjurstedt-Mallory,Norway,NO,NOR
+Tennis,singles indoor women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/edith-margaret-hannam,Edith Margaret HANNAM,Great Britain,GB,GBR
+Tennis,singles indoor women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/thora-gerda-sophie-castenschiold,Thora Gerda Sophie CASTENSCHIOLD,Denmark,DK,DEN
+Tennis,singles indoor women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/mabel-branwell-parton,Mabel Branwell PARTON,Great Britain,GB,GBR
+Tennis,doubles men,Men,GOLD,GameTeam,South Africa team,https://olympics.com/en/athletes/harry-austin-kitson,Harry Austin KITSON,South Africa,ZA,RSA
+Tennis,doubles men,Men,GOLD,GameTeam,South Africa team,https://olympics.com/en/athletes/charles-lyndhurst-winslow,Charles Lyndhurst WINSLOW,South Africa,ZA,RSA
+Tennis,doubles men,Men,SILVER,GameTeam,Austria team,https://olympics.com/en/athletes/fritz-felix-pipes,Fritz Felix PIPES,Austria,AT,AUT
+Tennis,doubles men,Men,SILVER,GameTeam,Austria team,https://olympics.com/en/athletes/arthur-zborzil,Arthur ZBORZIL,Austria,AT,AUT
+Tennis,doubles men,Men,BRONZE,GameTeam,France team,https://olympics.com/en/athletes/albert-henri-canet,Albert Henri CANET,France,FR,FRA
+Tennis,doubles men,Men,BRONZE,GameTeam,France team,https://olympics.com/en/athletes/edouard-marie-marc-meny-de-marangue,Edouard Marie Marc MENY DE MARANGUE,France,FR,FRA
+Tennis,Singles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-lyndhurst-winslow,Charles Lyndhurst WINSLOW,South Africa,ZA,RSA
+Tennis,Singles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/harry-austin-kitson,Harry Austin KITSON,South Africa,ZA,RSA
+Tennis,Singles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/oscar-kreuzer,Oscar KREUZER,Germany,DE,GER
+Sailing,10m mixed,Open,GOLD,GameTeam,Kitty #1,,,Sweden,SE,SWE
+Sailing,10m mixed,Open,SILVER,GameTeam,Nina,,,Finland,FI,FIN
+Sailing,10m mixed,Open,BRONZE,GameTeam,Gallia II,,,Russian Federation,RU,RUS
+Sailing,6m mixed,Open,GOLD,GameTeam,Mac Miche,,,France,FR,FRA
+Sailing,6m mixed,Open,SILVER,GameTeam,Nurdug II,,,Denmark,DK,DEN
+Sailing,6m mixed,Open,BRONZE,GameTeam,Kerstin #1,,,Sweden,SE,SWE
+Sailing,12m mixed,Open,GOLD,GameTeam,Magda IX,,,Norway,NO,NOR
+Sailing,12m mixed,Open,SILVER,GameTeam,Erna Signe,,,Sweden,SE,SWE
+Sailing,12m mixed,Open,BRONZE,GameTeam,Heatherbell,,,Finland,FI,FIN
+Sailing,8m mixed,Open,GOLD,GameTeam,Taifun,,,Norway,NO,NOR
+Sailing,8m mixed,Open,SILVER,GameTeam,Sans Atout #1,,,Sweden,SE,SWE
+Sailing,8m mixed,Open,BRONZE,GameTeam,Lucky Girl #1,,,Finland,FI,FIN
+Athletics,200m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ralph-craig,Ralph CRAIG,United States of America,US,USA
+Athletics,200m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/donald-lippincott,Donald LIPPINCOTT,United States of America,US,USA
+Athletics,200m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/william-applegarth,William APPLEGARTH,Great Britain,GB,GBR
+Athletics,cross country individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hannes-kolehmainen,Hannes KOLEHMAINEN,Finland,FI,FIN
+Athletics,cross country individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hjalmar-andersson,Hjalmar ANDERSSON,Sweden,SE,SWE
+Athletics,cross country individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/john-eke,John EKE,Sweden,SE,SWE
+Athletics,5000m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hannes-kolehmainen,Hannes KOLEHMAINEN,Finland,FI,FIN
+Athletics,5000m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jean-bouin,Jean BOUIN,France,FR,FRA
+Athletics,5000m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/george-william-hutson,George William HUTSON,Great Britain,GB,GBR
+Athletics,javelin throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/eric-lemming,Eric LEMMING,Sweden,SE,SWE
+Athletics,javelin throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/juho-julius-saaristo,Juho Julius SAARISTO,Finland,FI,FIN
+Athletics,javelin throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/mor-kovacs,Mor KOVACS,Hungary,HU,HUN
+Athletics,triple jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/gustav-lindblom,Gustav LINDBLOM,Sweden,SE,SWE
+Athletics,triple jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/georg-aberg,Georg ABERG,Sweden,SE,SWE
+Athletics,triple jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/erik-almlof,Erik ALMLÖF,Sweden,SE,SWE
+Athletics,javelin throw both hands men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/juho-julius-saaristo,Juho Julius SAARISTO,Finland,FI,FIN
+Athletics,javelin throw both hands men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/vaino-siikaniemi,Väinö SIIKANIEMI,Finland,FI,FIN
+Athletics,javelin throw both hands men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/urho-pellervo-peltonen,Urho Pellervo PELTONEN,Finland,FI,FIN
+Athletics,400m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/charles-decker-reidpath,Charles Decker REIDPATH,United States of America,US,USA
+Athletics,400m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hans-braun,Hans BRAUN,Germany,DE,GER
+Athletics,400m men,Men,BRONZE,Athlete,,,Ed Lindberg,United States of America,US,USA
+Athletics,4x400m relay men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Athletics,4x400m relay men,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Athletics,4x400m relay men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,1500m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/arnold-jackson,Arnold JACKSON,Great Britain,GB,GBR
+Athletics,1500m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/abel-kiviat,Abel KIVIAT,United States of America,US,USA
+Athletics,1500m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/norman-taber,Norman TABER,United States of America,US,USA
+Athletics,hammer throw men,Men,GOLD,Athlete,,,Matt McGrath,United States of America,US,USA
+Athletics,hammer throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/duncan-gillis,Duncan GILLIS,Canada,CA,CAN
+Athletics,hammer throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/clarence-chester-childs,Clarence Chester CHILDS,United States of America,US,USA
+Athletics,100m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ralph-craig,Ralph CRAIG,United States of America,US,USA
+Athletics,100m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/i-alvah-meyer,I. Alvah MEYER,United States of America,US,USA
+Athletics,100m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/donald-lippincott,Donald LIPPINCOTT,United States of America,US,USA
+Athletics,10000m walk men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-goulding,George GOULDING,Canada,CA,CAN
+Athletics,10000m walk men,Men,SILVER,Athlete,,,Ernie Webb,Great Britain,GB,GBR
+Athletics,10000m walk men,Men,BRONZE,Athlete,,,Nando Altimani,Italy,IT,ITA
+Athletics,110m hurdles men,Men,GOLD,Athlete,,,Fred Kelly,United States of America,US,USA
+Athletics,110m hurdles men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/james-wendell,James WENDELL,United States of America,US,USA
+Athletics,110m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/martin-hawkins,Martin HAWKINS,United States of America,US,USA
+Athletics,shot put men,Men,GOLD,Athlete,,,Pat McDonald,United States of America,US,USA
+Athletics,shot put men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ralph-rose,Ralph ROSE,United States of America,US,USA
+Athletics,shot put men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/laurence-atwood-whitney,Laurence Atwood WHITNEY,United States of America,US,USA
+Athletics,decathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jim-thorpe,Jim THORPE,United States of America,US,USA
+Athletics,decathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hugo-k-wieslander,Hugo K. WIESLANDER,Sweden,SE,SWE
+Athletics,decathlon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/charles-lomberg,Charles LOMBERG,Sweden,SE,SWE
+Athletics,decathlon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gosta-holmer,Gösta HOLMER,Sweden,SE,SWE
+Athletics,high jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alma-wilfred-richards,Alma Wilfred RICHARDS,United States of America,US,USA
+Athletics,high jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hans-liesche,Hans LIESCHE,Germany,DE,GER
+Athletics,high jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/george-leslie-horine,George Leslie HORINE,United States of America,US,USA
+Athletics,high jump standing men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/platt-adams,Platt ADAMS,United States of America,US,USA
+Athletics,high jump standing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/benjamin-w-adams,Benjamin W. ADAMS,United States of America,US,USA
+Athletics,high jump standing men,Men,BRONZE,Athlete,,,Kostas Tsiklitiras,Greece,GR,GRE
+Athletics,long jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/albert-lovejoy-gutterson,Albert Lovejoy GUTTERSON,United States of America,US,USA
+Athletics,long jump men,Men,SILVER,Athlete,,,Cal Bricker,Canada,CA,CAN
+Athletics,long jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/georg-aberg,Georg ABERG,Sweden,SE,SWE
+Athletics,shot put both hands men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ralph-rose,Ralph ROSE,United States of America,US,USA
+Athletics,shot put both hands men,Men,SILVER,Athlete,,,Pat McDonald,United States of America,US,USA
+Athletics,shot put both hands men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/elmer-konstantin-niklander,Elmer Konstantin NIKLANDER,Finland,FI,FIN
+Athletics,800m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ted-meredith,Ted MEREDITH,United States of America,US,USA
+Athletics,800m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/melvin-sheppard,Melvin SHEPPARD,United States of America,US,USA
+Athletics,800m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ira-nelson-davenport,Ira Nelson DAVENPORT,United States of America,US,USA
+Athletics,cross country team men,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Athletics,cross country team men,Men,SILVER,GameTeam,Finland team,,,Finland,FI,FIN
+Athletics,cross country team men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,pole vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-stoddard-babcock,Harry Stoddard BABCOCK,United States of America,US,USA
+Athletics,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frank-thayer-nelson,Frank Thayer NELSON,United States of America,US,USA
+Athletics,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/marc-snowell-wright,Marc Snowell WRIGHT,United States of America,US,USA
+Athletics,pole vault men,Men,BRONZE,Athlete,,,William Halpenny,Canada,CA,CAN
+Athletics,pole vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bertil-uggla,Bertil UGGLA,Sweden,SE,SWE
+Athletics,pole vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frank-dwyer-murphy,Frank Dwyer MURPHY,United States of America,US,USA
+Athletics,discus throw both hands men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/armas-rudolf-taipale,Armas Rudolf TAIPALE,Finland,FI,FIN
+Athletics,discus throw both hands men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/elmer-konstantin-niklander,Elmer Konstantin NIKLANDER,Finland,FI,FIN
+Athletics,discus throw both hands men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/emil-magnusson,Emil MAGNUSSON,Sweden,SE,SWE
+Athletics,4x100m relay men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,4x100m relay men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Athletics,discus throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/armas-rudolf-taipale,Armas Rudolf TAIPALE,Finland,FI,FIN
+Athletics,discus throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/richard-leslie-byrd,Richard Leslie BYRD,United States of America,US,USA
+Athletics,discus throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/james-henry-duncan,James Henry DUNCAN,United States of America,US,USA
+Athletics,3000m team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Athletics,3000m team men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Athletics,3000m team men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,marathon men,Men,GOLD,Athlete,,,Ken McArthur,South Africa,ZA,RSA
+Athletics,marathon men,Men,SILVER,Athlete,,,Chris Gitsham,South Africa,ZA,RSA
+Athletics,marathon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gaston-strobino,Gaston STROBINO,United States of America,US,USA
+Athletics,10000m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hannes-kolehmainen,Hannes KOLEHMAINEN,Finland,FI,FIN
+Athletics,10000m men,Men,SILVER,Athlete,,,Lewis Tewanima,United States of America,US,USA
+Athletics,10000m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/albin-oskar-stenroos,Albin Oskar STENROOS,Finland,FI,FIN
+Athletics,long jump standing men,Men,GOLD,Athlete,,,Kostas Tsiklitiras,Greece,GR,GRE
+Athletics,long jump standing men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/platt-adams,Platt ADAMS,United States of America,US,USA
+Athletics,long jump standing men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/benjamin-w-adams,Benjamin W. ADAMS,United States of America,US,USA
+Athletics,pentathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jim-thorpe,Jim THORPE,United States of America,US,USA
+Athletics,pentathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ferdinand-reinhardt-bie,Ferdinand Reinhardt BIE,Norway,NO,NOR
+Athletics,pentathlon men,Men,SILVER,Athlete,,,Jim Donahue,United States of America,US,USA
+Athletics,pentathlon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frank-lukeman,Frank LUKEMAN,Canada,CA,CAN
+Football,football men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Football,football men,Men,SILVER,GameTeam,Denmark team,,,Denmark,DK,DEN
+Football,football men,Men,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Diving,plain high diving men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/erik-adlerz,Erik ADLERZ,Sweden,SE,SWE
+Diving,plain high diving men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hjalmar-johansson,Hjalmar JOHANSSON,Sweden,SE,SWE
+Diving,plain high diving men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/john-jansson,John JANSSON,Sweden,SE,SWE
+Diving,10m platform women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/greta-johansson,Greta JOHANSSON,Sweden,SE,SWE
+Diving,10m platform women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/lisa-regnell,Lisa REGNELL,Sweden,SE,SWE
+Diving,10m platform women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/isabella-mary-white,Isabella Mary WHITE,Great Britain,GB,GBR
+Diving,10m platform men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/erik-adlerz,Erik ADLERZ,Sweden,SE,SWE
+Diving,10m platform men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/albert-zurner,Albert ZÜRNER,Germany,DE,GER
+Diving,10m platform men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gustaf-blomgren,Gustaf BLOMGREN,Sweden,SE,SWE
+Diving,3m springboard men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-gunther,Paul GÜNTHER,Germany,DE,GER
+Diving,3m springboard men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hans-luber,Hans LUBER,Germany,DE,GER
+Diving,3m springboard men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/kurt-behrens,Kurt BEHRENS,Germany,DE,GER
+Equestrian Eventing,team mixed,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Equestrian Eventing,team mixed,Men,SILVER,GameTeam,Germany team,,,Germany,DE,GER
+Equestrian Eventing,team mixed,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Equestrian Eventing,individual mixed,Men,GOLD,Athlete,,https://olympics.com/en/athletes/axel-nordlander,Axel NORDLANDER,Sweden,SE,SWE
+Equestrian Eventing,individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/friedrich-leopold-harry-von-rochow,Friedrich Leopold Harry VON ROCHOW,Germany,DE,GER
+Equestrian Eventing,individual mixed,Men,BRONZE,Athlete,,,Jacques Cariou,France,FR,FRA
+Wrestling,"Middleweight B, Greco-Roman (≤82.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/anders-ahlgren,Anders AHLGREN,Sweden,SE,SWE
+Wrestling,"Middleweight B, Greco-Roman (≤82.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/ivar-theodor-bohling,Ivar Theodor BÖHLING,Finland,FI,FIN
+Wrestling,"Middleweight B, Greco-Roman (≤82.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bela-varga,Béla VARGA,Hungary,HU,HUN
+Wrestling,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/eemil-ernesti-vare,Eemil Ernesti VÄRE,Finland,FI,FIN
+Wrestling,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/gustaf-h-malmstrom,Gustaf H. MALMSTRÖM,Sweden,SE,SWE
+Wrestling,"Lightweight, Greco-Roman (≤67.5 kilograms) Men",Men,BRONZE,Athlete,,,Edvin Mathiasson,Sweden,SE,SWE
+Wrestling,"Featherweight, Greco-Roman (≤60 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/kaarlo-koskelo,Kaarlo KOSKELO,Finland,FI,FIN
+Wrestling,"Featherweight, Greco-Roman (≤60 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/georg-gerstacker,Georg GERSTÄCKER,Germany,DE,GER
+Wrestling,"Featherweight, Greco-Roman (≤60 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/otto-lasanen,Otto LASANEN,Finland,FI,FIN
+Wrestling,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,GOLD,Athlete,,,Yrjö Saarela,Finland,FI,FIN
+Wrestling,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/johan-fredrik-olin,Johan Fredrik OLIN,Finland,FI,FIN
+Wrestling,"Heavyweight, Greco-Roman (>82.5 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/soren-marius-jensen,Sören Marius JENSEN,Denmark,DK,DEN
+Wrestling,"Middleweight A, Greco-Roman (≤75 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/claes-johanson,Claes JOHANSON,Sweden,SE,SWE
+Wrestling,"Middleweight A, Greco-Roman (≤75 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/martin-klein,Martin KLEIN,Russian Federation,RU,RUS
+Wrestling,"Middleweight A, Greco-Roman (≤75 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/alfred-asikainen,Alfred ASIKAINEN,Finland,FI,FIN
+Equestrian Jumping,team mixed,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Equestrian Jumping,team mixed,Men,SILVER,GameTeam,France team,,,France,FR,FRA
+Equestrian Jumping,team mixed,Men,BRONZE,GameTeam,Germany team,,,Germany,DE,GER
+Equestrian Jumping,individual mixed,Men,GOLD,Athlete,,,Jacques Cariou,France,FR,FRA
+Equestrian Jumping,individual mixed,Men,SILVER,Athlete,,https://olympics.com/en/athletes/rabod-wilhelm-von-krocher,Rabod Wilhelm VON KRÖCHER,Germany,DE,GER
+Equestrian Jumping,individual mixed,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/emmanuel-de-blommaert-de-soye,Emmanuel DE BLOMMAERT DE SOYE,Belgium,BE,BEL
+Shooting,100m running deer double shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ake-lundeberg,Ake LUNDEBERG,Sweden,SE,SWE
+Shooting,100m running deer double shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/edward-benedicks,Edward BENEDICKS,Sweden,SE,SWE
+Shooting,100m running deer double shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/oscar-swahn,Oscar SWAHN,Sweden,SE,SWE
+Shooting,army rifle 300m 3 positions men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sandor-prokopp,Sandor PROKOPP,Hungary,HU,HUN
+Shooting,army rifle 300m 3 positions men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/carl-townsend-osburn,Carl Townsend OSBURN,United States of America,US,USA
+Shooting,army rifle 300m 3 positions men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/engebret-skogen,Engebret SKOGEN,Norway,NO,NOR
+Shooting,100m running deer single shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alfred-swahn,Alfred SWAHN,Sweden,SE,SWE
+Shooting,100m running deer single shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ake-lundeberg,Ake LUNDEBERG,Sweden,SE,SWE
+Shooting,100m running deer single shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/nestori-toivonen,Nestori TOIVONEN,Finland,FI,FIN
+Shooting,100m running deer single shots team men,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,100m running deer single shots team men,Men,SILVER,GameTeam,United States team,,,United States of America,US,USA
+Shooting,100m running deer single shots team men,Men,BRONZE,GameTeam,Finland team,,,Finland,FI,FIN
+Shooting,free rifle team men,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,free rifle team men,Men,SILVER,GameTeam,Norway team,,,Norway,NO,NOR
+Shooting,free rifle team men,Men,BRONZE,GameTeam,Denmark team,,,Denmark,DK,DEN
+Shooting,50m pistol 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alfred-p-lane,Alfred P. LANE,United States of America,US,USA
+Shooting,50m pistol 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/peter-j-dolfen,Peter J. DOLFEN,United States of America,US,USA
+Shooting,50m pistol 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/charles-edward-stewart,Charles Edward STEWART,Great Britain,GB,GBR
+Shooting,25m rapid fire pistol 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/alfred-p-lane,Alfred P. LANE,United States of America,US,USA
+Shooting,25m rapid fire pistol 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/paul-palen,Paul PALEN,Sweden,SE,SWE
+Shooting,25m rapid fire pistol 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/johan-hubner-von-holst,Johan Hübner VON HOLST,Sweden,SE,SWE
+Shooting,"Small-Bore Rifle, Disappearing Target, 25 metres, Team Men",Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,"Small-Bore Rifle, Disappearing Target, 25 metres, Team Men",Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Shooting,"Small-Bore Rifle, Disappearing Target, 25 metres, Team Men",Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Shooting,25m small rifle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/g-vilhelm-carlberg,G. Vilhelm CARLBERG,Sweden,SE,SWE
+Shooting,25m small rifle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/johan-hubner-von-holst,Johan Hübner VON HOLST,Sweden,SE,SWE
+Shooting,25m small rifle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gideon-ericsson,Gideon ERICSSON,Sweden,SE,SWE
+Shooting,50m rifle prone 60 shots men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/frederick-s-hird,Frederick S. HIRD,United States of America,US,USA
+Shooting,50m rifle prone 60 shots men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/william-milne,William MILNE,Great Britain,GB,GBR
+Shooting,50m rifle prone 60 shots men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harold-burt,Harold BURT,Great Britain,GB,GBR
+Shooting,300m free rifle 3 positions 3 men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-rene-colas,Paul René COLAS,France,FR,FRA
+Shooting,300m free rifle 3 positions 3 men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/lars-jorgen-madsen,Lars Jörgen MADSEN,Denmark,DK,DEN
+Shooting,300m free rifle 3 positions 3 men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/niels-hansen-ditlev-larsen,Niels Hansen Ditlev LARSEN,Denmark,DK,DEN
+Shooting,rifle team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,rifle team men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Shooting,rifle team men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,50m army pistol team men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,50m army pistol team men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,50m army pistol team men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Shooting,trap 125 targets men,Men,GOLD,GameTeam,United States team,,,United States of America,US,USA
+Shooting,trap 125 targets men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Shooting,trap 125 targets men,Men,BRONZE,GameTeam,Germany team,,,Germany,DE,GER
+Shooting,600m free rifle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-rene-colas,Paul René COLAS,France,FR,FRA
+Shooting,600m free rifle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/carl-townsend-osburn,Carl Townsend OSBURN,United States of America,US,USA
+Shooting,600m free rifle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/john-e-jackson,John E. JACKSON,United States of America,US,USA
+Shooting,30m army pistol team men,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,30m army pistol team men,Men,SILVER,GameTeam,Russian Federation team,,,Russian Federation,RU,RUS
+Shooting,30m army pistol team men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Shooting,trap 125 targets men,Men,GOLD,Athlete,,,Jay Graham,United States of America,US,USA
+Shooting,trap 125 targets men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alfred-goeldel,Alfred GOELDEL,Germany,DE,GER
+Shooting,trap 125 targets men,Men,BRONZE,Athlete,,,Harry Blaus,Russian Federation,RU,RUS
+Shooting,50m small bore rifle team men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Shooting,50m small bore rifle team men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Shooting,50m small bore rifle team men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Tug of War,tug of war men,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Tug of War,tug of war men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Equestrian Dressage,individual mixed,Men,GOLD,Athlete,,https://olympics.com/en/athletes/carl-bonde,Carl BONDE,Sweden,SE,SWE
+Equestrian Dressage,individual mixed,Men,SILVER,Athlete,,,"Gustaf Adolf Boltenstern, Sr.",Sweden,SE,SWE
+Equestrian Dressage,individual mixed,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/hans-von-blixen-finecke,Hans VON BLIXEN-FINECKE,Sweden,SE,SWE
+Gymnastics Artistic,team free system men,Men,GOLD,GameTeam,Norway team,,,Norway,NO,NOR
+Gymnastics Artistic,team free system men,Men,SILVER,GameTeam,Finland team,,,Finland,FI,FIN
+Gymnastics Artistic,team free system men,Men,BRONZE,GameTeam,Denmark team,,,Denmark,DK,DEN
+Gymnastics Artistic,team Swedish system men,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Gymnastics Artistic,team Swedish system men,Men,SILVER,GameTeam,Denmark team,,,Denmark,DK,DEN
+Gymnastics Artistic,team Swedish system men,Men,BRONZE,GameTeam,Norway team,,,Norway,NO,NOR
+Gymnastics Artistic,individual all-round men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/g-alberto-braglia,G. Alberto BRAGLIA,Italy,IT,ITA
+Gymnastics Artistic,individual all-round men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/b-louis-segura,B. Louis SEGURA,France,FR,FRA
+Gymnastics Artistic,individual all-round men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/serafino-mazzarochi,Serafino MAZZAROCHI,Italy,IT,ITA
+Gymnastics Artistic,team competition men,Men,GOLD,GameTeam,Italy team,,,Italy,IT,ITA
+Gymnastics Artistic,team competition men,Men,SILVER,GameTeam,Hungary team,,,Hungary,HU,HUN
+Gymnastics Artistic,team competition men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Rowing,four-oared shell with coxswain men,Men,GOLD,GameTeam,Ludwigshafener Ruderverein,,,Germany,DE,GER
+Rowing,four-oared shell with coxswain men,Men,SILVER,GameTeam,Thames Rowing Club,,,Great Britain,GB,GBR
+Rowing,four-oared shell with coxswain men,Men,BRONZE,GameTeam,Polyteknisk Roklub #1,,,Denmark,DK,DEN
+Rowing,four-oared shell with coxswain men,Men,BRONZE,GameTeam,Kristiania Roklub #1,,,Norway,NO,NOR
+Rowing,four-oared shell with coxswain men,Men,GOLD,GameTeam,Leander Club #1,,,Great Britain,GB,GBR
+Rowing,four-oared shell with coxswain men,Men,SILVER,GameTeam,"New College, Oxford #2",,,Great Britain,GB,GBR
+Rowing,four-oared shell with coxswain men,Men,BRONZE,GameTeam,Berliner Ruderverein von 1876 #2,,,Germany,DE,GER
+Rowing,quadruple sculls with coxswain 4x men,Men,GOLD,GameTeam,Nykjøbings paa Falster,,,Denmark,DK,DEN
+Rowing,quadruple sculls with coxswain 4x men,Men,SILVER,GameTeam,Roddklubben af 1912 #1,,,Sweden,SE,SWE
+Rowing,quadruple sculls with coxswain 4x men,Men,BRONZE,GameTeam,Ormsund Roklub #2,,,Norway,NO,NOR
+Rowing,single sculls 1x men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/william-duthie-kinnear,William Duthie KINNEAR,Great Britain,GB,GBR
+Rowing,single sculls 1x men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/polydore-veirman,Polydore VEIRMAN,Belgium,BE,BEL
+Rowing,single sculls 1x men,Men,BRONZE,Athlete,,,Mart Kuusik,Russian Federation,RU,RUS
+Rowing,single sculls 1x men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/everard-burnside-butler,Everard Burnside BUTLER,Canada,CA,CAN
+Fencing,sabre team men,Men,GOLD,GameTeam,Hungary team,,,Hungary,HU,HUN
+Fencing,sabre team men,Men,SILVER,GameTeam,Austria team,,,Austria,AT,AUT
+Fencing,sabre team men,Men,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Fencing,épée team men,Men,GOLD,GameTeam,Belgium team,,,Belgium,BE,BEL
+Fencing,épée team men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Fencing,épée team men,Men,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Fencing,foil individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/nedo-nadi,Nedo NADI,Italy,IT,ITA
+Fencing,foil individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/pietro-speciale,Pietro SPECIALE,Italy,IT,ITA
+Fencing,foil individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/richard-verderber,Richard VERDERBER,Austria,AT,AUT
+Fencing,épée individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/paul-anspach,Paul ANSPACH,Belgium,BE,BEL
+Fencing,épée individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/ivan-joseph-martin-osiier,Ivan Joseph Martin OSIIER,Denmark,DK,DEN
+Fencing,épée individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/philippe-le-hardy-de-beaulieu,Philippe LE HARDY DE BEAULIEU,Belgium,BE,BEL
+Fencing,sabre individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jeno-fuchs,Jenö FUCHS,Hungary,HU,HUN
+Fencing,sabre individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/bela-bekessy,Béla BEKESSY,Hungary,HU,HUN
+Fencing,sabre individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ervin-meszaros,Ervin MESZAROS,Hungary,HU,HUN
+Water Polo,water polo men,Men,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Water Polo,water polo men,Men,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Water Polo,water polo men,Men,BRONZE,GameTeam,Belgium team,,,Belgium,BE,BEL
+Cycling Road,individual time trial men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/rudolph-lewis,Rudolph LEWIS,South Africa,ZA,RSA
+Cycling Road,individual time trial men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frederick-henry-grubb,Frederick Henry GRUBB,Great Britain,GB,GBR
+Cycling Road,individual time trial men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/carl-otto-schutte,Carl Otto SCHUTTE,United States of America,US,USA
+Cycling Road,team time trial men,Men,GOLD,GameTeam,Sweden team,,,Sweden,SE,SWE
+Cycling Road,team time trial men,Men,SILVER,GameTeam,England #1,,,Great Britain,GB,GBR
+Cycling Road,team time trial men,Men,BRONZE,GameTeam,United States team,,,United States of America,US,USA
+Modern Pentathlon,Individual competition men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/gosta-lilliehook,Gosta LILLIEHOOK,Sweden,SE,SWE
+Modern Pentathlon,Individual competition men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/gosta-asbrink,Gosta ASBRINK,Sweden,SE,SWE
+Modern Pentathlon,Individual competition men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/georg-de-laval,Georg DE LAVAL,Sweden,SE,SWE
+Swimming,4x100m freestyle relay women,Women,GOLD,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Swimming,4x100m freestyle relay women,Women,SILVER,GameTeam,Germany team,,,Germany,DE,GER
+Swimming,4x100m freestyle relay women,Women,BRONZE,GameTeam,Austria team,,,Austria,AT,AUT
+Swimming,100m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/fanny-durack,Fanny DURACK,Australasia,,ANZ
+Swimming,100m freestyle women,Women,SILVER,Athlete,,,Mina Wylie,Australasia,,ANZ
+Swimming,100m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/jennie-fletcher,Jennie FLETCHER,Great Britain,GB,GBR
+Swimming,1500m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-ritchie-hodgson,George Ritchie HODGSON,Canada,CA,CAN
+Swimming,1500m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-gatenby-hatfield,John Gatenby HATFIELD,Great Britain,GB,GBR
+Swimming,1500m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harold-h-hardwick,Harold H. HARDWICK,Australasia,,ANZ
+Swimming,200m breaststroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/walter-bathe,Walter BATHE,Germany,DE,GER
+Swimming,200m breaststroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/willy-lutzow,Willy LÜTZOW,Germany,DE,GER
+Swimming,200m breaststroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/kurt-paul-malisch,Kurt Paul MALISCH,Germany,DE,GER
+Swimming,4x200m freestyle relay men,Men,GOLD,GameTeam,Australasia team,,,Australasia,,ANZ
+Swimming,4x200m freestyle relay men,Men,SILVER,GameTeam,United States team,,,United States of America,US,USA
+Swimming,4x200m freestyle relay men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Swimming,100m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/duke-paoa-kahanamoku,Duke Paoa KAHANAMOKU,United States of America,US,USA
+Swimming,100m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/cecil-healy,Cecil HEALY,Australasia,,ANZ
+Swimming,100m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/kenneth-huszagh,Kenneth HUSZAGH,United States of America,US,USA
+Swimming,100m backstroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/harry-j-hebner,Harry J. HEBNER,United States of America,US,USA
+Swimming,100m backstroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/otto-fahr,Otto FAHR,Germany,DE,GER
+Swimming,100m backstroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/paul-kellner,Paul KELLNER,Germany,DE,GER
+Swimming,400m breaststroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/walter-bathe,Walter BATHE,Germany,DE,GER
+Swimming,400m breaststroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/tor-henning,Tor HENNING,Sweden,SE,SWE
+Swimming,400m breaststroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/percy-courtman,Percy COURTMAN,Great Britain,GB,GBR
+Swimming,400m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/george-ritchie-hodgson,George Ritchie HODGSON,Canada,CA,CAN
+Swimming,400m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-gatenby-hatfield,John Gatenby HATFIELD,Great Britain,GB,GBR
+Swimming,400m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harold-h-hardwick,Harold H. HARDWICK,Australasia,,ANZ
