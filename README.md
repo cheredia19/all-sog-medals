@@ -13,6 +13,14 @@ description: ''
   }}
 />
 
+## Paris 1900
+
+<FlatUiTable
+  data={{
+    url: 'paris1900.csv'
+  }}
+/>
+
 ## Los Angeles 1932
 
 <FlatUiTable
