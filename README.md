@@ -9,7 +9,7 @@ description: ''
 
 <FlatUiTable
   data={{
-    url: 'athens_1896.csv'
+    url: 'athens1896.csv'
   }}
 />
 
