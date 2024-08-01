@@ -38,3 +38,10 @@ description: ''
   }}
 />
 
+## Rome 1960
+
+<FlatUiTable
+  data={{
+    url: 'rome_1960.csv'
+  }}
+/>
