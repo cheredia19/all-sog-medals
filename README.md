@@ -45,3 +45,11 @@ description: ''
     url: 'rome_1960.csv'
   }}
 />
+
+## Tokyo 1964
+
+<FlatUiTable
+  data={{
+    url: 'tokyo_1964.csv'
+  }}
+/>
