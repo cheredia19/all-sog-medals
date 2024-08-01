@@ -164,3 +164,11 @@ description: ''
     url: 'seoul_1988.csv'
   }}
 />
+
+## Barcelona 1992
+
+<FlatUiTable
+  data={{
+    url: 'barcelona_1992.csv'
+  }}
+/>
