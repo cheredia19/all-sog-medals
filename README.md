@@ -53,3 +53,11 @@ description: ''
     url: 'tokyo_1964.csv'
   }}
 />
+
+## Mexico City 1964
+
+<FlatUiTable
+  data={{
+    url: 'mexico-city_1968.csv'
+  }}
+/>
