@@ -54,7 +54,7 @@ description: ''
   }}
 />
 
-## Mexico City 1964
+## Mexico City 1968
 
 <FlatUiTable
   data={{
