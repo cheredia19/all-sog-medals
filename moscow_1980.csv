@@ -1,0 +1,671 @@
+discipline_title,event_title,event_gender,medal_type,participant_type,participant_title,athlete_url,athlete_full_name,country_name,country_code,country_3_letter_code
+Handball,handball men,Men,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Handball,handball men,Men,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Handball,handball men,Men,BRONZE,GameTeam,Romania team,,,Romania,RO,ROU
+Handball,handball women,Women,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Handball,handball women,Women,SILVER,GameTeam,Yugoslavia team,,,Yugoslavia,YUCS,YUG
+Handball,handball women,Women,BRONZE,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Weightlifting,110kg super heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sultan-rakhmanov,Sultan RAKHMANOV,Soviet Union,,URS
+Weightlifting,110kg super heavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jurgen-heuser,Jürgen HEUSER,German Democratic Republic (Germany),DDDE,GDR
+Weightlifting,110kg super heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/tadeusz-rutkowski,Tadeusz RUTKOWSKI,Poland,PL,POL
+Weightlifting,90 - 100kg (first-heavyweight) men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ota-zaremba,Ota ZAREMBA,Czechoslovakia,CSHH,TCH
+Weightlifting,90 - 100kg (first-heavyweight) men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/igor-nikitin,Igor NIKITIN,Soviet Union,,URS
+Weightlifting,90 - 100kg (first-heavyweight) men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/alberto-blanco-fernandez,Alberto BLANCO FERNANDEZ,Cuba,CU,CUB
+Weightlifting,"67.5 - 75kg, (middleweight) men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/asen-zlatev,Asen ZLATEV,Bulgaria,BG,BUL
+Weightlifting,"67.5 - 75kg, (middleweight) men",Men,SILVER,Athlete,,,Oleksandr Perviy,Soviet Union,,URS
+Weightlifting,"67.5 - 75kg, (middleweight) men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/nedelcho-kolev,Nedelcho KOLEV,Bulgaria,BG,BUL
+Weightlifting,56 - 60kg (featherweight) men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/viktor-mazin,Viktor MAZIN,Soviet Union,,URS
+Weightlifting,56 - 60kg (featherweight) men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/stefan-dimitrov-1,Stefan DIMITROV,Bulgaria,BG,BUL
+Weightlifting,56 - 60kg (featherweight) men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/marek-seweryn,Marek SEWERYN,Poland,PL,POL
+Weightlifting,52kg flyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/kanybek-osmonaliev,Kanybek OSMONALIEV,Soviet Union,,URS
+Weightlifting,52kg flyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/bong-chol-ho,Bong Chol HO,Democratic People's Republic of Korea,KP,PRK
+Weightlifting,52kg flyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gyong-si-han,Gyong Si HAN,Democratic People's Republic of Korea,KP,PRK
+Weightlifting,825  90kg middleheavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/peter-baczako,Peter BACZAKO,Hungary,HU,HUN
+Weightlifting,825  90kg middleheavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/rumen-aleksandrov,Rumen ALEKSANDROV,Bulgaria,BG,BUL
+Weightlifting,825  90kg middleheavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frank-mantek,Frank MANTEK,German Democratic Republic (Germany),DDDE,GDR
+Weightlifting,75  825kg lightheavyweight men,Men,GOLD,Athlete,,,Yuri Vardanyan,Soviet Union,,URS
+Weightlifting,75  825kg lightheavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/blagoi-blagoev,Blagoi BLAGOEV,Bulgaria,BG,BUL
+Weightlifting,75  825kg lightheavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/dusan-poliacik,Dusan POLIACIK,Czechoslovakia,CSHH,TCH
+Weightlifting,100  110kg heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/leonid-taranenko,Leonid TARANENKO,Soviet Union,,URS
+Weightlifting,100  110kg heavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/valentin-christov,Valentin CHRISTOV,Bulgaria,BG,BUL
+Weightlifting,100  110kg heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gyorgy-szalai,György SZALAI,Hungary,HU,HUN
+Weightlifting,56kg bantamweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/daniel-nunez-aguiar,Daniel NUNEZ AGUIAR,Cuba,CU,CUB
+Weightlifting,56kg bantamweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/yurik-sarkisian,Yurik SARKISIAN,Soviet Union,,URS
+Weightlifting,56kg bantamweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/tadeusz-dembonczyk,Tadeusz DEMBONCZYK,Poland,PL,POL
+Weightlifting,60-67.5kg lightweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/yanko-rusev,Yanko RUSEV,Bulgaria,BG,BUL
+Weightlifting,60-67.5kg lightweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/joachim-kunz,Joachim KUNZ,German Democratic Republic (Germany),DDDE,GDR
+Weightlifting,60-67.5kg lightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/mincho-pashev,Mincho PASHEV,Bulgaria,BG,BUL
+Judo,95kg heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/angelo-parisi,Angelo PARISI,France,FR,FRA
+Judo,95kg heavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/dimitar-zaprianov,Dimitar ZAPRIANOV,Bulgaria,BG,BUL
+Judo,95kg heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/vladimir-kocman,Vladimir KOCMAN,Czechoslovakia,CSHH,TCH
+Judo,95kg heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/radomir-kovacevic,Radomir KOVACEVIC,Yugoslavia,YUCS,YUG
+Judo,78  86kg middleweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jurg-rothlisberger,Jürg RÖTHLISBERGER,Switzerland,CH,SUI
+Judo,78  86kg middleweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/isaac-azcuy-oliva,Isaac AZCUY OLIVA,Cuba,CU,CUB
+Judo,78  86kg middleweight men,Men,BRONZE,Athlete,,,Aleksandrs Jackēvičs,Soviet Union,,URS
+Judo,78  86kg middleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/detlef-ultsch,Detlef ULTSCH,German Democratic Republic (Germany),DDDE,GDR
+Judo,86  95kg halfheavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/robert-van-de-walle,Robert VAN DE WALLE,Belgium,BE,BEL
+Judo,86  95kg halfheavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/tengiz-khubuluri,Tengiz KHUBULURI,Soviet Union,,URS
+Judo,86  95kg halfheavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/dietmar-lorenz,Dietmar LORENZ,German Democratic Republic (Germany),DDDE,GDR
+Judo,86  95kg halfheavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/henk-numan,Henk NUMAN,Netherlands,NL,NED
+Judo,open category men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/dietmar-lorenz,Dietmar LORENZ,German Democratic Republic (Germany),DDDE,GDR
+Judo,open category men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/angelo-parisi,Angelo PARISI,France,FR,FRA
+Judo,open category men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/arthur-mapp,Arthur MAPP,Great Britain,GB,GBR
+Judo,open category men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/andras-ozsvar,Andras OZSVAR,Hungary,HU,HUN
+Judo,71  78kg halfmiddleweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/shota-khabareli,Shota KHABARELI,Soviet Union,,URS
+Judo,71  78kg halfmiddleweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/juan-ferrer,Juan FERRER,Cuba,CU,CUB
+Judo,71  78kg halfmiddleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/bernard-tchoullouyan,Bernard TCHOULLOUYAN,France,FR,FRA
+Judo,71  78kg halfmiddleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/harald-heinke,Harald HEINKE,German Democratic Republic (Germany),DDDE,GDR
+Judo,- 60 kg men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/thierry-rey,Thierry REY,France,FR,FRA
+Judo,- 60 kg men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jose-rodriguez-1,Jose RODRIGUEZ,Cuba,CU,CUB
+Judo,- 60 kg men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/tibor-kincses,Tibor KINCSES,Hungary,HU,HUN
+Judo,- 60 kg men,Men,BRONZE,Athlete,,,Aramby Yemizh,Soviet Union,,URS
+Judo,65 - 71kg (lightweight) men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/ezio-gamba,Ezio GAMBA,Italy,IT,ITA
+Judo,65 - 71kg (lightweight) men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/neil-adams,Neil ADAMS,Great Britain,GB,GBR
+Judo,65 - 71kg (lightweight) men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/karl-heinz-lehmann,Karl-Heinz LEHMANN,German Democratic Republic (Germany),DDDE,GDR
+Judo,65 - 71kg (lightweight) men,Men,BRONZE,Athlete,,,Davaadalai Ravdangiin,Mongolia,MN,MGL
+Judo,60  65kg halflightweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/nikolai-solodukhin,Nikolai SOLODUKHIN,Soviet Union,,URS
+Judo,60  65kg halflightweight men,Men,SILVER,Athlete,,,Damdin Tsendiin,Mongolia,MN,MGL
+Judo,60  65kg halflightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ilian-nedkov,Ilian NEDKOV,Bulgaria,BG,BUL
+Judo,60  65kg halflightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/janusz-pawlowski,Janusz PAWLOWSKI,Poland,PL,POL
+Diving,3m springboard women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/irina-kalinina,Irina KALININA,Soviet Union,,URS
+Diving,3m springboard women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/martina-proeber,Martina PROEBER,German Democratic Republic (Germany),DDDE,GDR
+Diving,3m springboard women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/karin-guthke,Karin GUTHKE,German Democratic Republic (Germany),DDDE,GDR
+Diving,10m platform men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/falk-hoffmann,Falk HOFFMANN,German Democratic Republic (Germany),DDDE,GDR
+Diving,10m platform men,Men,SILVER,Athlete,,,Vladimir Aleynik,Soviet Union,,URS
+Diving,10m platform men,Men,BRONZE,Athlete,,,Davit Hambardzumyan,Soviet Union,,URS
+Diving,10m platform women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/martina-jaschke,Martina JÄSCHKE,German Democratic Republic (Germany),DDDE,GDR
+Diving,10m platform women,Women,SILVER,Athlete,,,Silva Emirzyan,Soviet Union,,URS
+Diving,10m platform women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/liana-tsotadze,Liana TSOTADZE,Soviet Union,,URS
+Diving,3m springboard men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/aleksandr-portnov,Aleksandr PORTNOV,Soviet Union,,URS
+Diving,3m springboard men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/carlos-giron,Carlos GIRON,Mexico,MX,MEX
+Diving,3m springboard men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/giorgio-franco-cagnotto,Giorgio Franco CAGNOTTO,Italy,IT,ITA
+Fencing,foil individual women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/pascale-trinquet-hachin,Pascale TRINQUET-HACHIN,France,FR,FRA
+Fencing,foil individual women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/magda-maros,Magda MAROS,Hungary,HU,HUN
+Fencing,foil individual women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/barbara-wysoczanska,Barbara WYSOCZANSKA,Poland,PL,POL
+Fencing,foil individual men,Men,GOLD,Athlete,,,Volodymyr Smyrnov,Soviet Union,,URS
+Fencing,foil individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/pascal-jolyot,Pascal JOLYOT,France,FR,FRA
+Fencing,foil individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/aleksander-romankov,Aleksander ROMANKOV,Soviet Union,,URS
+Fencing,sabre individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/viktor-krovopuskov,Viktor KROVOPUSKOV,Soviet Union,,URS
+Fencing,sabre individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/mikhail-burtsev,Mikhail BURTSEV,Soviet Union,,URS
+Fencing,sabre individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/imre-gedovari,Imre GEDOVARI,Hungary,HU,HUN
+Fencing,foil team women,Women,GOLD,GameTeam,France team,,,France,FR,FRA
+Fencing,foil team women,Women,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Fencing,foil team women,Women,BRONZE,GameTeam,Hungary team,,,Hungary,HU,HUN
+Fencing,foil team men,Men,GOLD,GameTeam,France team,,,France,FR,FRA
+Fencing,foil team men,Men,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Fencing,foil team men,Men,BRONZE,GameTeam,Poland team,,,Poland,PL,POL
+Fencing,sabre team men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Fencing,sabre team men,Men,SILVER,GameTeam,Italy team,,,Italy,IT,ITA
+Fencing,sabre team men,Men,BRONZE,GameTeam,Hungary team,,,Hungary,HU,HUN
+Fencing,épée team men,Men,GOLD,GameTeam,France team,,,France,FR,FRA
+Fencing,épée team men,Men,SILVER,GameTeam,Poland team,,,Poland,PL,POL
+Fencing,épée team men,Men,BRONZE,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Fencing,épée individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/johan-harmenberg,Johan HARMENBERG,Sweden,SE,SWE
+Fencing,épée individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/erno-kolszonay,Ernö KOLSZONAY,Hungary,HU,HUN
+Fencing,épée individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/philippe-riboud,Philippe RIBOUD,France,FR,FRA
+Sailing,twoperson keelboat open Star mixed,Open,GOLD,GameTeam,Soviet Union team,,Aleksandrs Muzičenko,Soviet Union,,URS
+Sailing,twoperson keelboat open Star mixed,Open,GOLD,GameTeam,Soviet Union team,https://olympics.com/en/athletes/valentyn-mankin,Valentyn MANKIN,Soviet Union,,URS
+Sailing,twoperson keelboat open Star mixed,Open,SILVER,GameTeam,Austria team,https://olympics.com/en/athletes/hubert-raudaschl,Hubert RAUDASCHL,Austria,AT,AUT
+Sailing,twoperson keelboat open Star mixed,Open,SILVER,GameTeam,Austria team,https://olympics.com/en/athletes/karl-ferstl,Karl FERSTL,Austria,AT,AUT
+Sailing,twoperson keelboat open Star mixed,Open,BRONZE,GameTeam,Italy team,https://olympics.com/en/athletes/alfio-peraboni,Alfio PERABONI,Italy,IT,ITA
+Sailing,twoperson keelboat open Star mixed,Open,BRONZE,GameTeam,Italy team,https://olympics.com/en/athletes/giorgio-gorla,Giorgio GORLA,Italy,IT,ITA
+Sailing,Tornado - Multihull mixed,Open,GOLD,GameTeam,Brazil team,https://olympics.com/en/athletes/alexandre-welter,Alexandre WELTER,Brazil,BR,BRA
+Sailing,Tornado - Multihull mixed,Open,GOLD,GameTeam,Brazil team,https://olympics.com/en/athletes/lars-sigurd-bjorkstrom,Lars Sigurd BJORKSTROM,Brazil,BR,BRA
+Sailing,Tornado - Multihull mixed,Open,SILVER,GameTeam,Denmark team,https://olympics.com/en/athletes/per-kjergard,Per KJERGARD,Denmark,DK,DEN
+Sailing,Tornado - Multihull mixed,Open,SILVER,GameTeam,Denmark team,https://olympics.com/en/athletes/peter-due,Peter DUE,Denmark,DK,DEN
+Sailing,Tornado - Multihull mixed,Open,BRONZE,GameTeam,Sweden team,https://olympics.com/en/athletes/goran-marstrom,Göran MARSTRÖM,Sweden,SE,SWE
+Sailing,Tornado - Multihull mixed,Open,BRONZE,GameTeam,Sweden team,https://olympics.com/en/athletes/jorgen-ragnarsson,Jörgen RAGNARSSON,Sweden,SE,SWE
+Sailing,Finn - One Person Dinghy (Heavyweight) men,Open,GOLD,Athlete,,https://olympics.com/en/athletes/esko-rechardt,Esko RECHARDT,Finland,FI,FIN
+Sailing,Finn - One Person Dinghy (Heavyweight) men,Open,SILVER,Athlete,,https://olympics.com/en/athletes/wolfgang-mayrhofer,Wolfgang MAYRHOFER,Austria,AT,AUT
+Sailing,Finn - One Person Dinghy (Heavyweight) men,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/andrei-balashov,Andrei BALASHOV,Soviet Union,,URS
+Sailing,470 - Two Person Dinghy men,Open,GOLD,GameTeam,Brazil team,https://olympics.com/en/athletes/eduardo-henrique-penido,Eduardo Henrique PENIDO,Brazil,BR,BRA
+Sailing,470 - Two Person Dinghy men,Open,GOLD,GameTeam,Brazil team,https://olympics.com/en/athletes/marcos-pinto-rizzo-soares,Marcos Pinto Rizzo SOARES,Brazil,BR,BRA
+Sailing,470 - Two Person Dinghy men,Open,SILVER,GameTeam,East Germany team,https://olympics.com/en/athletes/egbert-swensson,Egbert SWENSSON,German Democratic Republic (Germany),DDDE,GDR
+Sailing,470 - Two Person Dinghy men,Open,SILVER,GameTeam,East Germany team,https://olympics.com/en/athletes/jorn-borowski,Jörn BOROWSKI,German Democratic Republic (Germany),DDDE,GDR
+Sailing,470 - Two Person Dinghy men,Open,BRONZE,GameTeam,Finland team,https://olympics.com/en/athletes/georg-tallberg,Georg TALLBERG,Finland,FI,FIN
+Sailing,470 - Two Person Dinghy men,Open,BRONZE,GameTeam,Finland team,https://olympics.com/en/athletes/jouko-lindgren,Jouko LINDGREN,Finland,FI,FIN
+Sailing,fleetmatch race keelboat open Soling mixed,Open,GOLD,GameTeam,Denmark team,,,Denmark,DK,DEN
+Sailing,fleetmatch race keelboat open Soling mixed,Open,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Sailing,fleetmatch race keelboat open Soling mixed,Open,BRONZE,GameTeam,Greece team,,,Greece,GR,GRE
+Sailing,flying dutchman mixed,Open,GOLD,GameTeam,Spain team,https://olympics.com/en/athletes/alejandro-abascal-garcia,Alejandro ABASCAL GARCIA,Spain,ES,ESP
+Sailing,flying dutchman mixed,Open,GOLD,GameTeam,Spain team,https://olympics.com/en/athletes/miguel-noguer-castellvi,Miguel NOGUER CASTELLVI,Spain,ES,ESP
+Sailing,flying dutchman mixed,Open,SILVER,GameTeam,Ireland team,https://olympics.com/en/athletes/david-wilkins,David WILKINS,Ireland,IE,IRL
+Sailing,flying dutchman mixed,Open,SILVER,GameTeam,Ireland team,https://olympics.com/en/athletes/james-wilkinson,James WILKINSON,Ireland,IE,IRL
+Sailing,flying dutchman mixed,Open,BRONZE,GameTeam,Hungary team,https://olympics.com/en/athletes/szabolcs-detre,Szabolcs DETRE,Hungary,HU,HUN
+Sailing,flying dutchman mixed,Open,BRONZE,GameTeam,Hungary team,https://olympics.com/en/athletes/zsolt-detre,Zsolt DETRE,Hungary,HU,HUN
+Football,football men,Men,GOLD,GameTeam,Czechoslovakia team,,,Czechoslovakia,CSHH,TCH
+Football,football men,Men,SILVER,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Football,football men,Men,BRONZE,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Gymnastics Artistic,individual all-round women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/elena-davydova,Elena DAVYDOVA,Soviet Union,,URS
+Gymnastics Artistic,individual all-round women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/nadia-comaneci,Nadia COMANECI,Romania,RO,ROU
+Gymnastics Artistic,individual all-round women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/maxi-gnauck,Maxi GNAUCK,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,parallel bars men,Men,GOLD,Athlete,,,Aleksandr Tkachov,Soviet Union,,URS
+Gymnastics Artistic,parallel bars men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-dityatin,Aleksandr DITYATIN,Soviet Union,,URS
+Gymnastics Artistic,parallel bars men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/roland-bruckner,Roland BRÜCKNER,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,floor exercises women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/nelli-kim,Nelli KIM,Soviet Union,,URS
+Gymnastics Artistic,floor exercises women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/nadia-comaneci,Nadia COMANECI,Romania,RO,ROU
+Gymnastics Artistic,floor exercises women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/natalia-shaposhnikova,Natalia SHAPOSHNIKOVA,Soviet Union,,URS
+Gymnastics Artistic,floor exercises women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/maxi-gnauck,Maxi GNAUCK,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,balance beam women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/nadia-comaneci,Nadia COMANECI,Romania,RO,ROU
+Gymnastics Artistic,balance beam women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/elena-davydova,Elena DAVYDOVA,Soviet Union,,URS
+Gymnastics Artistic,balance beam women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/natalia-shaposhnikova,Natalia SHAPOSHNIKOVA,Soviet Union,,URS
+Gymnastics Artistic,uneven bars women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/maxi-gnauck,Maxi GNAUCK,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,uneven bars women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/emilia-eberle,Emilia EBERLE,Romania,RO,ROU
+Gymnastics Artistic,uneven bars women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/steffi-kraker,Steffi KRÄKER,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,uneven bars women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/melita-ruhn,Melita RÜHN,Romania,RO,ROU
+Gymnastics Artistic,uneven bars women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/maria-filatova,Maria FILATOVA,Soviet Union,,URS
+Gymnastics Artistic,floor exercises men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/roland-bruckner,Roland BRÜCKNER,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,floor exercises men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/nikolay-andrianov,Nikolay ANDRIANOV,Soviet Union,,URS
+Gymnastics Artistic,floor exercises men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/aleksandr-dityatin,Aleksandr DITYATIN,Soviet Union,,URS
+Gymnastics Artistic,horizontal bar men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/stoyan-deltchev,Stoyan DELTCHEV,Bulgaria,BG,BUL
+Gymnastics Artistic,horizontal bar men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-dityatin,Aleksandr DITYATIN,Soviet Union,,URS
+Gymnastics Artistic,horizontal bar men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/nikolay-andrianov,Nikolay ANDRIANOV,Soviet Union,,URS
+Gymnastics Artistic,pommel horse men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/zoltan-magyar,Zoltan MAGYAR,Hungary,HU,HUN
+Gymnastics Artistic,pommel horse men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-dityatin,Aleksandr DITYATIN,Soviet Union,,URS
+Gymnastics Artistic,pommel horse men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/michael-nikolay,Michael NIKOLAY,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,team competition women,Women,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Gymnastics Artistic,team competition women,Women,SILVER,GameTeam,Romania team,,,Romania,RO,ROU
+Gymnastics Artistic,team competition women,Women,BRONZE,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,rings men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/aleksandr-dityatin,Aleksandr DITYATIN,Soviet Union,,URS
+Gymnastics Artistic,rings men,Men,SILVER,Athlete,,,Aleksandr Tkachov,Soviet Union,,URS
+Gymnastics Artistic,rings men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jiri-tabak,Jiri TABAK,Czechoslovakia,CSHH,TCH
+Gymnastics Artistic,vault women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/natalia-shaposhnikova,Natalia SHAPOSHNIKOVA,Soviet Union,,URS
+Gymnastics Artistic,vault women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/steffi-kraker,Steffi KRÄKER,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,vault women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/melita-ruhn,Melita RÜHN,Romania,RO,ROU
+Gymnastics Artistic,individual all-round men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/aleksandr-dityatin,Aleksandr DITYATIN,Soviet Union,,URS
+Gymnastics Artistic,individual all-round men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/nikolay-andrianov,Nikolay ANDRIANOV,Soviet Union,,URS
+Gymnastics Artistic,individual all-round men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/stoyan-deltchev,Stoyan DELTCHEV,Bulgaria,BG,BUL
+Gymnastics Artistic,team competition men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Gymnastics Artistic,team competition men,Men,SILVER,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Gymnastics Artistic,team competition men,Men,BRONZE,GameTeam,Hungary team,,,Hungary,HU,HUN
+Gymnastics Artistic,vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/nikolay-andrianov,Nikolay ANDRIANOV,Soviet Union,,URS
+Gymnastics Artistic,vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-dityatin,Aleksandr DITYATIN,Soviet Union,,URS
+Gymnastics Artistic,vault men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/roland-bruckner,Roland BRÜCKNER,German Democratic Republic (Germany),DDDE,GDR
+Basketball,basketball women,Women,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Basketball,basketball women,Women,SILVER,GameTeam,Bulgaria team,,,Bulgaria,BG,BUL
+Basketball,basketball women,Women,BRONZE,GameTeam,Yugoslavia team,,,Yugoslavia,YUCS,YUG
+Basketball,basketball men,Men,GOLD,GameTeam,Yugoslavia team,,,Yugoslavia,YUCS,YUG
+Basketball,basketball men,Men,SILVER,GameTeam,Italy team,,,Italy,IT,ITA
+Basketball,basketball men,Men,BRONZE,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Equestrian Jumping,individual mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/jan-kowalczyk,Jan KOWALCZYK,Poland,PL,POL
+Equestrian Jumping,individual mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/nikolai-korolkov,Nikolai KOROLKOV,Soviet Union,,URS
+Equestrian Jumping,individual mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/joaquin-perez-de-la-heras,Joaquin PEREZ DE LA HERAS,Mexico,MX,MEX
+Equestrian Jumping,team mixed,Open,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Equestrian Jumping,team mixed,Open,SILVER,GameTeam,Poland team,,,Poland,PL,POL
+Equestrian Jumping,team mixed,Open,BRONZE,GameTeam,Mexico team,,,Mexico,MX,MEX
+Cycling Road,individual road race men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sergei-sukhoruchenkov,Sergei SUKHORUCHENKOV,Soviet Union,,URS
+Cycling Road,individual road race men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/stanislaw-lang,Stanislaw LANG,Poland,PL,POL
+Cycling Road,individual road race men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/yuri-barinov,Yuri BARINOV,Soviet Union,,URS
+Cycling Road,team time trial men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Cycling Road,team time trial men,Men,SILVER,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Cycling Road,team time trial men,Men,BRONZE,GameTeam,Czechoslovakia team,,,Czechoslovakia,CSHH,TCH
+Cycling Track,1km time trial men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lothar-thoms,Lothar THOMS,German Democratic Republic (Germany),DDDE,GDR
+Cycling Track,1km time trial men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-panfilov,Aleksandr PANFILOV,Soviet Union,,URS
+Cycling Track,1km time trial men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/david-weller,David WELLER,Jamaica,JM,JAM
+Cycling Track,Individual Pursuit men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/robert-dill-bundi,Robert DILL-BUNDI,Switzerland,CH,SUI
+Cycling Track,Individual Pursuit men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alain-bondue,Alain BONDUE,France,FR,FRA
+Cycling Track,Individual Pursuit men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/hans-henrik-orsted,Hans-Henrik ÖRSTED,Denmark,DK,DEN
+Cycling Track,Team Pursuit 4000m men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Cycling Track,Team Pursuit 4000m men,Men,SILVER,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Cycling Track,Team Pursuit 4000m men,Men,BRONZE,GameTeam,Czechoslovakia team,,,Czechoslovakia,CSHH,TCH
+Cycling Track,Sprint individual men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lutz-hesslich,Lutz HESSLICH,German Democratic Republic (Germany),DDDE,GDR
+Cycling Track,Sprint individual men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/yave-cahard,Yave CAHARD,France,FR,FRA
+Cycling Track,Sprint individual men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sergei-kopylov,Sergei KOPYLOV,Soviet Union,,URS
+Wrestling,"Heavyweight, Freestyle (≤100 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/ilia-mate,Ilia MATE,Soviet Union,,URS
+Wrestling,"Heavyweight, Freestyle (≤100 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/slavcho-chervenkov,Slavcho CHERVENKOV,Bulgaria,BG,BUL
+Wrestling,"Heavyweight, Freestyle (≤100 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/julius-strnisko,Julius STRNISKO,Czechoslovakia,CSHH,TCH
+Wrestling,"Light-Flyweight, Greco-Roman (≤48 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/zhaksylyk-ushkempirov,Zhaksylyk USHKEMPIROV,Soviet Union,,URS
+Wrestling,"Light-Flyweight, Greco-Roman (≤48 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/constantin-alexandru,Constantin ALEXANDRU,Romania,RO,ROU
+Wrestling,"Light-Flyweight, Greco-Roman (≤48 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ferenc-seres,Ferenc SERES,Hungary,HU,HUN
+Wrestling,"Heavyweight, Greco-Roman (≤100 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/georgi-raikov,Georgi RAIKOV,Bulgaria,BG,BUL
+Wrestling,"Heavyweight, Greco-Roman (≤100 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/roman-bierla,Roman BIERLA,Poland,PL,POL
+Wrestling,"Heavyweight, Greco-Roman (≤100 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/vasile-andrei,Vasile ANDREI,Romania,RO,ROU
+Wrestling,"Flyweight, Greco-Roman (≤52 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/vakhtang-blagidze,Vakhtang BLAGIDZE,Soviet Union,,URS
+Wrestling,"Flyweight, Greco-Roman (≤52 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/lajos-racz,Lajos RACZ,Hungary,HU,HUN
+Wrestling,"Flyweight, Greco-Roman (≤52 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/mladen-mladenov,Mladen MLADENOV,Bulgaria,BG,BUL
+Wrestling,"Middleweight, Greco-Roman (≤82 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/gennadi-korban,Gennadi KORBAN,Soviet Union,,URS
+Wrestling,"Middleweight, Greco-Roman (≤82 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/jan-dolgowicz,Jan DOLGOWICZ,Poland,PL,POL
+Wrestling,"Middleweight, Greco-Roman (≤82 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/pavel-pavlov-1,Pavel PAVLOV,Bulgaria,BG,BUL
+Wrestling,"Super-Heavyweight, Greco-Roman (>100 kilograms) Men",Men,GOLD,Athlete,,,Oleksandr Kolchynskiy,Soviet Union,,URS
+Wrestling,"Super-Heavyweight, Greco-Roman (>100 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-tomov,Aleksandr TOMOV,Bulgaria,BG,BUL
+Wrestling,"Super-Heavyweight, Greco-Roman (>100 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/hassan-bchara,Hassan BCHARA,Lebanon,,LBN
+Wrestling,"Light-Flyweight, Freestyle (≤48 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/claudio-pollio,Claudio POLLIO,Italy,IT,ITA
+Wrestling,"Light-Flyweight, Freestyle (≤48 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/se-hong-jang,Se Hong JANG,Democratic People's Republic of Korea,KP,PRK
+Wrestling,"Light-Flyweight, Freestyle (≤48 kilograms) Men",Men,BRONZE,Athlete,,,Sergey Kornilayev,Soviet Union,,URS
+Wrestling,"Welterweight, Greco-Roman (≤74 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/ferenc-kocsis,Ferenc KOCSIS,Hungary,HU,HUN
+Wrestling,"Welterweight, Greco-Roman (≤74 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/anatoli-bykov,Anatoli BYKOV,Soviet Union,,URS
+Wrestling,"Welterweight, Greco-Roman (≤74 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/mikko-huhtala,Mikko HUHTALA,Finland,FI,FIN
+Wrestling,"Flyweight, Freestyle (≤52 kilograms) Men",Men,GOLD,Athlete,,,Anatoly Beloglazov,Soviet Union,,URS
+Wrestling,"Flyweight, Freestyle (≤52 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/wladyslaw-stecyk,Wladyslaw STECYK,Poland,PL,POL
+Wrestling,"Flyweight, Freestyle (≤52 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/nermedin-selimov,Nermedin SELIMOV,Bulgaria,BG,BUL
+Wrestling,"Bantamweight, Freestyle (≤57 kilograms) Men",Men,GOLD,Athlete,,,Sergey Beloglazov,Soviet Union,,URS
+Wrestling,"Bantamweight, Freestyle (≤57 kilograms) Men",Men,SILVER,Athlete,,,Ho-Pyong Li,Democratic People's Republic of Korea,KP,PRK
+Wrestling,"Bantamweight, Freestyle (≤57 kilograms) Men",Men,BRONZE,Athlete,,,Oyuunbold Dugarsürengiin,Mongolia,MN,MGL
+Wrestling,"Featherweight, Greco-Roman (≤62 kilograms) Men",Men,GOLD,Athlete,,,Stelios Mygiakis,Greece,GR,GRE
+Wrestling,"Featherweight, Greco-Roman (≤62 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/istvan-toth-1,Istvan TOTH,Hungary,HU,HUN
+Wrestling,"Featherweight, Greco-Roman (≤62 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/boris-kramorenko,Boris KRAMORENKO,Soviet Union,,URS
+Wrestling,"Lightweight, Freestyle (≤68 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/saipulla-absaidov,Saipulla ABSAIDOV,Soviet Union,,URS
+Wrestling,"Lightweight, Freestyle (≤68 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/ivan-yankov,Ivan YANKOV,Bulgaria,BG,BUL
+Wrestling,"Lightweight, Freestyle (≤68 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/saban-sejdi,Saban SEJDI,Yugoslavia,YUCS,YUG
+Wrestling,"Light-Heavyweight, Greco-Roman (≤90 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/norbert-novenyi,Norbert NOVENYI,Hungary,HU,HUN
+Wrestling,"Light-Heavyweight, Greco-Roman (≤90 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/igor-kanygin,Igor KANYGIN,Soviet Union,,URS
+Wrestling,"Light-Heavyweight, Greco-Roman (≤90 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/petre-dicu,Petre DICU,Romania,RO,ROU
+Wrestling,"Featherweight, Freestyle (≤62 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/magomedgasan-abushev,Magomedgasan ABUSHEV,Soviet Union,,URS
+Wrestling,"Featherweight, Freestyle (≤62 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/mikho-doukov,Mikho DOUKOV,Bulgaria,BG,BUL
+Wrestling,"Featherweight, Freestyle (≤62 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/georgios-hadjiioannidis,Georgios HADJIIOANNIDIS,Greece,GR,GRE
+Wrestling,"Middleweight, Freestyle (≤82 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/ismail-abilov,Ismail ABILOV,Bulgaria,BG,BUL
+Wrestling,"Middleweight, Freestyle (≤82 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/magomedkhan-aratsilov,Magomedkhan ARATSILOV,Soviet Union,,URS
+Wrestling,"Middleweight, Freestyle (≤82 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/istvan-kovacs-1,Istvan KOVACS,Hungary,HU,HUN
+Wrestling,"Welterweight, Freestyle (≤74 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/valentin-raichev,Valentin RAICHEV,Bulgaria,BG,BUL
+Wrestling,"Welterweight, Freestyle (≤74 kilograms) Men",Men,SILVER,Athlete,,,Davaajav Jamtsyn,Mongolia,MN,MGL
+Wrestling,"Welterweight, Freestyle (≤74 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/dan-karabin,Dan KARABIN,Czechoslovakia,CSHH,TCH
+Wrestling,"Light-Heavyweight, Freestyle (≤90 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/sanasar-oganisian,Sanasar OGANISIAN,Soviet Union,,URS
+Wrestling,"Light-Heavyweight, Freestyle (≤90 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/uwe-neupert,Uwe NEUPERT,German Democratic Republic (Germany),DDDE,GDR
+Wrestling,"Light-Heavyweight, Freestyle (≤90 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/aleksander-cichon,Aleksander CICHON,Poland,PL,POL
+Wrestling,"Lightweight, Greco-Roman (≤68 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/stefan-rusu,Stefan RUSU,Romania,RO,ROU
+Wrestling,"Lightweight, Greco-Roman (≤68 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/andrzej-supron,Andrzej SUPRON,Poland,PL,POL
+Wrestling,"Lightweight, Greco-Roman (≤68 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/lars-erik-skiold,Lars-Erik SKIOLD,Sweden,SE,SWE
+Wrestling,"Super-Heavyweight, Freestyle (>100 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/soslan-andiev,Soslan ANDIEV,Soviet Union,,URS
+Wrestling,"Super-Heavyweight, Freestyle (>100 kilograms) Men",Men,SILVER,Athlete,,https://olympics.com/en/athletes/jozsef-balla,Jozsef BALLA,Hungary,HU,HUN
+Wrestling,"Super-Heavyweight, Freestyle (>100 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/adam-sandurski,Adam SANDURSKI,Poland,PL,POL
+Wrestling,"Bantamweight, Greco-Roman (≤57 kilograms) Men",Men,GOLD,Athlete,,https://olympics.com/en/athletes/shamil-serikov,Shamil SERIKOV,Soviet Union,,URS
+Wrestling,"Bantamweight, Greco-Roman (≤57 kilograms) Men",Men,SILVER,Athlete,,,Józef Lipień,Poland,PL,POL
+Wrestling,"Bantamweight, Greco-Roman (≤57 kilograms) Men",Men,BRONZE,Athlete,,https://olympics.com/en/athletes/benni-ljungbeck,Benni LJUNGBECK,Sweden,SE,SWE
+Canoe Sprint,C1 500m canoe single men,Men,GOLD,Athlete,,,Serhiy Postriekhin,Soviet Union,,URS
+Canoe Sprint,C1 500m canoe single men,Men,SILVER,Athlete,,,Lyubomir Lyubenov,Bulgaria,BG,BUL
+Canoe Sprint,C1 500m canoe single men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/olaf-heukrodt,Olaf HEUKRODT,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,K2 500m kayak double women,Women,GOLD,GameTeam,East Germany team,https://olympics.com/en/athletes/carsta-genauss,Carsta GENÄUSS,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,K2 500m kayak double women,Women,GOLD,GameTeam,East Germany team,https://olympics.com/en/athletes/martina-bischof,Martina BISCHOF,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,K2 500m kayak double women,Women,SILVER,GameTeam,Soviet Union team,https://olympics.com/en/athletes/galina-kreft-alekseeva,Galina KREFT-ALEKSEEVA,Soviet Union,,URS
+Canoe Sprint,K2 500m kayak double women,Women,SILVER,GameTeam,Soviet Union team,https://olympics.com/en/athletes/nina-gopova-trofimova,Nina GOPOVA-TROFIMOVA,Soviet Union,,URS
+Canoe Sprint,K2 500m kayak double women,Women,BRONZE,GameTeam,Hungary team,https://olympics.com/en/athletes/eva-rakusz,Eva RAKUSZ,Hungary,HU,HUN
+Canoe Sprint,K2 500m kayak double women,Women,BRONZE,GameTeam,Hungary team,https://olympics.com/en/athletes/maria-zakarias,Maria ZAKARIAS,Hungary,HU,HUN
+Canoe Sprint,C2 500m canoe double men,Men,GOLD,GameTeam,Hungary team,https://olympics.com/en/athletes/laszlo-foltan-1,Laszlo FOLTAN,Hungary,HU,HUN
+Canoe Sprint,C2 500m canoe double men,Men,GOLD,GameTeam,Hungary team,https://olympics.com/en/athletes/istvan-vaskuti,Istvan VASKUTI,Hungary,HU,HUN
+Canoe Sprint,C2 500m canoe double men,Men,SILVER,GameTeam,Romania team,https://olympics.com/en/athletes/ivan-patzaichin,Ivan PATZAICHIN,Romania,RO,ROU
+Canoe Sprint,C2 500m canoe double men,Men,SILVER,GameTeam,Romania team,https://olympics.com/en/athletes/petre-capusta,Petre CAPUSTA,Romania,RO,ROU
+Canoe Sprint,C2 500m canoe double men,Men,BRONZE,GameTeam,Bulgaria team,https://olympics.com/en/athletes/borislav-ananiev,Borislav ANANIEV,Bulgaria,BG,BUL
+Canoe Sprint,C2 500m canoe double men,Men,BRONZE,GameTeam,Bulgaria team,https://olympics.com/en/athletes/nikolai-ilkov,Nikolai ILKOV,Bulgaria,BG,BUL
+Canoe Sprint,K1 500m kayak single women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/birgit-fischer,Birgit FISCHER,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,K1 500m kayak single women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/vania-gesheva,Vania GESHEVA,Bulgaria,BG,BUL
+Canoe Sprint,K1 500m kayak single women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/antonina-melnikova,Antonina MELNIKOVA,Soviet Union,,URS
+Canoe Sprint,K4 1000m kayak four men,Men,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,K4 1000m kayak four men,Men,SILVER,GameTeam,Romania team,,,Romania,RO,ROU
+Canoe Sprint,K4 1000m kayak four men,Men,BRONZE,GameTeam,Bulgaria team,,,Bulgaria,BG,BUL
+Canoe Sprint,K1 500m kayak single men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/vladimir-parfenovich,Vladimir PARFENOVICH,Soviet Union,,URS
+Canoe Sprint,K1 500m kayak single men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-sumegi,John SUMEGI,Australia,AU,AUS
+Canoe Sprint,K1 500m kayak single men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/vasile-diba,Vasile DIBA,Romania,RO,ROU
+Canoe Sprint,C1 1000m canoe single men,Men,GOLD,Athlete,,,Lyubomir Lyubenov,Bulgaria,BG,BUL
+Canoe Sprint,C1 1000m canoe single men,Men,SILVER,Athlete,,,Serhiy Postriekhin,Soviet Union,,URS
+Canoe Sprint,C1 1000m canoe single men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/eckhard-leue,Eckhard LEUE,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,C2 1000m canoe double men,Men,GOLD,GameTeam,Romania team,https://olympics.com/en/athletes/ivan-patzaichin,Ivan PATZAICHIN,Romania,RO,ROU
+Canoe Sprint,C2 1000m canoe double men,Men,GOLD,GameTeam,Romania team,https://olympics.com/en/athletes/toma-simionov,Toma SIMIONOV,Romania,RO,ROU
+Canoe Sprint,C2 1000m canoe double men,Men,SILVER,GameTeam,East Germany team,https://olympics.com/en/athletes/olaf-heukrodt,Olaf HEUKRODT,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,C2 1000m canoe double men,Men,SILVER,GameTeam,East Germany team,https://olympics.com/en/athletes/uwe-madeja,Uwe MADEJA,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,C2 1000m canoe double men,Men,BRONZE,GameTeam,Soviet Union team,https://olympics.com/en/athletes/vasili-yurchenko,Vasili YURCHENKO,Soviet Union,,URS
+Canoe Sprint,C2 1000m canoe double men,Men,BRONZE,GameTeam,Soviet Union team,https://olympics.com/en/athletes/yuri-lobanov,Yuri LOBANOV,Soviet Union,,URS
+Canoe Sprint,K2 1000m kayak double men,Men,GOLD,GameTeam,Soviet Union team,https://olympics.com/en/athletes/vladimir-parfenovich,Vladimir PARFENOVICH,Soviet Union,,URS
+Canoe Sprint,K2 1000m kayak double men,Men,GOLD,GameTeam,Soviet Union team,https://olympics.com/en/athletes/sergei-chukhrai,Sergei CHUKHRAI,Soviet Union,,URS
+Canoe Sprint,K2 1000m kayak double men,Men,SILVER,GameTeam,Hungary team,https://olympics.com/en/athletes/istvan-szabo-1,Istvan SZABO,Hungary,HU,HUN
+Canoe Sprint,K2 1000m kayak double men,Men,SILVER,GameTeam,Hungary team,https://olympics.com/en/athletes/istvan-joos,Istvan JOOS,Hungary,HU,HUN
+Canoe Sprint,K2 1000m kayak double men,Men,BRONZE,GameTeam,Spain team,https://olympics.com/en/athletes/luis-gregorio-ramos-misione,Luis Gregorio RAMOS MISIONE,Spain,ES,ESP
+Canoe Sprint,K2 1000m kayak double men,Men,BRONZE,GameTeam,Spain team,https://olympics.com/en/athletes/herminio-menendez-rodriguez,Herminio MENENDEZ RODRIGUEZ,Spain,ES,ESP
+Canoe Sprint,K1 1000m kayak single men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/rudiger-helm,Rüdiger HELM,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,K1 1000m kayak single men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alain-lebas,Alain LEBAS,France,FR,FRA
+Canoe Sprint,K1 1000m kayak single men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ion-birladeanu,Ion BIRLADEANU,Romania,RO,ROU
+Canoe Sprint,K2 500m kayak double men,Men,GOLD,GameTeam,Soviet Union team,https://olympics.com/en/athletes/vladimir-parfenovich,Vladimir PARFENOVICH,Soviet Union,,URS
+Canoe Sprint,K2 500m kayak double men,Men,GOLD,GameTeam,Soviet Union team,https://olympics.com/en/athletes/sergei-chukhrai,Sergei CHUKHRAI,Soviet Union,,URS
+Canoe Sprint,K2 500m kayak double men,Men,SILVER,GameTeam,Spain team,https://olympics.com/en/athletes/herminio-menendez-rodriguez,Herminio MENENDEZ RODRIGUEZ,Spain,ES,ESP
+Canoe Sprint,K2 500m kayak double men,Men,SILVER,GameTeam,Spain team,https://olympics.com/en/athletes/guillermo-del-riego-gordon,Guillermo DEL RIEGO GORDON,Spain,ES,ESP
+Canoe Sprint,K2 500m kayak double men,Men,BRONZE,GameTeam,East Germany team,https://olympics.com/en/athletes/rudiger-helm,Rüdiger HELM,German Democratic Republic (Germany),DDDE,GDR
+Canoe Sprint,K2 500m kayak double men,Men,BRONZE,GameTeam,East Germany team,https://olympics.com/en/athletes/bernd-olbricht,Bernd OLBRICHT,German Democratic Republic (Germany),DDDE,GDR
+Equestrian Eventing,team mixed,Open,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Equestrian Eventing,team mixed,Open,SILVER,GameTeam,Italy team,,,Italy,IT,ITA
+Equestrian Eventing,team mixed,Open,BRONZE,GameTeam,Mexico team,,,Mexico,MX,MEX
+Equestrian Eventing,individual mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/federico-euro-roman,Federico Euro ROMAN,Italy,IT,ITA
+Equestrian Eventing,individual mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-blinov,Aleksandr BLINOV,Soviet Union,,URS
+Equestrian Eventing,individual mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/yuri-salnikov,Yuri SALNIKOV,Soviet Union,,URS
+Volleyball,volleyball women,Women,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Volleyball,volleyball women,Women,SILVER,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Volleyball,volleyball women,Women,BRONZE,GameTeam,Bulgaria team,,,Bulgaria,BG,BUL
+Volleyball,volleyball men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Volleyball,volleyball men,Men,SILVER,GameTeam,Bulgaria team,,,Bulgaria,BG,BUL
+Volleyball,volleyball men,Men,BRONZE,GameTeam,Romania team,,,Romania,RO,ROU
+Archery,individual FITA round women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/keto-losaberidze,Keto LOSABERIDZE,Soviet Union,,URS
+Archery,individual FITA round women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/natalia-butuzova,Natalia BUTUZOVA,Soviet Union,,URS
+Archery,individual FITA round women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/paivi-meriluoto-aaltonen,Paivi MERILUOTO-AALTONEN,Finland,FI,FIN
+Archery,individual FITA round men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/tomi-poikolainen,Tomi POIKOLAINEN,Finland,FI,FIN
+Archery,individual FITA round men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/boris-isachenko,Boris ISACHENKO,Soviet Union,,URS
+Archery,individual FITA round men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/giancarlo-ferrari,Giancarlo FERRARI,Italy,IT,ITA
+Rowing,four-oared shell with coxswain men,Men,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Rowing,four-oared shell with coxswain men,Men,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Rowing,four-oared shell with coxswain men,Men,BRONZE,GameTeam,Poland team,,,Poland,PL,POL
+Rowing,double sculls 2x women,Women,GOLD,GameTeam,Soviet Union team,https://olympics.com/en/athletes/elena-khloptseva,Elena KHLOPTSEVA,Soviet Union,,URS
+Rowing,double sculls 2x women,Women,GOLD,GameTeam,Soviet Union team,,Larisa Aleksandrova-Popova,Soviet Union,,URS
+Rowing,double sculls 2x women,Women,SILVER,GameTeam,East Germany team,https://olympics.com/en/athletes/cornelia-linse,Cornelia LINSE,German Democratic Republic (Germany),DDDE,GDR
+Rowing,double sculls 2x women,Women,SILVER,GameTeam,East Germany team,https://olympics.com/en/athletes/heidi-westphal,Heidi WESTPHAL,German Democratic Republic (Germany),DDDE,GDR
+Rowing,double sculls 2x women,Women,BRONZE,GameTeam,Romania team,https://olympics.com/en/athletes/olga-homeghi-bularda,Olga HOMEGHI-BULARDA,Romania,RO,ROU
+Rowing,double sculls 2x women,Women,BRONZE,GameTeam,Romania team,https://olympics.com/en/athletes/valeria-rosca-rasila,Valeria ROSCA-RASILA,Romania,RO,ROU
+Rowing,pair-oared shell with coxswain men,Men,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Rowing,pair-oared shell with coxswain men,Men,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Rowing,pair-oared shell with coxswain men,Men,BRONZE,GameTeam,Yugoslavia team,,,Yugoslavia,YUCS,YUG
+Rowing,pair without coxswain 2 women,Women,GOLD,GameTeam,East Germany team,https://olympics.com/en/athletes/ute-steindorf,Ute STEINDORF,German Democratic Republic (Germany),DDDE,GDR
+Rowing,pair without coxswain 2 women,Women,GOLD,GameTeam,East Germany team,https://olympics.com/en/athletes/cornelia-klier,Cornelia KLIER,German Democratic Republic (Germany),DDDE,GDR
+Rowing,pair without coxswain 2 women,Women,SILVER,GameTeam,Poland team,https://olympics.com/en/athletes/malgorzata-dluzewska,Malgorzata DLUZEWSKA,Poland,PL,POL
+Rowing,pair without coxswain 2 women,Women,SILVER,GameTeam,Poland team,https://olympics.com/en/athletes/czeslawa-koscianska,Czeslawa KOSCIANSKA,Poland,PL,POL
+Rowing,pair without coxswain 2 women,Women,BRONZE,GameTeam,Bulgaria team,,Siyka Kelbecheva-Barbulova,Bulgaria,BG,BUL
+Rowing,pair without coxswain 2 women,Women,BRONZE,GameTeam,Bulgaria team,https://olympics.com/en/athletes/stoyanka-gruitcheva-kubatova,Stoyanka GRUITCHEVA-KUBATOVA,Bulgaria,BG,BUL
+Rowing,fouroared shell with coxswain 4 women,Women,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Rowing,fouroared shell with coxswain 4 women,Women,SILVER,GameTeam,Bulgaria team,,,Bulgaria,BG,BUL
+Rowing,fouroared shell with coxswain 4 women,Women,BRONZE,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Rowing,double sculls 2x men,Men,GOLD,GameTeam,East Germany team,https://olympics.com/en/athletes/joachim-dreifke,Joachim DREIFKE,German Democratic Republic (Germany),DDDE,GDR
+Rowing,double sculls 2x men,Men,GOLD,GameTeam,East Germany team,https://olympics.com/en/athletes/klaus-kroppelien,Klaus KRÖPPELIEN,German Democratic Republic (Germany),DDDE,GDR
+Rowing,double sculls 2x men,Men,SILVER,GameTeam,Yugoslavia team,https://olympics.com/en/athletes/zoran-pancic,Zoran PANCIC,Yugoslavia,YUCS,YUG
+Rowing,double sculls 2x men,Men,SILVER,GameTeam,Yugoslavia team,https://olympics.com/en/athletes/milorad-stanulov,Milorad STANULOV,Yugoslavia,YUCS,YUG
+Rowing,double sculls 2x men,Men,BRONZE,GameTeam,Czechoslovakia team,https://olympics.com/en/athletes/zdenek-pecka,Zdenek PECKA,Czechoslovakia,CSHH,TCH
+Rowing,double sculls 2x men,Men,BRONZE,GameTeam,Czechoslovakia team,https://olympics.com/en/athletes/vaclav-vochoska,Vaclav VOCHOSKA,Czechoslovakia,CSHH,TCH
+Rowing,four without coxswain 4 men,Men,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Rowing,four without coxswain 4 men,Men,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Rowing,four without coxswain 4 men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Rowing,eight with coxswain 8 women,Women,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Rowing,eight with coxswain 8 women,Women,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Rowing,eight with coxswain 8 women,Women,BRONZE,GameTeam,Romania team,,,Romania,RO,ROU
+Rowing,pair without coxswain 2 men,Men,GOLD,GameTeam,East Germany team,https://olympics.com/en/athletes/jorg-landvoigt,Jörg LANDVOIGT,German Democratic Republic (Germany),DDDE,GDR
+Rowing,pair without coxswain 2 men,Men,GOLD,GameTeam,East Germany team,https://olympics.com/en/athletes/bernd-landvoigt,Bernd LANDVOIGT,German Democratic Republic (Germany),DDDE,GDR
+Rowing,pair without coxswain 2 men,Men,SILVER,GameTeam,Soviet Union team,,Yury Pimenov,Soviet Union,,URS
+Rowing,pair without coxswain 2 men,Men,SILVER,GameTeam,Soviet Union team,,Nikolay Pimenov,Soviet Union,,URS
+Rowing,pair without coxswain 2 men,Men,BRONZE,GameTeam,Great Britain team,https://olympics.com/en/athletes/charles-wiggin,Charles WIGGIN,Great Britain,GB,GBR
+Rowing,pair without coxswain 2 men,Men,BRONZE,GameTeam,Great Britain team,https://olympics.com/en/athletes/malcolm-carmichael,Malcolm CARMICHAEL,Great Britain,GB,GBR
+Rowing,quadruple sculls without coxsw men,Men,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Rowing,quadruple sculls without coxsw men,Men,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Rowing,quadruple sculls without coxsw men,Men,BRONZE,GameTeam,Bulgaria team,,,Bulgaria,BG,BUL
+Rowing,eight with coxswain 8 men,Men,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Rowing,eight with coxswain 8 men,Men,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Rowing,eight with coxswain 8 men,Men,BRONZE,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Rowing,quadruple sculls with coxswain women,Women,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Rowing,quadruple sculls with coxswain women,Women,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Rowing,quadruple sculls with coxswain women,Women,BRONZE,GameTeam,Bulgaria team,,,Bulgaria,BG,BUL
+Rowing,single sculls 1x women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/sanda-toma,Sanda TOMA,Romania,RO,ROU
+Rowing,single sculls 1x women,Women,SILVER,Athlete,,,Antonina Makhina-Dumcheva-Zelikovich,Soviet Union,,URS
+Rowing,single sculls 1x women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/martina-schroter,Martina SCHRÖTER,German Democratic Republic (Germany),DDDE,GDR
+Rowing,single sculls 1x men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/pertti-karppinen,Pertti KARPPINEN,Finland,FI,FIN
+Rowing,single sculls 1x men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/vasili-yakusha,Vasili YAKUSHA,Soviet Union,,URS
+Rowing,single sculls 1x men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/peter-kersten,Peter KERSTEN,German Democratic Republic (Germany),DDDE,GDR
+Athletics,4x400m relay women,Women,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Athletics,4x400m relay women,Women,SILVER,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Athletics,4x400m relay women,Women,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,shot put men,Men,GOLD,Athlete,,,Volodymyr Kyselov,Soviet Union,,URS
+Athletics,shot put men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-baryshnikov,Aleksandr BARYSHNIKOV,Soviet Union,,URS
+Athletics,shot put men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/udo-beyer,Udo BEYER,German Democratic Republic (Germany),DDDE,GDR
+Athletics,high jump women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/sara-simeoni,Sara SIMEONI,Italy,IT,ITA
+Athletics,high jump women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/urszula-kielan,Urszula KIELAN,Poland,PL,POL
+Athletics,high jump women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/jutta-kirst,Jutta KIRST,German Democratic Republic (Germany),DDDE,GDR
+Athletics,400m women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/marita-koch,Marita KOCH,German Democratic Republic (Germany),DDDE,GDR
+Athletics,400m women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/jarmila-kratohvilova,Jarmila KRATOHVILOVA,Czechoslovakia,CSHH,TCH
+Athletics,400m women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/christina-brehmer-lathan,Christina BREHMER-LATHAN,German Democratic Republic (Germany),DDDE,GDR
+Athletics,100m women,Women,GOLD,Athlete,,,Lyudmila Kondratyeva,Soviet Union,,URS
+Athletics,100m women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/marlies-oelsner-gohr,Marlies OELSNER-GÖHR,German Democratic Republic (Germany),DDDE,GDR
+Athletics,100m women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/ingrid-auerswald-lange,Ingrid AUERSWALD-LANGE,German Democratic Republic (Germany),DDDE,GDR
+Athletics,marathon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/waldemar-cierpinski,Waldemar CIERPINSKI,German Democratic Republic (Germany),DDDE,GDR
+Athletics,marathon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/gerard-nijboer,Gerard NIJBOER,Netherlands,NL,NED
+Athletics,marathon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/setymkul-dzhumanazarov,Setymkul DZHUMANAZAROV,Soviet Union,,URS
+Athletics,4x100m relay women,Women,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Athletics,4x100m relay women,Women,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Athletics,4x100m relay women,Women,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Athletics,50km walk men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/hartwig-gauder,Hartwig GAUDER,German Democratic Republic (Germany),DDDE,GDR
+Athletics,50km walk men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jorge-llopart-ribas,Jorge LLOPART RIBAS,Spain,ES,ESP
+Athletics,50km walk men,Men,BRONZE,Athlete,,,Yevgeny Ivchenko,Soviet Union,,URS
+Athletics,shot put women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/ilona-schoknecht-slupianek,Ilona SCHOKNECHT-SLUPIANEK,German Democratic Republic (Germany),DDDE,GDR
+Athletics,shot put women,Women,SILVER,Athlete,,,Esfir Dolzhenko-Krachevskaya,Soviet Union,,URS
+Athletics,shot put women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/margitta-droese-pufe,Margitta DROESE-PUFE,German Democratic Republic (Germany),DDDE,GDR
+Athletics,20km walk men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/maurizio-damilano,Maurizio DAMILANO,Italy,IT,ITA
+Athletics,20km walk men,Men,SILVER,Athlete,,,Pyotr Pochenchuk,Soviet Union,,URS
+Athletics,20km walk men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/roland-wieser,Roland WIESER,German Democratic Republic (Germany),DDDE,GDR
+Athletics,110m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/thomas-munkelt,Thomas MUNKELT,German Democratic Republic (Germany),DDDE,GDR
+Athletics,110m hurdles men,Men,SILVER,Athlete,,,Alejandro Casañas,Cuba,CU,CUB
+Athletics,110m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/aleksandr-puchkov,Aleksandr PUCHKOV,Soviet Union,,URS
+Athletics,1500m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sebastian-coe,Sebastian COE,Great Britain,GB,GBR
+Athletics,1500m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jurgen-straub,Jürgen STRAUB,German Democratic Republic (Germany),DDDE,GDR
+Athletics,1500m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/steve-ovett,Steve OVETT,Great Britain,GB,GBR
+Athletics,high jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/gerd-wessig,Gerd WESSIG,German Democratic Republic (Germany),DDDE,GDR
+Athletics,high jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/jacek-wszola,Jacek WSZOLA,Poland,PL,POL
+Athletics,high jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jorg-freimuth,Jörg FREIMUTH,German Democratic Republic (Germany),DDDE,GDR
+Athletics,4x100m relay men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Athletics,4x100m relay men,Men,SILVER,GameTeam,Poland team,,,Poland,PL,POL
+Athletics,4x100m relay men,Men,BRONZE,GameTeam,France team,,,France,FR,FRA
+Athletics,4x400m relay men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Athletics,4x400m relay men,Men,SILVER,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Athletics,4x400m relay men,Men,BRONZE,GameTeam,Italy team,,,Italy,IT,ITA
+Athletics,10000m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/miruts-yifter,Miruts YIFTER,Ethiopia,ET,ETH
+Athletics,10000m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/kaarlo-maaninka,Kaarlo MAANINKA,Finland,FI,FIN
+Athletics,10000m men,Men,BRONZE,Athlete,,,Mohamed Kedir,Ethiopia,ET,ETH
+Athletics,pole vault men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/wladyslaw-kozakiewicz,Wladyslaw KOZAKIEWICZ,Poland,PL,POL
+Athletics,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/tadeusz-slusarski,Tadeusz SLUSARSKI,Poland,PL,POL
+Athletics,pole vault men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/konstantin-volkov,Konstantin VOLKOV,Soviet Union,,URS
+Athletics,javelin throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/dainis-kula,Dainis KULA,Soviet Union,,URS
+Athletics,javelin throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-makarov,Aleksandr MAKAROV,Soviet Union,,URS
+Athletics,javelin throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/wolfgang-hanisch,Wolfgang HANISCH,German Democratic Republic (Germany),DDDE,GDR
+Athletics,discus throw women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/evelin-schlaak-jahl,Evelin SCHLAAK-JAHL,German Democratic Republic (Germany),DDDE,GDR
+Athletics,discus throw women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/maria-vergova-petkova,Maria VERGOVA-PETKOVA,Bulgaria,BG,BUL
+Athletics,discus throw women,Women,BRONZE,Athlete,,,Tatyana Lesovaya,Soviet Union,,URS
+Athletics,5000m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/miruts-yifter,Miruts YIFTER,Ethiopia,ET,ETH
+Athletics,5000m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/suleiman-nyambui,Suleiman NYAMBUI,United Republic of Tanzania,TZ,TAN
+Athletics,5000m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/kaarlo-maaninka,Kaarlo MAANINKA,Finland,FI,FIN
+Athletics,hammer throw men,Men,GOLD,Athlete,,,Yuriy Siedykh,Soviet Union,,URS
+Athletics,hammer throw men,Men,SILVER,Athlete,,,Sergey Litvinov,Soviet Union,,URS
+Athletics,hammer throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/juri-augustovitch-tamm,Juri Augustovitch TAMM,Soviet Union,,URS
+Athletics,long jump women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/tatiana-kolpakova,Tatiana KOLPAKOVA,Soviet Union,,URS
+Athletics,long jump women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/brigitte-wujak,Brigitte WUJAK,German Democratic Republic (Germany),DDDE,GDR
+Athletics,long jump women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/tatiana-skachko,Tatiana SKACHKO,Soviet Union,,URS
+Athletics,800m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/steve-ovett,Steve OVETT,Great Britain,GB,GBR
+Athletics,800m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/sebastian-coe,Sebastian COE,Great Britain,GB,GBR
+Athletics,800m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/nikolai-kirov,Nikolai KIROV,Soviet Union,,URS
+Athletics,3000m steeplechase men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/bronislaw-malinowski,Bronislaw MALINOWSKI,Poland,PL,POL
+Athletics,3000m steeplechase men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/filbert-bayi,Filbert BAYI,United Republic of Tanzania,TZ,TAN
+Athletics,3000m steeplechase men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/eshetu-tura,Eshetu TURA,Ethiopia,ET,ETH
+Athletics,pentathlon women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/nadezhda-tkachenko,Nadezhda TKACHENKO,Soviet Union,,URS
+Athletics,pentathlon women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/olga-rukavishnikova,Olga RUKAVISHNIKOVA,Soviet Union,,URS
+Athletics,pentathlon women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/olga-kuragina,Olga KURAGINA,Soviet Union,,URS
+Athletics,javelin throw women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/maria-colon,Maria COLON,Cuba,CU,CUB
+Athletics,javelin throw women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/saida-gunba,Saida GUNBA,Soviet Union,,URS
+Athletics,javelin throw women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/ute-hommola,Ute HOMMOLA,German Democratic Republic (Germany),DDDE,GDR
+Athletics,400m hurdles men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/volker-beck,Volker BECK,German Democratic Republic (Germany),DDDE,GDR
+Athletics,400m hurdles men,Men,SILVER,Athlete,,,Vasyl Arkhypenko,Soviet Union,,URS
+Athletics,400m hurdles men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/gary-oakes,Gary OAKES,Great Britain,GB,GBR
+Athletics,400m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/viktor-markin,Viktor MARKIN,Soviet Union,,URS
+Athletics,400m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/richard-mitchell,Richard MITCHELL,Australia,AU,AUS
+Athletics,400m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/frank-schaffer,Frank SCHAFFER,German Democratic Republic (Germany),DDDE,GDR
+Athletics,200m women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/barbel-eckert-wockel,Bärbel ECKERT-WÖCKEL,German Democratic Republic (Germany),DDDE,GDR
+Athletics,200m women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/natalia-bochina,Natalia BOCHINA,Soviet Union,,URS
+Athletics,200m women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/merlene-ottey-page,Merlene OTTEY-PAGE,Jamaica,JM,JAM
+Athletics,long jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/lutz-dombrowski,Lutz DOMBROWSKI,German Democratic Republic (Germany),DDDE,GDR
+Athletics,long jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/frank-paschek,Frank PASCHEK,German Democratic Republic (Germany),DDDE,GDR
+Athletics,long jump men,Men,BRONZE,Athlete,,,Valeriy Pidluzhniy,Soviet Union,,URS
+Athletics,100m hurdles women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/vera-komisova,Vera KOMISOVA,Soviet Union,,URS
+Athletics,100m hurdles women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/johanna-schaller-klier,Johanna SCHALLER-KLIER,German Democratic Republic (Germany),DDDE,GDR
+Athletics,100m hurdles women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/lucyna-langer,Lucyna LANGER,Poland,PL,POL
+Athletics,200m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/pietro-mennea,Pietro MENNEA,Italy,IT,ITA
+Athletics,200m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/allan-wells,Allan WELLS,Great Britain,GB,GBR
+Athletics,200m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/donald-quarrie,Donald QUARRIE,Jamaica,JM,JAM
+Athletics,decathlon men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/daley-thompson,Daley THOMPSON,Great Britain,GB,GBR
+Athletics,decathlon men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/yuri-kutsenko,Yuri KUTSENKO,Soviet Union,,URS
+Athletics,decathlon men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/sergei-zhelanov,Sergei ZHELANOV,Soviet Union,,URS
+Athletics,triple jump men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/yaak-uudmae,Yaak UUDMAE,Soviet Union,,URS
+Athletics,triple jump men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/viktor-saneev,Viktor SANEEV,Soviet Union,,URS
+Athletics,triple jump men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/joao-carlos-de-oliveira,Joao Carlos DE OLIVEIRA,Brazil,BR,BRA
+Athletics,discus throw men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/viktor-rashchupkin,Viktor RASHCHUPKIN,Soviet Union,,URS
+Athletics,discus throw men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/imrich-bugar,Imrich BUGAR,Czechoslovakia,CSHH,TCH
+Athletics,discus throw men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/luis-delis,Luis DELIS,Cuba,CU,CUB
+Athletics,800m women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/nadezhda-olizarenko,Nadezhda OLIZARENKO,Soviet Union,,URS
+Athletics,800m women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/olga-mineeva,Olga MINEEVA,Soviet Union,,URS
+Athletics,800m women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/tatiana-providokhina,Tatiana PROVIDOKHINA,Soviet Union,,URS
+Athletics,1500m women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/tatiana-kazankina,Tatiana KAZANKINA,Soviet Union,,URS
+Athletics,1500m women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/christiane-stoll-wartenberg,Christiane STOLL-WARTENBERG,German Democratic Republic (Germany),DDDE,GDR
+Athletics,1500m women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/nadezhda-olizarenko,Nadezhda OLIZARENKO,Soviet Union,,URS
+Athletics,100m men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/allan-wells,Allan WELLS,Great Britain,GB,GBR
+Athletics,100m men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/silvio-leonard-sarria,Silvio LEONARD SARRIA,Cuba,CU,CUB
+Athletics,100m men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/peter-petrov,Peter PETROV,Bulgaria,BG,BUL
+Hockey,hockey men,Men,GOLD,GameTeam,India team,,,India,IN,IND
+Hockey,hockey men,Men,SILVER,GameTeam,Spain team,,,Spain,ES,ESP
+Hockey,hockey men,Men,BRONZE,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Hockey,hockey women,Women,GOLD,GameTeam,Zimbabwe team,,,Zimbabwe,ZW,ZIM
+Hockey,hockey women,Women,SILVER,GameTeam,Czechoslovakia team,,,Czechoslovakia,CSHH,TCH
+Hockey,hockey women,Women,BRONZE,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Modern Pentathlon,team competition men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Modern Pentathlon,team competition men,Men,SILVER,GameTeam,Hungary team,,,Hungary,HU,HUN
+Modern Pentathlon,team competition men,Men,BRONZE,GameTeam,Sweden team,,,Sweden,SE,SWE
+Modern Pentathlon,Individual competition men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/anatoli-starostin,Anatoli STAROSTIN,Soviet Union,,URS
+Modern Pentathlon,Individual competition men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/tamas-szombathelyi,Tamas SZOMBATHELYI,Hungary,HU,HUN
+Modern Pentathlon,Individual competition men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/pavel-lednev,Pavel LEDNEV,Soviet Union,,URS
+Equestrian Dressage,individual mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/elisabeth-max-theurer,Elisabeth MAX-THEURER,Austria,AT,AUT
+Equestrian Dressage,individual mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/yuri-kovshov,Yuri KOVSHOV,Soviet Union,,URS
+Equestrian Dressage,individual mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/viktor-ugryumov,Viktor UGRYUMOV,Soviet Union,,URS
+Equestrian Dressage,team mixed,Open,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Equestrian Dressage,team mixed,Open,SILVER,GameTeam,Bulgaria team,,,Bulgaria,BG,BUL
+Equestrian Dressage,team mixed,Open,BRONZE,GameTeam,Romania team,,,Romania,RO,ROU
+Shooting,skeet (125 targets) mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/hans-kjeld-rasmussen,Hans Kjeld RASMUSSEN,Denmark,DK,DEN
+Shooting,skeet (125 targets) mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/lars-goran-carlsson,Lars-Göran CARLSSON,Sweden,SE,SWE
+Shooting,skeet (125 targets) mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/roberto-castrillo-garcia,Roberto CASTRILLO GARCIA,Cuba,CU,CUB
+Shooting,trap (125 targets) mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/luciano-giovannetti,Luciano GIOVANNETTI,Italy,IT,ITA
+Shooting,trap (125 targets) mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/rustam-yambulatov,Rustam YAMBULATOV,Soviet Union,,URS
+Shooting,trap (125 targets) mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/jorg-damme,Jörg DAMME,German Democratic Republic (Germany),DDDE,GDR
+Shooting,50m rifle prone 60 shots mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/karoly-varga,Karoly VARGA,Hungary,HU,HUN
+Shooting,50m rifle prone 60 shots mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/hellfried-heilfort,Hellfried HEILFORT,German Democratic Republic (Germany),DDDE,GDR
+Shooting,50m rifle prone 60 shots mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/petar-zaprianov,Petar ZAPRIANOV,Bulgaria,BG,BUL
+Shooting,50m running target 3030 shots mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/igor-sokolov,Igor SOKOLOV,Soviet Union,,URS
+Shooting,50m running target 3030 shots mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/thomas-pfeffer,Thomas PFEFFER,German Democratic Republic (Germany),DDDE,GDR
+Shooting,50m running target 3030 shots mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/aleksandr-gazov,Aleksandr GAZOV,Soviet Union,,URS
+Shooting,50m rifle 3 positions 3x40 shots mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/viktor-vlasov-1,Viktor VLASOV,Soviet Union,,URS
+Shooting,50m rifle 3 positions 3x40 shots mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/bernd-hartstein,Bernd HARTSTEIN,German Democratic Republic (Germany),DDDE,GDR
+Shooting,50m rifle 3 positions 3x40 shots mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/sven-johansson,Sven JOHANSSON,Sweden,SE,SWE
+Shooting,25m rapid fire pistol 60 shots mixed,Open,GOLD,Athlete,,https://olympics.com/en/athletes/corneliu-ion,Corneliu ION,Romania,RO,ROU
+Shooting,25m rapid fire pistol 60 shots mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/jurgen-wiefel,Jürgen WIEFEL,German Democratic Republic (Germany),DDDE,GDR
+Shooting,25m rapid fire pistol 60 shots mixed,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/gerhard-petritsch,Gerhard PETRITSCH,Austria,AT,AUT
+Shooting,50m pistol 60 shots mixed,Open,GOLD,Athlete,,,Aleksandr Melentyev,Soviet Union,,URS
+Shooting,50m pistol 60 shots mixed,Open,SILVER,Athlete,,https://olympics.com/en/athletes/harald-vollmar,Harald VOLLMAR,German Democratic Republic (Germany),DDDE,GDR
+Shooting,50m pistol 60 shots mixed,Open,BRONZE,Athlete,,,Lyubcho Dyakov,Bulgaria,BG,BUL
+Swimming,100m butterfly women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/caren-metschuck,Caren METSCHUCK,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m butterfly women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/andrea-pollack,Andrea POLLACK,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m butterfly women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/christiane-knacke,Christiane KNACKE,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m butterfly men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sergei-fesenko,Sergei FESENKO,Soviet Union,,URS
+Swimming,200m butterfly men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/philip-hubble,Philip HUBBLE,Great Britain,GB,GBR
+Swimming,200m butterfly men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/roger-pyttel,Roger PYTTEL,German Democratic Republic (Germany),DDDE,GDR
+Swimming,4x200m freestyle relay men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Swimming,4x200m freestyle relay men,Men,SILVER,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Swimming,4x200m freestyle relay men,Men,BRONZE,GameTeam,Brazil team,,,Brazil,BR,BRA
+Swimming,100m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/barbara-krause,Barbara KRAUSE,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m freestyle women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/caren-metschuck,Caren METSCHUCK,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/ines-diers,Ines DIERS,German Democratic Republic (Germany),DDDE,GDR
+Swimming,4x100m medley relay women,Women,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Swimming,4x100m medley relay women,Women,SILVER,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Swimming,4x100m medley relay women,Women,BRONZE,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Swimming,100m breaststroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/dunkan-goodhew,Dunkan GOODHEW,Great Britain,GB,GBR
+Swimming,100m breaststroke men,Men,SILVER,Athlete,,,Arsens Miskarovs,Soviet Union,,URS
+Swimming,100m breaststroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/peter-evans,Peter EVANS,Australia,AU,AUS
+Swimming,200m breaststroke women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/lina-kachushite,Lina KACHUSHITE,Soviet Union,,URS
+Swimming,200m breaststroke women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/svetlana-varganova,Svetlana VARGANOVA,Soviet Union,,URS
+Swimming,200m breaststroke women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/yulia-bogdanova,Yulia BOGDANOVA,Soviet Union,,URS
+Swimming,100m backstroke women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/rica-reinisch,Rica REINISCH,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m backstroke women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/ina-kleber,Ina KLEBER,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m backstroke women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/petra-riedel,Petra RIEDEL,German Democratic Republic (Germany),DDDE,GDR
+Swimming,400m individual medley women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/petra-schneider,Petra SCHNEIDER,German Democratic Republic (Germany),DDDE,GDR
+Swimming,400m individual medley women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/sharron-elizabeth-davies,Sharron Elizabeth DAVIES,Great Britain,GB,GBR
+Swimming,400m individual medley women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/agnieszka-czopek,Agnieszka CZOPEK,Poland,PL,POL
+Swimming,100m butterfly men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/par-arvidsson,Pär ARVIDSSON,Sweden,SE,SWE
+Swimming,100m butterfly men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/roger-pyttel,Roger PYTTEL,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m butterfly men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/david-lopez-zubero-purcell,David LOPEZ-ZUBERO PURCELL,Spain,ES,ESP
+Swimming,400m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/ines-diers,Ines DIERS,German Democratic Republic (Germany),DDDE,GDR
+Swimming,400m freestyle women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/petra-schneider,Petra SCHNEIDER,German Democratic Republic (Germany),DDDE,GDR
+Swimming,400m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/carmela-schmidt,Carmela SCHMIDT,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sergei-koplyakov,Sergei KOPLYAKOV,Soviet Union,,URS
+Swimming,200m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/andrei-krylov,Andrei KRYLOV,Soviet Union,,URS
+Swimming,200m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/graeme-brewer,Graeme BREWER,Australia,AU,AUS
+Swimming,200m backstroke women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/rica-reinisch,Rica REINISCH,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m backstroke women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/cornelia-polit,Cornelia POLIT,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m backstroke women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/birgit-treiber,Birgit TREIBER,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m breaststroke men,Men,GOLD,Athlete,,,Robertas Žulpa,Soviet Union,,URS
+Swimming,200m breaststroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/alban-vermes,Alban VERMES,Hungary,HU,HUN
+Swimming,200m breaststroke men,Men,BRONZE,Athlete,,,Arsens Miskarovs,Soviet Union,,URS
+Swimming,4x100m medley relay men,Men,GOLD,GameTeam,Australia team,,,Australia,AU,AUS
+Swimming,4x100m medley relay men,Men,SILVER,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Swimming,4x100m medley relay men,Men,BRONZE,GameTeam,Great Britain team,,,Great Britain,GB,GBR
+Swimming,100m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jorg-woithe,Jörg WOITHE,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/per-holmertz,Per HOLMERTZ,Sweden,SE,SWE
+Swimming,100m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/per-johansson,Per JOHANSSON,Sweden,SE,SWE
+Swimming,800m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/michelle-ford,Michelle FORD,Australia,AU,AUS
+Swimming,800m freestyle women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/ines-diers,Ines DIERS,German Democratic Republic (Germany),DDDE,GDR
+Swimming,800m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/heike-dahne,Heike DÄHNE,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m backstroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/bengt-baron,Bengt BARON,Sweden,SE,SWE
+Swimming,100m backstroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/viktor-kuznetsov,Viktor KUZNETSOV,Soviet Union,,URS
+Swimming,100m backstroke men,Men,BRONZE,Athlete,,,Volodymyr Dolhov,Soviet Union,,URS
+Swimming,400m individual medley men,Men,GOLD,Athlete,,,Oleksandr Sydorenko,Soviet Union,,URS
+Swimming,400m individual medley men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/sergei-fesenko,Sergei FESENKO,Soviet Union,,URS
+Swimming,400m individual medley men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/zoltan-verraszto,Zoltan VERRASZTO,Hungary,HU,HUN
+Swimming,4x100m freestyle relay women,Women,GOLD,GameTeam,East Germany team,,,German Democratic Republic (Germany),DDDE,GDR
+Swimming,4x100m freestyle relay women,Women,SILVER,GameTeam,Sweden team,,,Sweden,SE,SWE
+Swimming,4x100m freestyle relay women,Women,BRONZE,GameTeam,Netherlands team,,,Netherlands,NL,NED
+Swimming,100m breaststroke women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/ute-geweniger,Ute GEWENIGER,German Democratic Republic (Germany),DDDE,GDR
+Swimming,100m breaststroke women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/elvira-vasilkova,Elvira VASILKOVA,Soviet Union,,URS
+Swimming,100m breaststroke women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/susanne-schultz-nielsson,Susanne Schultz NIELSSON,Denmark,DK,DEN
+Swimming,200m backstroke men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/sandor-wladar,Sandor WLADAR,Hungary,HU,HUN
+Swimming,200m backstroke men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/zoltan-verraszto,Zoltan VERRASZTO,Hungary,HU,HUN
+Swimming,200m backstroke men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/mark-kerry,Mark KERRY,Australia,AU,AUS
+Swimming,200m freestyle women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/barbara-krause,Barbara KRAUSE,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m freestyle women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/ines-diers,Ines DIERS,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m freestyle women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/carmela-schmidt,Carmela SCHMIDT,German Democratic Republic (Germany),DDDE,GDR
+Swimming,1500m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/vladimir-salnikov,Vladimir SALNIKOV,Soviet Union,,URS
+Swimming,1500m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-chaev,Aleksandr CHAEV,Soviet Union,,URS
+Swimming,1500m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/maxwell-metzker,Maxwell METZKER,Australia,AU,AUS
+Swimming,400m freestyle men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/vladimir-salnikov,Vladimir SALNIKOV,Soviet Union,,URS
+Swimming,400m freestyle men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/andrei-krylov,Andrei KRYLOV,Soviet Union,,URS
+Swimming,400m freestyle men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ivar-stukolkin,Ivar STUKOLKIN,Soviet Union,,URS
+Swimming,200m butterfly women,Women,GOLD,Athlete,,https://olympics.com/en/athletes/ines-geissler,Ines GEISSLER,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m butterfly women,Women,SILVER,Athlete,,https://olympics.com/en/athletes/sybille-schonrock,Sybille SCHÖNROCK,German Democratic Republic (Germany),DDDE,GDR
+Swimming,200m butterfly women,Women,BRONZE,Athlete,,https://olympics.com/en/athletes/michelle-ford,Michelle FORD,Australia,AU,AUS
+Boxing,67-71kg lightmiddleweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/armando-martinez,Armando MARTINEZ,Cuba,CU,CUB
+Boxing,67-71kg lightmiddleweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/aleksandr-koshkin,Aleksandr KOSHKIN,Soviet Union,,URS
+Boxing,67-71kg lightmiddleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jan-franek,Jan FRANEK,Czechoslovakia,CSHH,TCH
+Boxing,67-71kg lightmiddleweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/detlef-kastner,Detlef KÄSTNER,German Democratic Republic (Germany),DDDE,GDR
+Boxing,60-63.5kg lightwelterweigh men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/patrizio-oliva,Patrizio OLIVA,Italy,IT,ITA
+Boxing,60-63.5kg lightwelterweigh men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/serik-konakbaev,Serik KONAKBAEV,Soviet Union,,URS
+Boxing,60-63.5kg lightwelterweigh men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/anthony-willis,Anthony WILLIS,Great Britain,GB,GBR
+Boxing,60-63.5kg lightwelterweigh men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jose-aguilar,Jose AGUILAR,Cuba,CU,CUB
+Boxing,57-60kg lightweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/angel-herrera-vera,Angel HERRERA VERA,Cuba,CU,CUB
+Boxing,57-60kg lightweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/viktor-demianenko,Viktor DEMIANENKO,Soviet Union,,URS
+Boxing,57-60kg lightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/kazimierz-adach,Kazimierz ADACH,Poland,PL,POL
+Boxing,57-60kg lightweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/richard-nowakowski,Richard NOWAKOWSKI,German Democratic Republic (Germany),DDDE,GDR
+Boxing,48kg lightflyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/shamil-sabirov,Shamil SABIROV,Soviet Union,,URS
+Boxing,48kg lightflyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/hipolito-ramos,Hipolito RAMOS,Cuba,CU,CUB
+Boxing,48kg lightflyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/byong-uk-li,Byong Uk LI,Democratic People's Republic of Korea,KP,PRK
+Boxing,48kg lightflyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ismail-mustafov,Ismail MUSTAFOV,Bulgaria,BG,BUL
+Boxing,81kg heavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/teofilo-stevenson,Teofilo STEVENSON,Cuba,CU,CUB
+Boxing,81kg heavyweight men,Men,SILVER,Athlete,,,Pyotr Zayev,Soviet Union,,URS
+Boxing,81kg heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/istvan-levai,Istvan LEVAI,Hungary,HU,HUN
+Boxing,81kg heavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jurgen-fanghanel,Jürgen FANGHÄNEL,German Democratic Republic (Germany),DDDE,GDR
+Boxing,48-51kg flyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/petr-lesov,Petr LESOV,Bulgaria,BG,BUL
+Boxing,48-51kg flyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/viktor-miroshnichenko,Viktor MIROSHNICHENKO,Soviet Union,,URS
+Boxing,48-51kg flyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/hugh-russell,Hugh RUSSELL,Ireland,IE,IRL
+Boxing,48-51kg flyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/janos-varadi,Janos VARADI,Hungary,HU,HUN
+Boxing,54-57kg featherweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/rudi-fink,Rudi FINK,German Democratic Republic (Germany),DDDE,GDR
+Boxing,54-57kg featherweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/adolfo-horta,Adolfo HORTA,Cuba,CU,CUB
+Boxing,54-57kg featherweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/viktor-rybakov,Viktor RYBAKOV,Soviet Union,,URS
+Boxing,54-57kg featherweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/krzysztof-kosedowski,Krzysztof KOSEDOWSKI,Poland,PL,POL
+Boxing,51-54kg bantamweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/juan-bautista-hernandez-perez,Juan Bautista HERNÁNDEZ PÉREZ,Cuba,CU,CUB
+Boxing,51-54kg bantamweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/bernardo-jose-pinango,Bernardo Jose PINANGO,Venezuela,VE,VEN
+Boxing,51-54kg bantamweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/michael-anthony,Michael ANTHONY,Guyana,GY,GUY
+Boxing,51-54kg bantamweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/dumitru-cipere,Dumitru CIPERE,Romania,RO,ROU
+Boxing,63.5 - 67kg (welterweight) men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/andres-aldama-cabrera,Andres ALDAMA CABRERA,Cuba,CU,CUB
+Boxing,63.5 - 67kg (welterweight) men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/john-mugabi,John MUGABI,Uganda,UG,UGA
+Boxing,63.5 - 67kg (welterweight) men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/karl-heinz-kruger,Karl-Heinz KRÜGER,German Democratic Republic (Germany),DDDE,GDR
+Boxing,63.5 - 67kg (welterweight) men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/kazimierz-szczerba,Kazimierz SZCZERBA,Poland,PL,POL
+Boxing,75-81kg lightheavyweight men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/slobodan-kacar,Slobodan KACAR,Yugoslavia,YUCS,YUG
+Boxing,75-81kg lightheavyweight men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/pawel-skrzecz,Pawel SKRZECZ,Poland,PL,POL
+Boxing,75-81kg lightheavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/herbert-bauch,Herbert BAUCH,German Democratic Republic (Germany),DDDE,GDR
+Boxing,75-81kg lightheavyweight men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/ricardo-rojas,Ricardo ROJAS,Cuba,CU,CUB
+Boxing,71-75kg men,Men,GOLD,Athlete,,https://olympics.com/en/athletes/jose-gomez-1,Jose GOMEZ,Cuba,CU,CUB
+Boxing,71-75kg men,Men,SILVER,Athlete,,https://olympics.com/en/athletes/viktor-savchenko-1,Viktor SAVCHENKO,Soviet Union,,URS
+Boxing,71-75kg men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/valentin-silaghi,Valentin SILAGHI,Romania,RO,ROU
+Boxing,71-75kg men,Men,BRONZE,Athlete,,https://olympics.com/en/athletes/jerzy-rybicki,Jerzy RYBICKI,Poland,PL,POL
+Water Polo,water polo men,Men,GOLD,GameTeam,Soviet Union team,,,Soviet Union,,URS
+Water Polo,water polo men,Men,SILVER,GameTeam,Yugoslavia team,,,Yugoslavia,YUCS,YUG
+Water Polo,water polo men,Men,BRONZE,GameTeam,Hungary team,,,Hungary,HU,HUN
