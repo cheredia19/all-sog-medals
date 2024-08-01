@@ -37,6 +37,14 @@ description: ''
   }}
 />
 
+## Stockholm 1912
+
+<FlatUiTable
+  data={{
+    url: 'stockholm1912.csv'
+  }}
+/>
+
 ## Los Angeles 1932
 
 <FlatUiTable
