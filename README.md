@@ -77,3 +77,11 @@ description: ''
     url: 'montreal_1976.csv'
   }}
 />
+
+## Moscow 1980
+
+<FlatUiTable
+  data={{
+    url: 'moscow_1980.csv'
+  }}
+/>
