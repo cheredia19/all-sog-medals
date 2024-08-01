@@ -45,6 +45,14 @@ description: ''
   }}
 />
 
+## Antwerp 1920
+
+<FlatUiTable
+  data={{
+    url: 'antwerp1920.csv'
+  }}
+/>
+
 ## Los Angeles 1932
 
 <FlatUiTable
