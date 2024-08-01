@@ -92,3 +92,12 @@ description: ''
     url: 'helsinki_1952.csv'
   }}
 />
+
+## Melbourne 1956
+
+<FlatUiTable
+  data={{
+    url: 'melbourne_1952.csv'
+  }}
+/>
+
