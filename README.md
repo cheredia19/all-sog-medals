@@ -196,3 +196,11 @@ description: ''
     url: 'athens_2004.csv'
   }}
 />
+
+## Beijing 2008
+
+<FlatUiTable
+  data={{
+    url: 'beijing_2008.csv'
+  }}
+/>
