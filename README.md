@@ -220,3 +220,11 @@ description: ''
     url: 'rio_2016.csv'
   }}
 />
+
+## Tokyo 2020
+
+<FlatUiTable
+  data={{
+    url: 'tokyo_2020.csv'
+  }}
+/>
