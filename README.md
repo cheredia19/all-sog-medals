@@ -21,6 +21,14 @@ description: ''
   }}
 />
 
+## St. Louis 1904
+
+<FlatUiTable
+  data={{
+    url: 'stlouis1904.csv'
+  }}
+/>
+
 ## Los Angeles 1932
 
 <FlatUiTable
