@@ -180,3 +180,11 @@ description: ''
     url: 'atlanta_1996.csv'
   }}
 />
+
+## Sydney 2000
+
+<FlatUiTable
+  data={{
+    url: 'sydney_2000.csv'
+  }}
+/>
