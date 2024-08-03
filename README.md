@@ -5,19 +5,21 @@ description: ''
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
+## Athens 1896
+
 The **Olympic Games of Athens 1896**, considered the first ones of the Contemporary Age, were held in Athens, Greece, between April 6 and 15, 1896. Two hundred and forty-one male athletes from 14 countries competed (there was no female participation) in nine sports.
 
 The most successful competitor was the German wrestler and gymnast [Carl Schuhmann](https://olympics.com/en/athletes/carl-schumann), who won four gold medals, two of them individually.
 
 Since then, athletes from all over the world meet every four years to compete against each other. Due to the First and Second World Wars, no games were held in 1916, 1940, 1944, and 1948.
 
-## Athens 1896
-
 <FlatUiTable
   data={{
     url: 'athens1896.csv'
   }}
 />
+
+## Paris 1900
 
 The **Paris 1900 Olympic Games** took place in Paris, France, from May 14 to October 28, 1900, within the framework of the Universal Exposition. 
 
@@ -31,13 +33,13 @@ After Tokyo 2020, Kraenzlein remains the only athlete to have won **four individ
 
 The hosts dominated the medal tally with 101 medals (26 gold) ahead of the United States (47, 19) and Great Britain (30, 15).
 
-## Paris 1900
-
 <FlatUiTable
   data={{
     url: 'paris1900.csv'
   }}
 />
+
+## St. Louis 1904
 
 The **1904 St. Louis Olympic Games** were held in St. Louis, United States, between July 1 and November 23, 1904. Six hundred and fifty-one athletes (only six women) from 12 countries participated, competing in 16 Olympic sports.
 
@@ -46,8 +48,6 @@ These games were part of the 1904 St. Louis World's Fair. The organizers spread 
 Only 42 athletes from other countries participated because the organizers barely managed to interest athletes from Europe in crossing the Atlantic to participate in the event, allowing the United States to almost exclusively dominate the medal table.
 
 For the first time, Olympic sports included freestyle wrestling and boxing.
-
-## St. Louis 1904
 
 <FlatUiTable
   data={{
