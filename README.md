@@ -39,6 +39,14 @@ The hosts dominated the medal tally with 101 medals (26 gold) ahead of the Unite
   }}
 />
 
+The **1904 St. Louis Olympic Games** were held in St. Louis, United States, between July 1 and November 23, 1904. Six hundred and fifty-one athletes (only six women) from 12 countries participated, competing in 16 Olympic sports.
+
+These games were part of the 1904 St. Louis World's Fair. The organizers spread the sporting events over more than four months, just like in the previous edition.
+
+Only 42 athletes from other countries participated because the organizers barely managed to interest athletes from Europe in crossing the Atlantic to participate in the event, allowing the United States to almost exclusively dominate the medal table.
+
+For the first time, Olympic sports included freestyle wrestling and boxing.
+
 ## St. Louis 1904
 
 <FlatUiTable
