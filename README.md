@@ -71,6 +71,12 @@ Competitors from 19 countries earned medals, with Great Britain leading the meda
 
 ## Stockholm 1912
 
+The **1912 Stockholm Olympic Games** were held between May 5 and July 27, 1912. It was attended by 2407 athletes (2359 men and 48 women) from 28 countries.
+
+This edition was the first to feature events such as **decathlon** and **pentathlon**, both won by the American athlete [Jim Thorpe](https://olympics.com/en/athletes/jim-thorpe), **women's diving**, and **women's swimming**.
+
+The medals were mostly shared between the Swedish and U.S. delegations, with the former prevailing in the overall medal count with 65 total medals, while the latter were the most successful in gold medals, with 25.
+
 <FlatUiTable
   data={{
     url: 'stockholm1912.csv'
