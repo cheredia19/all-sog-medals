@@ -21,7 +21,7 @@ Since then, athletes from all over the world meet every four years to compete ag
 
 ## Paris 1900
 
-The **Paris 1900 Olympic Games** took place in Paris, France, from May 14 to October 28, 1900, within the framework of the Universal Exposition. 
+The **Paris 1900 Olympic Games** took place from May 14 to October 28, 1900, within the framework of the Universal Exposition. 
 
 As a consequence, there was no opening or closing ceremony, the events took place over five months, and these events were not called "Olympic Games" in official documents or on promotional posters, so many athletes would be unaware, some until their deaths, that they had competed in the Olympic Games.
 
@@ -41,7 +41,7 @@ The hosts dominated the medal tally with 101 medals (26 gold) ahead of the Unite
 
 ## St. Louis 1904
 
-The **1904 St. Louis Olympic Games** were held in St. Louis, United States, between July 1 and November 23, 1904. Six hundred and fifty-one athletes (only six women) from 12 countries participated, competing in 16 Olympic sports.
+The **1904 St. Louis Olympic Games** were held between July 1 and November 23, 1904. Six hundred and fifty-one athletes (only six women) from 12 countries participated, competing in 16 Olympic sports.
 
 These games were part of the 1904 St. Louis World's Fair. The organizers spread the sporting events over more than four months, just like in the previous edition.
 
@@ -56,6 +56,12 @@ For the first time, Olympic sports included freestyle wrestling and boxing.
 />
 
 ## London 1908
+
+The **London 1908 Olympic Games** took place from April 27 to October 31, 1908. With a total duration of **187 days**, these were the longest in the history of the modern Olympic Games.
+
+2008 athletes (1971 men and 37 women) from 22 countries participated, competing in 24 sports and 105 events.
+
+Competitors from 19 countries earned medals, with Great Britain leading the medal table, followed by the United States and Sweden.
 
 <FlatUiTable
   data={{
