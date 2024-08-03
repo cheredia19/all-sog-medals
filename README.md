@@ -85,7 +85,15 @@ The medals were mostly shared between the Swedish and U.S. delegations, with the
 
 ## Antwerp 1920
 
+After not celebrating the Olympics in 1916 due to World War I, the sixth edition of the modern Olympics finally took place from April 20 to September 12, 1920, in Antwerp, Belgium.
 
+Despite the great Central Empires (German Empire, Austro-Hungarian Empire, Ottoman Empire, and the Kingdom of Bulgaria) not being invited to the Games, participation reached a then-record high of 29 countries and 2,626 athletes. 
+
+Twenty-two disciplines were competed in, with 152 events. Brazil, Estonia, Monaco, New Zealand, and former countries Czechoslovakia and Yugoslavia made their debut at the Olympic Games.
+
+As in the 1912 Stockholm Games, the countries that won the most medals were the United States, Sweden, and Great Britain. But Belgium was third overall thanks to its 16 gold medals.
+
+American shooter [Willis Lee](https://olympics.com/en/athletes/willis-lee) was the most successful athlete with seven medals, five of them gold, while Italian fencer [Nedo Nadi](https://olympics.com/en/athletes/nedo-nadi) won all five events in which he performed.
 
 <FlatUiTable
   data={{
