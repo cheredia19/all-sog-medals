@@ -103,6 +103,12 @@ American shooter [Willis Lee](https://olympics.com/en/athletes/willis-lee) was t
 
 ## Paris 1924
 
+The **1924 Paris Olympic Games**, officially known as the *Games of the VIII Olympiad*, were held in Paris, France, for the second time. The games took place between May 4 and July 27. The venue hosted 3,089 athletes (2,956 men and 136 women) from 44 countries.
+
+The Olympic program of this edition comprised 22 sports disciplines, with 123 events.
+
+Austrian-American swimmer [Johnny Weissmüller](https://olympics.com/en/athletes/johnny-weissmuller), famous for his role as Tarzan, won four medals (three gold and a bronze) in swimming and water polo. Finnish [Paavo Nurmi](https://olympics.com/en/athletes/paavo-nurmi) won the 1500m and 5000m races, held within an hour of each other, and the cross-country, held in extremely high temperatures.
+
 <FlatUiTable
   data={{
     url: 'paris1924.csv'
