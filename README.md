@@ -147,6 +147,12 @@ American [Mildred Didrikson](https://olympics.com/en/athletes/mildred-didrikson)
 
 ## Berlin 1936
 
+The **1936 Berlin Olympic Games** took place during the period of the Third Reich, from August 1-16.  Three thousand and 632 men and 331 women from 49 countries competed in 24 sports and 119 events. 
+
+The most outstanding athlete was the unforgettable [Jesse Owens](https://olympics.com/en/athletes/jesse-owens). The African-American won four gold medals, a blow to the so-called white supremacy proclaimed by the Nazis.
+
+An off-the-sports issue occurred when athlete Gretel Bergmann was excluded from the German team because she was Jewish. Bergmann set a national record in the high jump event a month before the games.
+
 <FlatUiTable
   data={{
     url: 'berlin_1936.csv'
