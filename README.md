@@ -117,6 +117,12 @@ Austrian-American swimmer [Johnny Weissmüller](https://olympics.com/en/athletes
 
 ## Amsterdam 1928
 
+The **Amsterdam 1928 Olympic Games** were held between May 17 and August 12 of that year. A total of 2,883 athletes (2,606 men and 277 women) from 46 countries participated, competing in 19 disciplines and 104 specialties.
+
+Finland's **Paavo Nurmi** won three more gold medals in the long-distance and middle-distance events to finish his brilliant career with nine gold medals. For his part, **Johnny Weissmüller** once again won the 100-meter sprint freestyle swimming event and finished with five gold medals in swimming and a bronze in water polo.
+
+Athletes from 28 nations won a gold medal, a record that was not broken until 40 years later.
+
 <FlatUiTable
   data={{
     url: 'amsterdamnl_1928.csv'
