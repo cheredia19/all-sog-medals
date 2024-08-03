@@ -5,6 +5,13 @@ description: ''
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
+The Olympic Games of Athens 1896, considered the first ones of the Contemporary Age, were held in Athens, Greece, between April 6 and 15, 1896. Two hundred and forty-one male athletes from 14 countries competed (there was no female participation) in nine sports.
+
+The most successful competitor was the German wrestler and gymnast [Carl Schuhmann](https://olympics.com/en/athletes/carl-schumann), who won four gold medals, two of them individually.
+
+Since then, athletes from all over the world meet every four years to compete against each other.
+
+
 ## Athens 1896
 
 <FlatUiTable
