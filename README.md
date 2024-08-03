@@ -137,7 +137,7 @@ Thus, the number of nations participating dropped from 46 to 37. Consequently, t
 
 Japanese 14 years and 309 days old swimmer [Kusuo Kitamura](https://olympics.com/en/athletes/kusuo-kitamura) won in the 1500 m freestyle swimming and became the youngest athlete to win a gold medal. Kitamura kept the record for 58 years, until Hungarian swimmer Krisztina Egerszegi broke it.
 
-American [Mildred Didrikson](https://olympics.com/en/athletes/mildred-didrikson), *considered by many authorities the greatest all-round sportswoman in history*, won the gold medal in the javelin and set world records in the high jump and 80 meters.
+American [Mildred Didrikson](https://olympics.com/en/athletes/mildred-didrikson), considered by many authorities *the greatest all-round sportswoman in history*, won the gold medal in the javelin and set world records in the high jump and 80 meters.
 
 <FlatUiTable
   data={{
