@@ -59,7 +59,7 @@ For the first time, Olympic sports included freestyle wrestling and boxing.
 
 The **London 1908 Olympic Games** took place from April 27 to October 31, 1908. With a total duration of **187 days**, these were the longest in the history of the modern Olympic Games.
 
-2008 athletes (1971 men and 37 women) from 22 countries participated, competing in 24 sports and 105 events.
+2,008 athletes (1,971 men and 37 women) from 22 countries participated, competing in 24 sports and 105 events.
 
 Competitors from 19 countries earned medals, with Great Britain leading the medal table, followed by the United States and Sweden.
 
@@ -71,11 +71,11 @@ Competitors from 19 countries earned medals, with Great Britain leading the meda
 
 ## Stockholm 1912
 
-The **1912 Stockholm Olympic Games** were held between May 5 and July 27, 1912. It was attended by 2407 athletes (2359 men and 48 women) from 28 countries.
+The **1912 Stockholm Olympic Games** were held between May 5 and July 27, 1912. It was attended by 2,407 athletes (2,359 men and 48 women) from 28 countries.
 
 This edition was the first to feature events such as **decathlon** and **pentathlon**, both won by the American athlete [Jim Thorpe](https://olympics.com/en/athletes/jim-thorpe), **women's diving**, and **women's swimming**.
 
-The medals were mostly shared between the Swedish and U.S. delegations, with the former prevailing in the overall medal count with 65 total medals, while the latter were the most successful in gold medals, with 25.
+The medals were mostly shared between the Swedish and U.S. delegations, with the former prevailing in the overall medal count with 65 total medals, while the latter was the most successful in gold medals, with 25.
 
 <FlatUiTable
   data={{
@@ -84,6 +84,8 @@ The medals were mostly shared between the Swedish and U.S. delegations, with the
 />
 
 ## Antwerp 1920
+
+
 
 <FlatUiTable
   data={{
