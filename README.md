@@ -131,6 +131,14 @@ Athletes from 28 nations won a gold medal, a record that was not broken until 40
 
 ## Los Angeles 1932
 
+The Olympic Games returned to the United States after remaining in Europe for 28 years, but the trip to the far west coast and the fact that the [Great Depression](https://www.britannica.com/event/Great-Depression) was still plaguing the world, led to a reduction in the number of participating countries and athletes, especially from Europe.
+
+Thus, the number of nations participating dropped from 46 to 37. Consequently, the number of athletes dropped 55.9%, from 3,014 to 1,328 (1,206 men and 126 women).
+
+Japanese 14 years and 309 days old swimmer [Kusuo Kitamura](https://olympics.com/en/athletes/kusuo-kitamura) won in the 1500 m freestyle swimming and became the youngest athlete to win a gold medal. Kitamura kept the record for 58 years, until Hungarian swimmer Krisztina Egerszegi broke it.
+
+American [Mildred Didrikson](https://olympics.com/en/athletes/mildred-didrikson), *considered by many authorities the greatest all-round sportswoman in history*, won the gold medal in the javelin and set world records in the high jump and 80 meters.
+
 <FlatUiTable
   data={{
     url: 'los-angeles_1932.csv'
