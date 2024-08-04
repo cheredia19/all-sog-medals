@@ -379,6 +379,24 @@ The Unified Team led the medal table with 112 medals (45 gold, 38 silver, and 29
 
 ## Atlanta 1996
 
+The 1996 Olympics, also known as the Centennial Olympic Games, were held in Atlanta, United States, from 19 July to 4 August 1996. The games were attended by 10,318 athletes (6,806 men and 3,512 women) from 197 countries, competing in 26 sports and 271 events.
+
+Atlanta became the third American city to host the Summer Olympics, after St. Louis and Los Angeles.
+
+The number of countries increased after the fall of the Soviet Union in 1991. The countries that participated in the Unified Team in Barcelona did it separately for the first time.
+
+Russia competed as a separate country for the first time since the 1912 Olympics, and it was the first time that all the countries that were members of the IOC at that time participated in the Olympics.
+
+14 nations that made their debut at the Olympic Games, among them Azerbaijan, Cape Verde, and Turkmenistan.
+
+The 1996 Olympic Games featured 10,318 athletes (3,512 women, 6,806 men), and produced 11 absolute records and 51 Olympic records. The United States dominated the medal table with 101 medals (44 golds), followed by Russia, and Germany.
+
+Professional cyclists were allowed to participate in the Olympics, marking the debut of five-time *Tour de France* champion [Miguel Indurain](https://olympics.com/en/athletes/miguel-indurain) at the Olympic Games. The Navarrese cyclist won the gold medal, while another Spaniard, [Abraham Olano](https://olympics.com/en/athletes/abraham-olano), won silver.
+
+Female football debuted in these Olympics. The gold medal was won by **Mia Hamm's United States**. 
+
+In the men's category, the gold went to **Nigeria**, who surprised everyone after beating South American powerhouses Brazil and Argentina with a team that included footballers who became stars in the biggest teams of Europe like **Celestine Babayaro, Daniel Amokachi, Amunike**, and the revelation of the tournament, **Nwankwo Kanu**.
+
 <FlatUiTable
   data={{
     url: 'atlanta_1996.csv'
