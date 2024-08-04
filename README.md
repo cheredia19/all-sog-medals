@@ -165,7 +165,7 @@ Helsinki 1952, the first Olympics after World War II, was held between July 19 a
 
 Helsinki was supposed to host the 1940 Summer Olympic Games, replacing Tokyo. However, the event couldn't take place due to the development of the war. Years later, Helsinki bid again and was chosen as the 1952 Olympic host by the IOC in 1947.
 
-Until Beijing 2008, the Helsinki Olympic Games were the edition with the most Olympic and world records broken. This edition saw the **debut of the Soviet Union and Israel**, and the **return of Japan and Germany**.
+Until Beijing 2008, the Helsinki Olympic Games were the edition with the most records (world and olympic) broken. This edition saw the **debut of the Soviet Union and Israel**, and the **return of Japan and Germany**.
 
 The country that won the most medals was the United States, with 76 medals. The Czechoslovak athlete [Emil Zátopek](https://olympics.com/en/athletes/emil-zatopek) won the gold medal in the 5,000 meters, 10,000 meters, and the marathon. 
 
@@ -178,6 +178,14 @@ Helsinki marked the first medal ever for Venezuela. Athlete [Asnoldo Devonish](h
 />
 
 ## Melbourne 1956
+
+The **Games of the XVI Olympiad** took place in a Southern Hemisphere country for the first time from November 22 to December 8, 1956. Three thousand, three hundred and 76 athletes (2,938 men and 376 women) from 72 countries participated.
+
+The equestrian trials were held six months earlier in Stockholm, Sweden, between June 11 and 17 due to Australian quarantine laws. Thus, the 1956 Melbourne Olympic Games were the first (and to date only) with events on different continents. 
+
+The Melbourne Olympic Games were marked by boycotts months before the opening because of political conflicts such as the [Suez war](https://history.state.gov/milestones/1953-1960/suez) and the repression of the Hungarian revolution. However, at the closing ceremony, around 500 athletes marched together in a single group under the Olympic flag. For this reason, they were nicknamed the *friendship games*.
+
+The **Soviet Union** was the country that won the most medals, a total of 98, and for the first time surpassed the **United States**, which won 74 medals. The locals were in third place in the medal table. **Australia** tripled the number of medals won in 1952 and achieved their best performance until Atlanta 1996.
 
 <FlatUiTable
   data={{
