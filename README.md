@@ -11,7 +11,7 @@ The **Olympic Games of Athens 1896**, considered the first ones of the Contempor
 
 The most successful competitor was the German wrestler and gymnast [Carl Schuhmann](https://olympics.com/en/athletes/carl-schumann), who won four gold medals, two of them individually.
 
-Since then, athletes from all over the world meet every four years to compete against each other. Due to the First and Second World Wars, no games were held in 1916, 1940, 1944, and 1948.
+Since then, athletes from all over the world meet every four years to compete against each other. Due to the First and Second World Wars, no games were held in 1916, 1940, and 1944.
 
 <FlatUiTable
   data={{
@@ -161,9 +161,9 @@ An off-the-sports issue occurred when athlete Gretel Bergmann was excluded from 
 
 ## Helsinki 1952
 
-Helsinki 1952, the first Olympics after World War II, was held between July 19 and August 3, 1952, when 4,436 men and 519 women from 69 countries gathered in the Finnish capital.
+Helsinki 1952 was held between July 19 and August 3, 1952, when 4,436 men and 519 women from 69 countries gathered in the Finnish capital.
 
-Helsinki was supposed to host the 1940 Summer Olympic Games, replacing Tokyo. However, the event couldn't take place due to the development of the war. Years later, Helsinki bid again and was chosen as the 1952 Olympic host by the IOC in 1947.
+Helsinki was supposed to host the 1940 Summer Olympic Games, replacing Tokyo. However, the event couldn't take place due to the development of the World War II. Years later, Helsinki bid again and was chosen as the 1952 Olympic host by the IOC in 1947.
 
 Until Beijing 2008, the Helsinki Olympic Games were the edition with the most records (world and olympic) broken. This edition saw the **debut of the Soviet Union and Israel**, and the **return of Japan and Germany**.
 
@@ -270,6 +270,20 @@ In the sports field, American swimmer [Mark Spitz](https://olympics.com/en/athle
 />
 
 ## Montreal 1976
+
+The 1976 Montreal Olympic Games were held n Canada between 17 July and 1 August 1976. 6,084 athletes (4,824 men and 1,260 women) from 92 countries competed in 21 sports and 198 specialties.
+
+The first mass boycott in the history of the Olympic Games took place. Some African delegations requested the exclusion of New Zealand because its national rugby team had played against that of South Africa, a country excluded from the IOC for its apartheid policy. The IOC didn't accept the pressure and rejected the request. Twenty-four African countries rejected the invitation. Finally, 32 nations ended up joining the boycott. China and Taiwan also didn't attend in protest over mutual recognition issues.
+
+Women's basketball competitions were included for the first time.
+
+These were the games of the 14-year-old Romanian gymnast [Nadia Comăneci](https://olympics.com/en/athletes/nadia-comaneci), who caused a sensation by being **the first to be awarded a perfect score of 10 on the uneven bars**. She earned seven total scores out of 10.
+
+Other individual stars included Italian [Klaus Dibiasi](https://olympics.com/en/athletes/klaus-dibiasi), who won his third consecutive gold medal in platform diving; Soviet [Viktor Sanéiev](https://olympics.com/en/athletes/klaus-dibiasi), who won his third gold medal in the triple jump event; and Poland's [Irena Szewińska](https://olympics.com/en/athletes/irena-szewinska), winner of the 400 m, who took their career total to **seven medals in five different events**.
+
+Cuban athlete [Alberto Juantorena](https://olympics.com/en/athletes/alberto-juantorena) was the first to claim a double victory in the 400 m and 800 m.
+
+[Miklos Németh](https://olympics.com/en/athletes/miklos-nemeth-1), from Hungary, won gold in the javelin throw and **became the first son of an athletics gold medallist**. His father, Imre, had won the hammer throw in 1948.
 
 <FlatUiTable
   data={{
