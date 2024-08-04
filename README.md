@@ -271,7 +271,7 @@ In the sports field, American swimmer [Mark Spitz](https://olympics.com/en/athle
 
 ## Montreal 1976
 
-The 1976 Montreal Olympic Games were held n Canada between 17 July and 1 August 1976. 6,084 athletes (4,824 men and 1,260 women) from 92 countries competed in 21 sports and 198 specialties.
+The 1976 Montreal Olympic Games were held in Canada between 17 July and 1 August 1976. 6,084 athletes (4,824 men and 1,260 women) from 92 countries competed in 21 sports and 198 specialties.
 
 The first mass boycott in the history of the Olympic Games took place. Some African delegations requested the exclusion of New Zealand because its national rugby team had played against that of South Africa, a country excluded from the IOC for its apartheid policy. The IOC didn't accept the pressure and rejected the request. Twenty-four African countries rejected the invitation. Finally, 32 nations ended up joining the boycott. China and Taiwan also didn't attend in protest over mutual recognition issues.
 
@@ -354,6 +354,22 @@ The *last dance* between the United States and the Soviet Union favored the latt
 />
 
 ## Barcelona 1992
+
+The **1992 Summer Olympics** took place in Barcelona, ​​Spain, between July 25 and August 9. Over nine thousand athletes (6,652 men and 2,704 women) from 169 national committees participated in this edition.
+
+Barcelona 1992 was the second Olympic Games ever held in a Spanish-speaking country after Mexico 1968, 26 years before.
+
+Due to the political changes that took place at the beginning of the 1990s, these were the first Olympic Games without boycotts of any kind, something unprecedented since 1972 (Munich).
+
+After the dissolution of the Soviet Union, the post-Soviet states participated with the Olympic flag under the name of the **Unified Team**, except the three Baltic republics that did attend as independent committees. 
+
+Germany, one of the major Olympic powerhouses, **competed as a unified state for the first time since 1964**. Other notable events included the **return of South Africa**, which missed seven editions due to apartheid, and the absence of Yugoslavia due to international sanctions from the [Balkan War](https://www.bbc.com/news/world-europe-17632399).
+
+In the sporting arena, 257 events were held in 25 Olympic sports. Badminton and baseball debuted on the official program, women's judo categories were included, and canoeing slalom returned after a twenty-year absence. 
+
+Among the most outstanding athletes, Belarusian [Vitaly Scherbo, (Unified Team)](https://olympics.com/en/athletes/vitaly-scherbo) won six gold medals in artistic gymnastics; Hungarian [Krisztina Egerszegi](https://olympics.com/en/athletes/krisztina-egerszegi) certified her reign in swimming with three golds; **Carl Lewis** added two more triumphs to his list of achievements; and the United States *Dream Team*, formed for the first time with NBA superstars led by Michael Jordan, was undefeated champion with victories of more than thirty points difference.
+
+The Unified Team led the medal table with 112 medals (45 gold, 38 silver, and 29 bronze), followed by the United States (108 medals), and Germany (82).
 
 <FlatUiTable
   data={{
