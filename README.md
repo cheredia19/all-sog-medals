@@ -335,6 +335,18 @@ In men's basketball, the United States, led by youngsters **Michael Jordan** and
 
 ## Seoul 1988
 
+The **1988 Summer Olympics** were held in Seoul, South Korea, from 17 September to 2 October 1988. That year's event featured 8,391 athletes (6,197 men and 2,194 women) from 159 countries. Seoul became the second capital in Asia to hold the Summer Olympics after Tokyo did it in 1964.
+
+In a context marked by the end of the Cold War, the XXIV Olympiad was the first since Munich 1972 that did not experience a massive political boycott, despite North Korea refusing to attend and being followed by half a dozen countries.
+
+It was the last Summer Olympics in which the United States and the Soviet Union competed against each other. It was also the games the German Democratic Republic featured for the last time.
+
+In terms of sports, 237 events were held in 23 official sports, including the return of tennis after a 64-year absence and the debut of table tennis. Thirty-three world records and 227 Olympic records were broken. 
+
+Among the most outstanding athletes, East German swimmer [Kristin Otto](https://olympics.com/en/athletes/kristin-otto) won six gold medals, American [Matthew Biondi](https://olympics.com/en/athletes/matthew-biondi) won seven medals (five golds) in the same discipline, and Soviet gymnast [Vladimir Artemov](https://olympics.com/en/athletes/vladimir-artemov) won four golds.
+
+The *last dance* between the United States and the Soviet Union favored the latter with 132 medals (55 gold, 31 silver, and 46 bronze). East Germany finished second (102 medals), the United States third (94), and the hosts (33).
+
 <FlatUiTable
   data={{
     url: 'seoul_1988.csv'
