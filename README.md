@@ -405,7 +405,7 @@ In the men's category, the gold went to **Nigeria**, who surprised everyone afte
 
 ## Sydney 2000
 
-The 2000 Sydney Olympic Games took place between September 15 and October 1. There were 10,651 athletes (6,582 men and 4,069 women) who competed in 28 sports and 300 disciplines.
+The **2000 Sydney Olympic Games** took place between September 15 and October 1. There were 10,651 athletes (6,582 men and 4,069 women) who competed in 28 sports and 300 disciplines.
 
 This edition of the Summer Olympic Games was the second ever held in Australia after the 1956 Melbourne Olympics.
 
@@ -417,7 +417,7 @@ Australian teenage swimmer [Ian Thorpe](https://olympics.com/en/athletes/ian-tho
 
 The American sprinter Marion Jones came to those Olympics intending to win five gold medals, which she ultimately failed to achieve. Still, she had an outstanding performance, winning three gold medals and two bronze, accolades enough to make her the great figure of athletics at these Games. 
 
-In the following years, she was involved in constant suspicions and investigations about a new doping product called Tetrahydrogestrinone, a substance that increases physical performance. 
+In the following years, she was involved in constant suspicions and investigations about a new doping product called *Tetrahydrogestrinone*, a substance that increases physical performance. 
 
 In 2007, Jones was found guilty of consuming steroids while in Sydney, so [the IOC stripped her of the medals won back then](https://www.theguardian.com/world/2007/dec/12/usa.athletics) and wiped her name from the record books.
 
