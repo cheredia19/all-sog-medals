@@ -255,6 +255,14 @@ Also, these were the first games:
 
 ## Munich 1972
 
+The **Games of the XX Olympiad** was an international multi-sport event held in Munich, Federal Germany, between August 26 and September 11, 1972, with 7,134 athletes from 121 countries participating.
+
+It was the first time that women had a representation of over 1,000 athletes (1,059). Waldi, a dachshund dog, became the first Olympic mascot ever.
+
+Unfortunately, the 1972 Olympic Games are remembered because of an [act of terrorism](https://www.britannica.com/event/Munich-1972-Olympic-Games). Despite this, the Games continued after being suspended for only twenty-four hours. However, some athletes left the Munich Olympic Village.
+
+In the sports field, American swimmer [Mark Spitz](https://olympics.com/en/athletes/mark-spitz) won 7 gold medals in swimming, while Finnish [Lasse Virén](https://olympics.com/en/athletes/lasse-viren) won a double in 5,000 and 10,000 meters. The USSR beat the United States in the men's basketball final (51-50) with a last-second basket.
+
 <FlatUiTable
   data={{
     url: 'munich_1972.csv'
