@@ -233,6 +233,20 @@ The heavyweight champion was American [Joe Frazier](https://olympics.com/en/athl
 
 ## Mexico City 1968
 
+A total of 5,516 athletes (4,735 men and 781 women) from 112 countries participated. It was the first time that Germany competed as separate countries for the first time.
+
+This was the first edition of the event organized by:
+
+ - A developing country.
+ - A Spanish-speaking nation.
+
+Also, these were the first games:
+
+ - Held in Latin America.
+ - With anti-doping controls and gender testing.
+
+**Seventy-six Olympic and thirty world records were broken** at these Olympic Games. The United States was the most successful contingent, winning 107 medals. Gymnasts [Věra Čáslavská (Czechoslovakia)](https://olympics.com/en/athletes/vera-caslavska) and [Mikhail Voronin (Soviet Union)](https://olympics.com/en/athletes/mikhail-voronin) were the most decorated athletes.
+
 <FlatUiTable
   data={{
     url: 'mexico-city_1968.csv'
