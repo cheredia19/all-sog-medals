@@ -195,6 +195,18 @@ The **Soviet Union** was the country that won the most medals, a total of 98, an
 
 ## Rome 1960
 
+The **1960 Rome Olympic Games** were held on Italian soil for the first time. 5,338 athletes (4,727 men and 611 women) from 83 countries participated in the sporting event. These were the first Olympics to be broadcast live on television.
+
+Soviet gymnast legend [Larisa Latynina](https://olympics.com/en/athletes/larisa-latynina) won three golds, two silvers, and a bronze, reaching a tally of 12 at the time. Latynina ended her career with 18 medals, the most decorated woman ever.
+
+Another woman, American athlete [Wilma Rudolph](https://olympics.com/en/athletes/wilma-rudolph), a former polio sufferer, won three gold medals in track sprint competitions.
+
+Rome 1960 brought the first black African Olympic Champion. Ethiopian [Abebe Bikila](https://olympics.com/en/athletes/abebe-bikila) won the men's marathon **barefoot**.
+
+**South Africa** appeared in the Olympic arena for the last time under the [apartheid regime](https://www.britannica.com/topic/apartheid). They would not be allowed to return until 1992, after the abandonment of apartheid and during the transition to a black majority government.
+
+A tragic event happened during the games. Danish cyclist [Knud Enemark Jensen](https://olympics.com/en/athletes/knud-enemark-jensen) collapsed during his race under the influence of amphetamines and later died in hospital.
+
 <FlatUiTable
   data={{
     url: 'rome_1960.csv'
