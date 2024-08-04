@@ -315,6 +315,18 @@ As expected, the Soviet Union led the medal table, followed by East Germany, Bul
 
 ## Los Angeles 1984
 
+The **1984 Olympic Games** in Los Angeles were held from 28 July to 12 August 1984. 6,829 athletes (5,263 men and 1,566 women) from 140 countries took part, competing in 21 sports and 221 disciplines.
+
+Countries that were usually at the top of the medal table, such as the Soviet Union, East Germany, and Bulgaria, were absent from the games, just like the United States and China did, among others, in Moscow four years ago.
+
+American athlete [Carl Lewis](https://olympics.com/en/athletes/carl-lewis) made history by equalling Jesse Owens' success in the Berlin 1936 Olympic Games, winning four gold medals in the same events: the 100 m, 200 m, 4x100m relay, and long jump.
+
+For the first time in the history of the Games, the women's marathon was contested, with the American [Joan Benoit](https://olympics.com/en/athletes/joan-benoit) winning it.
+
+In female Artistic Gimnastic, although the team victory went to Romania,  the queen of the games was [Mary Lou Retton](https://olympics.com/en/athletes/mary-lou-retton), who won individually over Romanians **Ekaterina Szabo** and **Simona Pauca**. Romania won the largest number of Olympic medals in its history at this edition (53, 20 golds).
+
+In men's basketball, the United States, led by youngsters **Michael Jordan** and **Patrick Ewing**, had no trouble winning gold over Spain. Yugoslavia took bronze.
+
 <FlatUiTable
   data={{
     url: 'los_angeles_1984.csv'
