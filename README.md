@@ -379,7 +379,7 @@ The Unified Team led the medal table with 112 medals (45 gold, 38 silver, and 29
 
 ## Atlanta 1996
 
-The 1996 Olympics, also known as the Centennial Olympic Games, were held in Atlanta, United States, from 19 July to 4 August 1996. The games were attended by 10,318 athletes (6,806 men and 3,512 women) from 197 countries, competing in 26 sports and 271 events.
+The **1996 Olympics**, also known as the *Centennial Olympic Games*, were held in Atlanta, United States, from 19 July to 4 August 1996. The games were attended by 10,318 athletes (6,806 men and 3,512 women) from 197 countries, competing in 26 sports and 271 events.
 
 Atlanta became the third American city to host the Summer Olympics, after St. Louis and Los Angeles.
 
