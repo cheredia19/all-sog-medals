@@ -159,6 +159,14 @@ An off-the-sports issue occurred when athlete Gretel Bergmann was excluded from 
   }}
 />
 
+## London 1948
+
+<FlatUiTable
+  data={{
+    url: 'london_1948.csv'
+  }}
+/>
+
 ## Helsinki 1952
 
 Helsinki 1952 was held between July 19 and August 3, 1952, when 4,436 men and 519 women from 69 countries gathered in the Finnish capital.
