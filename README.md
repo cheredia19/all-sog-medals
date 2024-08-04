@@ -215,6 +215,16 @@ A tragic event happened during the games. Danish cyclist [Knud Enemark Jensen](h
 
 ## Tokyo 1964
 
+The **1964 Tokyo Olympic** Games took place for the first time in Asia. Japan's capital hosted the event between October 10 and October 24. 
+
+Tokyo 1964 was the first Olympics broadcast via satellite.
+
+A total of 5,151 athletes (4,473 men and 678 women) from 93 national committees competed in 163 events. Fifteen countries made their debut. Judo, volleyball, and the women's modern pentathlon also debuted. South Africa, Indonesia, and North Korea were excluded from the Games for different reasons.
+
+The United States led the medal tally with 90 medals (36 golds), followed by the Soviet Union. **Abebe Bikila** repeated his marathon victory conquered four years before in Rome. American swimmer [Donald Schollander](https://olympics.com/en/athletes/donald-arthur-schollander) earned four golds. **Larisa Latýnina** cemented her legend status with six medals (gathering 18 in her Olympic career). 
+
+The heavyweight champion was American [Joe Frazier](https://olympics.com/en/athletes/joseph-frazier), who became one of the most famous boxing athletes.
+
 <FlatUiTable
   data={{
     url: 'tokyo_1964.csv'
