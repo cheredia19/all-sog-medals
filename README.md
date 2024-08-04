@@ -437,6 +437,22 @@ In 2007, Jones was found guilty of consuming steroids while in Sydney, so [the I
 
 ## Athens 2004
 
+The **2004 Summer Olympic Games** were held in Athens, Greece, from 13 to 29 August. It marked the return of the Olympics to its *home*.
+
+The sporting event featured 301 events in 28 sports, bringing delegates from 201 countries and over 10 thousand athletes.
+
+Moroccan long-distance athlete [Hicham El Guerrouj](https://olympics.com/en/athletes/hicham-el-guerrouj) won gold in the 1500 m and 5000 m. He is the first to achieve this feat at the Olympic Games since Finnish legend **Paavo Nurmi** in 1924.
+
+German kayaker [Birgit Fischer](https://olympics.com/en/athletes/birgit-fischer) became the first woman in any sport to win gold medals at six different Olympic Games, the first woman to win gold 24 years apart, and the first person in Olympic history to win two or more medals at five different Games.
+
+Argentina's basketball golden generation, led by **Emanuel Ginobili**, earned a surprising victory over the United States in the men's semi-finals tournament and then beat Italy in the final (84-69).
+
+Dominican Athlete [Félix Sánchez](https://olympics.com/en/athletes/felix-sanchez) won the first Olympic gold medal ever for his country, winning the 400 m hurdles.
+
+American swimmer [Michael Phelps](https://olympics.com/en/athletes/michael-phelps-ii) won six golds and two bronzes, becoming the first athlete to win eight medals at any non-boycotted Olympic Games.
+
+Chilean tennis players [Nicolás Massú](https://olympics.com/en/athletes/nicolas-massu) and [Fernando González](https://olympics.com/en/athletes/fernando-gonzalez-2) won the gold medal in the doubles competition, while Massú won the gold and *Feña* the bronze medal in the singles competition. **The doubles medal became the first gold in Chilean Olympic history**.
+
 <FlatUiTable
   data={{
     url: 'athens_2004.csv'
