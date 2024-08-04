@@ -161,6 +161,16 @@ An off-the-sports issue occurred when athlete Gretel Bergmann was excluded from 
 
 ## Helsinki 1952
 
+Helsinki 1952, the first Olympics after World War II, was held between July 19 and August 3, 1952, when 4,436 men and 519 women from 69 countries gathered in the Finnish capital.
+
+Helsinki was supposed to host the 1940 Summer Olympic Games, replacing Tokyo. However, the event couldn't take place due to the development of the war. Years later, Helsinki bid again and was chosen as the 1952 Olympic host by the IOC in 1947.
+
+Until Beijing 2008, the Helsinki Olympic Games were the edition with the most Olympic and world records broken. This edition saw the **debut of the Soviet Union and Israel**, and the **return of Japan and Germany**.
+
+The country that won the most medals was the United States, with 76 medals. The Czechoslovak athlete [Emil Zátopek](https://olympics.com/en/athletes/emil-zatopek) won the gold medal in the 5,000 meters, 10,000 meters, and the marathon. 
+
+Helsinki marked the first medal ever for Venezuela. Athlete [Asnoldo Devonish](https://olympics.com/en/athletes/arnoldo-devonish) won the Bronze medal in the triple jump event.
+
 <FlatUiTable
   data={{
     url: 'helsinki_1952.csv'
