@@ -293,6 +293,20 @@ Cuban athlete [Alberto Juantorena](https://olympics.com/en/athletes/alberto-juan
 
 ## Moscow 1980
 
+The 1980 Moscow Olympics were held in the capital of the former Soviet Union between July 19 and August 3, 1980. Five thousand, one hundred and 79 athletes (4,064 men and 1,115 women) competed in 21 sports and 204 specialties.
+
+The political situation at the time had a significant influence on these games. Socialist and capitalist states were clashing for several decades in the so-called [Cold War](https://www.britannica.com/event/Cold-War).
+
+The United States decided **not to attend the games**. Several of its allies, such as West Germany, Canada, Argentina, Chile, Japan, Turkey, and Norway, joined the boycott.
+
+Other countries allied to the U.S., such as Great Britain and Australia, gave freedom to their athletes, who competed under the Olympic flag.
+
+The People's Republic of China, which is at odds with the Soviet Union, **also did not participate in the Moscow Games**. In total, 66 countries abstained from participating.
+
+However, even though only 80 countries participated, more records were broken than in previous games.
+
+As expected, the Soviet Union led the medal table, followed by East Germany, Bulgaria, and Cuba.
+
 <FlatUiTable
   data={{
     url: 'moscow_1980.csv'
