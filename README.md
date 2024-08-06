@@ -503,6 +503,20 @@ Scottish [Andy Murray](https://olympics.com/en/athletes/andy-murray) made histor
 
 ## Rio 2016
 
+The **2016 Summer Olympics** were held in Rio de Janeiro, Brazil, from 5 to 21 August, with 11,551 athletes from 207 National Olympic Committees competing in 306 events in 28 sports.
+
+Kosovo and South Sudan participated for the first time in the Games. [Rugby seven and golf were added to the Olympic program in 2009, debuting in this edition](https://www.bloomberg.com/news/articles/2009-10-09/golf-rugby-sevens-added-to-olympics-program-for-2016).
+
+A South American country hosted the games for the first time. It was also the first time that an Olympic event was held in a Portuguese-speaking country, the second time in a Latin American country after Mexico 1968), the third time that it took place in the southern hemisphere (previously Melbourne in 1956 and Sydney in 2000), and the seventh time in a country on the American continent.
+
+Brazil became the fourth country to host the World Cup and the Olympic Games two years apart after Mexico (1968, 1970), Germany (1972, 1974), and the United States (1994, 1996).
+
+**Michael Phelps added five golds and a silver** to his impressive medal tally, while Jamaican Usain Bolt did the same with three gold medals in athletics.
+
+Brazil's men's football team finally **won the gold medal**, a trophy that had been elusive for the *Verdeamarelha* in its rich history.
+
+Swimmer [Katie Ledecky](https://olympics.com/en/athletes/katie-ledecky) repeated her London 2012 performance, earning four golds and a silver, while American [Simone Biles](https://olympics.com/en/athletes/simone-biles) won four gold medals and a bronze in artistic gymnastics.
+
 <FlatUiTable
   data={{
     url: 'rio_2016.csv'
