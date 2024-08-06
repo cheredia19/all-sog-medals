@@ -1,6 +1,6 @@
 ---
 title: 'All the medal winners in the history of the Summer Olympic Games'
-description: ''
+description: 'A countdown of the gold, silver, and bronze winners of the 29 Olympiads leading up to Paris 2024'
 ---
 
 *By [César Heredia](https://x.com/cahered), data journalist*
