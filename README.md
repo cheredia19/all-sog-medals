@@ -525,6 +525,18 @@ Swimmer [Katie Ledecky](https://olympics.com/en/athletes/katie-ledecky) repeated
 
 ## Tokyo 2020
 
+The **2020 Tokyo Summer Olympics** were held from July 23 to August 8, **2021**, on Japanese soil.  It was the second time that Tokyo hosted the competition, after 1964.
+
+The event was originally scheduled between 24 July and 9 August 2020. Due to the **COVID-19 pandemic**, Japanese Prime Minister Shinzo Abe and IOC President Thomas Bach agreed to postpone it. That's why the Games took place in 2021.
+
+Russia was banned from the Olympics because of a [massive doping scandal](https://www.nytimes.com/2019/12/09/sports/russia-doping-ban.html) that erupted in 2019. Still, Russian athletes competed under the acronym and flag **ROC** (Russian Olympic Committee).
+
+North Korea announced in April 2021 that it would not participate in the Games due to concerns about the COVID-19 pandemic. It was North Korea's first absence from the Summer Olympics since 1988 (Seoul).
+
+At the 2021 Games, five sports were added to the program: baseball (softball in the women's category), which returned after being excluded after the 2008 Beijing Olympics; karate, after strong demand from its sports federation and the national Olympic committees; surfing; skateboarding; and sport climbing.
+
+
+
 <FlatUiTable
   data={{
     url: 'tokyo_2020.csv'
