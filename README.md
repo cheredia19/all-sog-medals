@@ -477,11 +477,11 @@ Russia's [Yelena Isinbaíeva](https://olympics.com/en/athletes/yelena-isinbaeva)
 
 ## London 2012
 
-The 2012 London Olympic Games were held in London, United Kingdom, from July 27 to August 12. They were the third Olympic Games held in the British capital. A total of 10,568 athletes (5,892 men and 4,676 women) from 204 countries participated.
+The **2012 London Olympic Games** were held in London, United Kingdom, from July 27 to August 12. They were the third Olympic Games held in the British capital. A total of 10,568 athletes (5,892 men and 4,676 women) from 204 countries participated.
 
-Saudi Arabia, Qatar, and Brunei included female athletes in their teams for the first time, making London 2012 the first edition of the Olympic Games in which women from all delegations participated.
+Saudi Arabia, Qatar, and Brunei included female athletes in their teams for the first time, making London 2012 **the first edition of the Olympic Games in which women from all delegations participated**.
 
-Women's boxing was also included for the first time, meaning that women participated in all Olympic sports at these Games.
+Women's boxing was also included for the first time, meaning that **women participated in all Olympic sports at these Games**.
 
 **Michael Phelps**, with his 4 gold and 2 silver medals, became the most Olympic medallist of all time with 22 medals (18 gold).
 
