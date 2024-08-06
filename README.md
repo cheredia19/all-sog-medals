@@ -5,6 +5,12 @@ description: 'A countdown of the gold, silver, and bronze winners of the 29 Olym
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
+Carl Sagan once said that *you have to know the past to understand the present*. And that is what this article aims to do.
+
+Before the Paris 2024 Olympic Games, in which [more than 10,000 athletes currently compete for the glory](https://datahub.io/@cheredia19/paris-2024-osg-athletes), 29 editions have taken place. A lot has happened since the first one, held in 1896 in Greece.
+
+At Datahub we look back at each Olympiad since then, detailing all the medal winners edition by edition. In addition, we recall the context, the curiosities surrounding each game, and the most outstanding performances.
+
 ## Athens 1896
 
 The **Olympic Games of Athens 1896**, considered the first ones of the Contemporary Age, were held in Athens, Greece, between April 6 and 15, 1896. Two hundred and forty-one male athletes from 14 countries competed (there was no female participation) in nine sports.
