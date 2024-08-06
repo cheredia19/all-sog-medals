@@ -161,6 +161,20 @@ An off-the-sports issue occurred when athlete Gretel Bergmann was excluded from 
 
 ## London 1948
 
+The **1948 Summer Olympics** took place in London, Great Britain, from 29 July to 14 August 1948. A total of 4,104 athletes (3,714 men and 390 women) from 59 countries participated.
+
+Those were the first Olympic Games after a twelve-year hiatus, as the 1940 and 1944 editions were suspended due to World War II. 
+
+London was being rebuilt from the war, so no new Olympic infrastructure was built. Instead, existing infrastructure was used and Wembley Stadium was adapted to be the Olympic stadium, with a cinder track for athletics events. The River Thames hosted the rowing and canoeing events. An Olympic village was not built either: the athletes slept in barracks used by the military during the war.
+
+The International Olympic Committee did not allow Germany or Japan to compete due to their role as Axis forces. Although the Soviet Union was invited, it did not want to participate until the 1952 Helsinki Olympic Games. Despite these absences, the record number of participating nations was broken.
+
+The twelve-year break caused many athletes to leave their best years of competition behind. Others even died during the war. For this reason, the number of records was low compared to other editions. 
+
+However, there were outstanding individual performances, including Dutch [Fanny Blankers-Koen](https://olympics.com/en/athletes/fanny-blankers-koen), winner of four athletics events;​ [Alice Marie Coachman](https://olympics.com/en/athletes/alice-marie-coachman), the first African-American woman to win a gold medal; and Finnish gymnast [Veikko Huhtanen](https://olympics.com/en/athletes/veikko-huhtanen), who won five medals (three gold).
+
+The 1948 London Olympics were the first to be broadcast on television.
+
 <FlatUiTable
   data={{
     url: 'london_1948.csv'
