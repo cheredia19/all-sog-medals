@@ -461,6 +461,14 @@ Chilean tennis players [Nicolás Massú](https://olympics.com/en/athletes/nicola
 
 ## Beijing 2008
 
+The **2008 Beijing Olympic Games** took place in the capital of the People's Republic of China from August 8 to 24. The event featured 302 events in 28 sports. In addition to Beijing, other cities in China held sporting events.
+
+More than 11,800 athletes were initially registered, but only 10,902 athletes participated in the Games, excluding injured and disqualified athletes. Of these, 6,294 were men and 4,608 were women.
+
+Jamaican sprinter [Usain Bolt](https://olympics.com/en/athletes/usain-bolt) won the gold medal and world record in the 100 and 200 meters. American swimmer **Michael Phelps added 8 gold medals** to his list of Olympic achievements. He surpassed Mark Spitz regarding the most gold medals won in a single event (Munich 1972).
+
+Russia's [Yelena Isinbaíeva](https://olympics.com/en/athletes/yelena-isinbaeva) won gold and set a world record in the pole vault, while Afghanistan's taekwondo athlete [Rohullah Nikpai](https://olympics.com/en/athletes/rohullah-nikpai) claimed his country's first Olympic medal in the history of the Games.
+
 <FlatUiTable
   data={{
     url: 'beijing_2008.csv'
