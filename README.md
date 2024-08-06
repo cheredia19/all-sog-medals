@@ -477,6 +477,24 @@ Russia's [Yelena Isinbaíeva](https://olympics.com/en/athletes/yelena-isinbaeva)
 
 ## London 2012
 
+The 2012 London Olympic Games were held in London, United Kingdom, from July 27 to August 12. They were the third Olympic Games held in the British capital. A total of 10,568 athletes (5,892 men and 4,676 women) from 204 countries participated.
+
+Saudi Arabia, Qatar, and Brunei included female athletes in their teams for the first time, making London 2012 the first edition of the Olympic Games in which women from all delegations participated.
+
+Women's boxing was also included for the first time, meaning that women participated in all Olympic sports at these Games.
+
+**Michael Phelps**, with his 4 gold and 2 silver medals, became the most Olympic medallist of all time with 22 medals (18 gold).
+
+**Usain Bolt** won three gold medals in the 100 m, 200 m, and 4x100 m relay, repeating his feat from Beijing 2008. In the women's category, American athlete [Allyson Felix](https://olympics.com/en/athletes/allyson-felix) won three gold medals.
+
+Meanwhile, American swimmers [Missy Franklin](https://olympics.com/en/athletes/missy-franklin), [Allison Schmitt](https://olympics.com/en/athletes/allison-schmitt), and [Dana Vollmer](https://olympics.com/en/athletes/dana-vollmer) shone at the Games, obtaining:
+
+- Franklin: four gold medals and one bronze.
+- Schmitt: three gold medals, one silver and one bronze.
+- Vollmer: three gold medals.
+
+Scottish [Andy Murray](https://olympics.com/en/athletes/andy-murray) made history by winning gold for Great Britain in men's tennis and a silver medal, together with [Laura Robson](https://olympics.com/en/athletes/laura-robson), in mixed doubles.
+
 <FlatUiTable
   data={{
     url: 'london_2012.csv'
