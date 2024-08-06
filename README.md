@@ -535,7 +535,17 @@ North Korea announced in April 2021 that it would not participate in the Games d
 
 At the 2021 Games, five sports were added to the program: baseball (softball in the women's category), which returned after being excluded after the 2008 Beijing Olympics; karate, after strong demand from its sports federation and the national Olympic committees; surfing; skateboarding; and sport climbing.
 
+Among the most outstanding athletes was American swimmer [Caeleb Dressel](https://olympics.com/en/athletes/caeleb-dressel), who was crowned five times as Olympic champion.
 
+Jamaican [Elaine Thompson-Herah](https://olympics.com/en/athletes/elaine-thompson), won the 100 m flat event. She also broke the Olympic record that had been in place for 33 years, with a time of 10.61 seconds. 
+
+Thompson-Herah had two other gold medals, in the 200 m and the 4x100 relay.
+
+Tunisian swimmer Ahmed Hafnaoui reached the Olympic gold in the 400 m freestyle despite having qualified in last place. He became the second Tunisian medalist in swimming.
+
+14-year-old Chinese [Quan Hongchan](https://olympics.com/en/athletes/hongchan-quan) achieved two perfect scores (10) in the 10 m platform diving discipline.
+
+Athlete [Yulimar Rojas](https://olympics.com/en/athletes/yulimar-rojas) won gold in the triple jump event and broke the world record that had been in place for 26 years held by Inessa Kravetz. The Venezuelan did it with a distance of 15.67 meters. She had won silver in the same discipline in Rio 2016.
 
 <FlatUiTable
   data={{
