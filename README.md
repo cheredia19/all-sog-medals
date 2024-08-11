@@ -383,7 +383,7 @@ The *last dance* between the United States and the Soviet Union favored the latt
 
 ## Barcelona 1992
 
-The **1992 Summer Olympics** took place in Barcelona, ​​Spain, between July 25 and August 9. Over nine thousand athletes (6,652 men and 2,704 women) from 169 national committees participated in this edition.
+The **1992 Summer Olympics** took place in Barcelona, ​​Spain, between July 25 and August 9. Over nine thousand athletes (6,663 men and 2,723 women) from 169 national committees participated in this edition.
 
 Barcelona 1992 was the second Olympic Games ever held in a Spanish-speaking country after Mexico 1968, 26 years before.
 
