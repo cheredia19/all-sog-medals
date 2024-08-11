@@ -189,7 +189,7 @@ The 1948 London Olympics were the first to be broadcast on television.
 
 ## Helsinki 1952
 
-Helsinki 1952 was held between July 19 and August 3, 1952, when 4,436 men and 519 women from 69 countries gathered in the Finnish capital.
+Helsinki 1952 was held between July 19 and August 3, 1952, when 4,411 men and 521 women from 69 countries gathered in the Finnish capital.
 
 Helsinki was supposed to host the 1940 Summer Olympic Games, replacing Tokyo. However, the event couldn't take place due to the development of the World War II. Years later, Helsinki bid again and was chosen as the 1952 Olympic host by the IOC in 1947.
 
