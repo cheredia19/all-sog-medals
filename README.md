@@ -207,7 +207,7 @@ Helsinki marked the first medal ever for Venezuela. Athlete [Asnoldo Devonish](h
 
 ## Melbourne 1956
 
-The **Games of the XVI Olympiad** took place in a Southern Hemisphere country for the first time from November 22 to December 8, 1956. Three thousand, three hundred and 76 athletes (2,938 men and 376 women) from 72 countries participated.
+The **Games of the XVI Olympiad** took place in a Southern Hemisphere country for the first time from November 22 to December 8, 1956. Three thousand, three hundred and 14 athletes (2,938 men and 376 women) from 72 countries participated.
 
 The equestrian trials were held six months earlier in Stockholm, Sweden, between June 11 and 17 due to Australian quarantine laws. Thus, the 1956 Melbourne Olympic Games were the first (and to date only) with events on different continents. 
 
