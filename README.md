@@ -483,7 +483,7 @@ Chilean tennis players [Nicolás Massú](https://olympics.com/en/athletes/nicola
 
 The **2008 Beijing Olympic Games** took place in the capital of the People's Republic of China from August 8 to 24. The event featured 302 events in 28 sports. In addition to Beijing, other cities in China held sporting events.
 
-More than 11,800 athletes were initially registered, but only 10,902 athletes participated in the Games, excluding injured and disqualified athletes. Of these, 6,294 were men and 4,608 were women.
+10,942 athletes participated in the Games. Of these, 6,305 were men and 4,637 were women.
 
 Jamaican sprinter [Usain Bolt](https://olympics.com/en/athletes/usain-bolt) won the gold medal and world record in the 100 and 200 meters. American swimmer **Michael Phelps added 8 gold medals** to his list of Olympic achievements. He surpassed Mark Spitz regarding the most gold medals won in a single event (Munich 1972).
 
