@@ -523,7 +523,7 @@ Scottish [Andy Murray](https://olympics.com/en/athletes/andy-murray) made histor
 
 ## Rio 2016
 
-The **2016 Summer Olympics** were held in Rio de Janeiro, Brazil, from 5 to 21 August, with 11,551 athletes from 207 National Olympic Committees competing in 306 events in 28 sports.
+The **2016 Summer Olympics** were held in Rio de Janeiro, Brazil, from 5 to 21 August, with 11,328 athletes from 207 National Olympic Committees competing in 306 events in 28 sports.
 
 Kosovo and South Sudan participated for the first time in the Games. [Rugby seven and golf were added to the Olympic program in 2009, debuting in this edition](https://www.bloomberg.com/news/articles/2009-10-09/golf-rugby-sevens-added-to-olympics-program-for-2016).
 
